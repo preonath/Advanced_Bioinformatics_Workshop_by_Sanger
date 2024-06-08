@@ -1,0 +1,29 @@
+Assembly	ERR3227777_contigs
+# contigs (>= 0 bp)	113
+# contigs (>= 1000 bp)	40
+# contigs (>= 5000 bp)	30
+# contigs (>= 10000 bp)	27
+# contigs (>= 25000 bp)	21
+# contigs (>= 50000 bp)	15
+Total length (>= 0 bp)	2147599
+Total length (>= 1000 bp)	2133666
+Total length (>= 5000 bp)	2109077
+Total length (>= 10000 bp)	2086051
+Total length (>= 25000 bp)	1983808
+Total length (>= 50000 bp)	1772385
+# contigs	44
+Largest contig	254172
+Total length	2136103
+GC (%)	39.40
+N50	127011
+N75	65573
+L50	6
+L75	13
+# total reads	2313559
+# left	1154832
+# right	1154832
+Mapped (%)	99.79
+Properly paired (%)	97.61
+Avg. coverage depth	162
+Coverage >= 1x (%)	100.0
+# N's per 100 kbp	0.00

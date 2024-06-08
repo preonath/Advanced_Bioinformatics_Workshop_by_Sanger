@@ -1,0 +1,9 @@
+- "left reads":
+  - "/data/ERR2090274_spades_assembly/corrected/ERR2090274_1.trimmed.fastq.00.0_0.cor.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/data/ERR2090274_spades_assembly/corrected/ERR2090274_2.trimmed.fastq.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/data/ERR2090274_spades_assembly/corrected/ERR2090274__unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"

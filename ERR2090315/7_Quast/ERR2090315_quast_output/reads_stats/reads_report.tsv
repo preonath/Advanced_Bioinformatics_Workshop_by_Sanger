@@ -1,0 +1,16 @@
+Assembly	ERR2090315_contigs
+# total reads	4133079
+# left	2065302
+# right	2065302
+# mapped	4114344
+Mapped (%)	99.55
+# properly paired	4029318
+Properly paired (%)	97.49
+# singletons	7971
+Singletons (%)	0.19
+# misjoint mates	69986
+Misjoint mates (%)	1.69
+Avg. coverage depth	248
+Coverage >= 1x (%)	100.0
+Coverage >= 5x (%)	100.0
+Coverage >= 10x (%)	100.0

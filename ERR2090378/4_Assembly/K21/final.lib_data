@@ -1,0 +1,39 @@
+ô
+---
+max read length: 125
+nomerge max read length: 125
+average read length: 119.4
+average coverage: 144.09
+libraries:
+  - type:            paired-end
+    number:          1
+    orientation:     fr
+    left reads:
+      - '/data/ERR2090378_spades_assembly/corrected/ERR2090378_1.trimmed.fastq.00.0_0.cor.fastq.gz'
+    right reads:
+      - '/data/ERR2090378_spades_assembly/corrected/ERR2090378_2.trimmed.fastq.00.0_0.cor.fastq.gz'
+    single reads:
+      - '/data/ERR2090378_spades_assembly/corrected/ERR2090378__unpaired.00.0_0.cor.fastq.gz'
+    data:
+      unmerged read length: 125
+      merged read length: 0
+      insert size mean: 0
+      insert size deviation: 0
+      insert size left quantile: 0
+      insert size right quantile: 0
+      insert size median: 0
+      insert size mad: 0
+      insert size distribution: {  }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/data/ERR2090378_spades_assembly/.bin_reads/INFO_0'
+        paired read prefix: '/data/ERR2090378_spades_assembly/.bin_reads/paired_0'
+        merged read prefix: '/data/ERR2090378_spades_assembly/.bin_reads/merged_0'
+        single read prefix: '/data/ERR2090378_spades_assembly/.bin_reads/single_0'
+        chunk num:       8
+      single reads mapped: false
+      library index:   0
+      number of reads: 2948017
+      total nucleotides: 351992726
+...

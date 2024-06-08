@@ -1,0 +1,2 @@
+Sample	ST	aroE	gdh	gki	recP	spi	xpt	ddl	mismatches	uncertainty	depth	maxMAF
+ERR3227778	63	2	5	36	12	17	21	14	0	-	73.5651428571	0.0545454545455

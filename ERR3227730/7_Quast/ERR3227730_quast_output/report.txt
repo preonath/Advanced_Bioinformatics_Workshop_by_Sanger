@@ -1,0 +1,31 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    ERR3227730_contigs
+# contigs (>= 0 bp)         148               
+# contigs (>= 1000 bp)      41                
+# contigs (>= 5000 bp)      32                
+# contigs (>= 10000 bp)     29                
+# contigs (>= 25000 bp)     21                
+# contigs (>= 50000 bp)     15                
+Total length (>= 0 bp)      2149815           
+Total length (>= 1000 bp)   2130113           
+Total length (>= 5000 bp)   2107727           
+Total length (>= 10000 bp)  2084701           
+Total length (>= 25000 bp)  1941024           
+Total length (>= 50000 bp)  1723269           
+# contigs                   45                
+Largest contig              247883            
+Total length                2132764           
+GC (%)                      39.39             
+N50                         102975            
+N75                         64212             
+L50                         7                 
+L75                         13                
+# total reads               1836118           
+# left                      916044            
+# right                     916044            
+Mapped (%)                  99.71             
+Properly paired (%)         97.21             
+Avg. coverage depth         128               
+Coverage >= 1x (%)          100.0             
+# N's per 100 kbp           0.00              

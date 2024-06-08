@@ -1,0 +1,16 @@
+Assembly	ERR1756432_contigs
+# total reads	5288907
+# left	2639969
+# right	2637556
+# mapped	5267522
+Mapped (%)	99.6
+# properly paired	5067534
+Properly paired (%)	95.81
+# singletons	2136
+Singletons (%)	0.04
+# misjoint mates	169632
+Misjoint mates (%)	3.21
+Avg. coverage depth	316
+Coverage >= 1x (%)	100.0
+Coverage >= 5x (%)	100.0
+Coverage >= 10x (%)	100.0

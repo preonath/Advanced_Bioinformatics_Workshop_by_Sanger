@@ -1,0 +1,61 @@
+ERR1756432
+ERR1756432_output_seroba        14      contamination
+
+ERR1756464
+ERR1756464_output_seroba        14      contamination
+
+ERR2090120
+ERR2090120_output_seroba        6E(6B)
+
+ERR2090182
+ERR2090182_output_seroba        23F
+
+ERR2090184
+ERR2090184_output_seroba        07B
+
+ERR2090220
+ERR2090220_output_seroba        23F
+
+ERR2090242
+ERR2090242_output_seroba        23F
+
+ERR2090250
+ERR2090250_output_seroba        23F
+
+ERR2090255
+ERR2090255_output_seroba        6E(6B)
+
+ERR2090264
+ERR2090264_output_seroba        19F
+
+ERR2090274
+ERR2090274_output_seroba        10A
+
+ERR2090283
+ERR2090283_output_seroba        36      contamination
+
+ERR2090315
+ERR2090315_output_seroba        36      contamination
+
+ERR2090378
+ERR2090378_output_seroba        14      contamination
+
+ERR3227730
+ERR3227730_output_seroba        23F
+
+ERR3227761
+ERR3227761_output_seroba        14
+
+ERR3227777
+ERR3227777_output_seroba        23F
+
+ERR3227778
+ERR3227778_output_seroba        14
+
+ERR3227796
+ERR3227796_output_seroba        19F
+
+ERR3227798
+ERR3227798_output_seroba        serogroup 24
+
+

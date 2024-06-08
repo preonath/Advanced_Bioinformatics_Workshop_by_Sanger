@@ -1,0 +1,12 @@
+02/18/2023 02:36:40 program started
+02/18/2023 02:36:40 command line: /usr/local/bin/srst2 --input_pe ERR1756432_1.fastq.gz ERR1756432_2.fastq.gz --output ERR1756432_mlst --log --mlst_db Streptococcus_pneumoniae.fasta --mlst_definitions profiles_csv --mlst_delimiter _ --threads 8
+02/18/2023 02:36:40 Total paired readsets found:1
+02/18/2023 02:36:40 Building bowtie2 index for Streptococcus_pneumoniae.fasta...
+02/18/2023 02:36:40 Running: bowtie2-build Streptococcus_pneumoniae.fasta Streptococcus_pneumoniae.fasta
+02/18/2023 02:36:48 Processing database Streptococcus_pneumoniae.fasta
+02/18/2023 02:36:48 Running: samtools faidx Streptococcus_pneumoniae.fasta
+02/18/2023 02:36:51 Processing sample ERR1756432
+02/18/2023 02:36:51 Starting mapping with bowtie2
+02/18/2023 02:36:51 Output prefix set to: ERR1756432_mlst__ERR1756432.Streptococcus_pneumoniae
+02/18/2023 02:36:51 Aligning reads to index Streptococcus_pneumoniae.fasta using bowtie2...
+02/18/2023 02:36:51 Running: bowtie2 -1 ERR1756432_1.fastq.gz -2 ERR1756432_2.fastq.gz -S ERR1756432_mlst__ERR1756432.Streptococcus_pneumoniae.sam -q --very-sensitive-local --no-unal -a -x Streptococcus_pneumoniae.fasta --threads 8

@@ -1,0 +1,18 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly             ERR2090250_contigs
+# total reads        3183105           
+# left               1587510           
+# right              1587510           
+# mapped             3176463           
+Mapped (%)           99.79             
+# properly paired    3080016           
+Properly paired (%)  96.76             
+# singletons         4216              
+Singletons (%)       0.13              
+# misjoint mates     75032             
+Misjoint mates (%)   2.36              
+Avg. coverage depth  186               
+Coverage >= 1x (%)   100.0             
+Coverage >= 5x (%)   100.0             
+Coverage >= 10x (%)  100.0             

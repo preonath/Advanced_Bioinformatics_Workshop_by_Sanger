@@ -1,0 +1,9 @@
+- "left reads":
+  - "/data/ERR2090315_spades_assembly/corrected/ERR2090315_1.trimmed.fastq.00.0_0.cor.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/data/ERR2090315_spades_assembly/corrected/ERR2090315_2.trimmed.fastq.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/data/ERR2090315_spades_assembly/corrected/ERR2090315__unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"

@@ -1,0 +1,29 @@
+Assembly	ERR2090315_contigs
+# contigs (>= 0 bp)	217
+# contigs (>= 1000 bp)	44
+# contigs (>= 5000 bp)	39
+# contigs (>= 10000 bp)	35
+# contigs (>= 25000 bp)	26
+# contigs (>= 50000 bp)	15
+Total length (>= 0 bp)	2080853
+Total length (>= 1000 bp)	2056865
+Total length (>= 5000 bp)	2045155
+Total length (>= 10000 bp)	2018820
+Total length (>= 25000 bp)	1892731
+Total length (>= 50000 bp)	1533183
+# contigs	52
+Largest contig	274134
+Total length	2062461
+GC (%)	39.55
+N50	91077
+N75	45706
+L50	8
+L75	16
+# total reads	4133079
+# left	2065302
+# right	2065302
+Mapped (%)	99.55
+Properly paired (%)	97.49
+Avg. coverage depth	248
+Coverage >= 1x (%)	100.0
+# N's per 100 kbp	0.00

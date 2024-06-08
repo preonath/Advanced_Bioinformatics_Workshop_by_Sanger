@@ -1,0 +1,4 @@
+Predicted Serotype:	07B
+Serotype predicted by ariba	:07B
+assembly from ariba as an identiy of: 	99.99	 with this serotype
+Serotype 	 Genetic Variant

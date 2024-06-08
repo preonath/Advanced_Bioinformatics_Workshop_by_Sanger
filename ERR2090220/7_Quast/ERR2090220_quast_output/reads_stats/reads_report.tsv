@@ -1,0 +1,16 @@
+Assembly	ERR2090220_contigs
+# total reads	3297026
+# left	1644280
+# right	1644280
+# mapped	3288942
+Mapped (%)	99.75
+# properly paired	3200038
+Properly paired (%)	97.06
+# singletons	4476
+Singletons (%)	0.14
+# misjoint mates	68282
+Misjoint mates (%)	2.07
+Avg. coverage depth	193
+Coverage >= 1x (%)	100.0
+Coverage >= 5x (%)	100.0
+Coverage >= 10x (%)	100.0

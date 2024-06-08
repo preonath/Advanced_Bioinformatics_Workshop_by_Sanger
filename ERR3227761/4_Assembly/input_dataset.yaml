@@ -1,0 +1,7 @@
+- "left reads":
+  - "/data/ERR3227761_1.trimmed.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/data/ERR3227761_2.trimmed.fastq.gz"
+  "type": "paired-end"

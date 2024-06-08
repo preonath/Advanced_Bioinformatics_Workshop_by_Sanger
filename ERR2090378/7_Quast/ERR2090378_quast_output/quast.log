@@ -1,0 +1,106 @@
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/EGG-INFO/scripts/quast.py ERR2090378_contigs.fasta -g PROKKA_02182023.gff -1 ERR2090378_1.fastq.gz -2 ERR2090378_2.fastq.gz -o ERR2090378_quast_output
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.15.0-60-generic-x86_64-with-Ubuntu-16.04-xenial (linux_64)
+  Python version: 2.7.12
+  CPUs number: 16
+
+Started: 2023-02-18 02:14:30
+
+Logging to /data/ERR2090378_quast_output/quast.log
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+CWD: /data
+Main parameters: 
+  MODE: default, threads: 4, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+WARNING: Can't draw plots: python-matplotlib is missing or corrupted.
+
+Contigs:
+  Pre-processing...
+  ERR2090378_contigs.fasta ==> ERR2090378_contigs
+
+2023-02-18 02:14:31
+Running Reads analyzer...
+NOTICE: Permission denied accessing /usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/gridss. GRIDSS will be downloaded to home directory /.quast
+WARNING: Permission denied accessing home directory /.quast. GRIDSS cannot be downloaded.
+
+NOTICE: Improper read names in /data/ERR2090378_1.fastq.gz (forward reads)! Names should end with /1 (for forward reads) or /2 (for reverse reads) but @ERR2090378.1 was found!
+QUAST will attempt to fix read names.
+
+NOTICE: Improper read names in /data/ERR2090378_2.fastq.gz (reverse reads)! Names should end with /1 (for forward reads) or /2 (for reverse reads) but @ERR2090378.1 was found!
+QUAST will attempt to fix read names.
+  Logging to files /data/ERR2090378_quast_output/reads_stats/reads_stats.log and /data/ERR2090378_quast_output/reads_stats/reads_stats.err...
+  Pre-processing reads...
+  Running BWA...
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/bwa/bwa index \
+-p /data/ERR2090378_quast_output/quast_corrected_input/ERR2090378_contigs.fasta /data/ERR2090378_quast_output/quast_corrected_input/ERR2090378_contigs.fasta \
+>> /data/ERR2090378_quast_output/reads_stats/reads_stats.err 2>> /data/ERR2090378_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/bwa/bwa mem \
+-t 2 /data/ERR2090378_quast_output/quast_corrected_input/ERR2090378_contigs.fasta \
+/data/ERR2090378_1.fastq.gz /data/ERR2090378_2.fastq.gz > ERR2090378_contigs.pe1.sam \
+2>> /data/ERR2090378_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam ERR2090378_contigs.pe1.sam > ERR2090378_contigs.pe1.bam 2>> \
+/data/ERR2090378_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/sambamba/sambamba_linux \
+markdup -r -t 2 --tmpdir /data/ERR2090378_quast_output/reads_stats ERR2090378_contigs.pe1.bam \
+ERR2090378_contigs.pe1.dedup.bam 2>> /data/ERR2090378_quast_output/reads_stats/reads_stats.err
+  Done.
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/sambamba/sambamba_linux \
+view -H -S ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.sam \
+> ERR2090378_quast_output/reads_stats/ERR2090378_contigs.sam.header 2>> ERR2090378_quast_output/reads_stats/reads_stats.err
+  Sorting SAM-file...
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.all.correct.sam \
+> ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.bam 2>> ERR2090378_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/sambamba/sambamba_linux \
+flagstat -t 2 ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.bam \
+> ERR2090378_quast_output/reads_stats/ERR2090378_contigs.stat 2>> ERR2090378_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/bedtools/bin/bamToBed \
+-i ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.bam > ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.bed \
+2>> ERR2090378_quast_output/reads_stats/reads_stats.err
+sort -k1,1 -k2,2n ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.bed \
+> ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.sorted.bed 2>> \
+ERR2090378_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/bedtools/bin/bedtools \
+genomecov -i ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.sorted.bed \
+-g ERR2090378_quast_output/quast_corrected_input/ERR2090378_contigs.fasta.fai > ERR2090378_quast_output/reads_stats/temp_output/ERR2090378_contigs.genomecov \
+2>> ERR2090378_quast_output/reads_stats/reads_stats.err
+  Analysis is finished.
+  Creating total report...
+    saved to /data/ERR2090378_quast_output/reads_stats/reads_report.txt, reads_report.tsv, and reads_report.tex
+Done.
+
+2023-02-18 02:17:52
+Running Basic statistics processor...
+  Contig files: 
+    ERR2090378_contigs
+  Calculating N50 and L50...
+    ERR2090378_contigs, N50 = 93589, L50 = 8, Total length = 2038274, GC % = 39.56, # N's per 100 kbp =  0.00
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-02-18 02:17:52
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 1: Creating Icarus viewers...
+Done
+
+2023-02-18 02:17:52
+RESULTS:
+  Text versions of total report are saved to /data/ERR2090378_quast_output/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /data/ERR2090378_quast_output/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /data/ERR2090378_quast_output/report.html
+  Icarus (contig browser) is saved to /data/ERR2090378_quast_output/icarus.html
+  Log is saved to /data/ERR2090378_quast_output/quast.log
+
+Finished: 2023-02-18 02:17:52
+Elapsed time: 0:03:21.635137
+NOTICEs: 5; WARNINGs: 2; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

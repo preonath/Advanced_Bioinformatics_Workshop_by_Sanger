@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+ERR2090264_contigs.fasta	NODE_7_length_87894_cov_114.085691	54765	55982	+	mef(A)	1-1218/1218	===============	0/0	100.00	100.00	ncbi	NG_047958.1	macrolide efflux MFS transporter Mef(A)	MACROLIDE
+ERR2090264_contigs.fasta	NODE_7_length_87894_cov_114.085691	56102	57565	+	msr(D)	1-1464/1464	===============	0/0	100.00	100.00	ncbi	NG_048006.1	ABC-F type ribosomal protection protein Msr(D)	MACROLIDE
+ERR2090264_contigs.fasta	NODE_7_length_87894_cov_114.085691	59291	61210	-	tet(M)	1-1920/1920	===============	0/0	100.00	100.00	ncbi	NG_048217.1	tetracycline resistance ribosomal protection protein Tet(M)	TETRACYCLINE

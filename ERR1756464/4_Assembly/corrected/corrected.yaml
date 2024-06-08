@@ -1,0 +1,9 @@
+- "left reads":
+  - "/data/ERR1756464_spades_assembly/corrected/ERR1756464_1.trimmed.fastq.00.0_0.cor.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/data/ERR1756464_spades_assembly/corrected/ERR1756464_2.trimmed.fastq.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/data/ERR1756464_spades_assembly/corrected/ERR1756464__unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"

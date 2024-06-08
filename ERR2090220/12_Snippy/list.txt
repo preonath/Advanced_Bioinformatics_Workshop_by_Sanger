@@ -1,0 +1,2 @@
+#name	R1	R2
+ERR2090220	ERR2090220_1.fastq.gz	ERR2090220_2.fastq.gz

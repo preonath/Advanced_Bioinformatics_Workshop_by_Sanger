@@ -1,0 +1,4 @@
+Predicted Serotype:	10A
+Serotype predicted by ariba	:10A
+assembly from ariba as an identiy of: 	99.98	 with this serotype
+Serotype 	 Genetic Variant

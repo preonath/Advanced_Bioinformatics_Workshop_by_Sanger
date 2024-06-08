@@ -1,0 +1,11 @@
+DateTime	2023-02-18T06:21:48
+ReadFiles	/data/ERR2090220_1.fastq.gz /data/ERR2090220_2.fastq.gz
+Reference	/data/Reference_sequence_GPSC46.fa
+ReferenceSize	2071131
+Software	snippy 4.6.0
+Variant-COMPLEX	2350
+Variant-DEL	113
+Variant-INS	146
+Variant-MNP	260
+Variant-SNP	12283
+VariantTotal	15152

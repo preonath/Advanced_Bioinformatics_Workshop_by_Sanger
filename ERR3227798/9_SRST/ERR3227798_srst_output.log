@@ -1,0 +1,21 @@
+02/18/2023 02:29:14 program started
+02/18/2023 02:29:14 command line: /usr/local/bin/srst2 --input_pe ERR3227798_1.fastq.gz ERR3227798_2.fastq.gz --output ERR3227798_srst_output --log --gene_db GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:29:14 Total paired readsets found:1
+02/18/2023 02:29:14 Building bowtie2 index for GBS-SBG/GBS-SBG.fasta...
+02/18/2023 02:29:14 Running: bowtie2-build GBS-SBG/GBS-SBG.fasta GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:29:15 Processing database GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:29:15 Running: samtools faidx GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:29:15 Processing sample ERR3227798
+02/18/2023 02:29:15 Starting mapping with bowtie2
+02/18/2023 02:29:15 Output prefix set to: ERR3227798_srst_output__ERR3227798.GBS-SBG
+02/18/2023 02:29:15 Aligning reads to index GBS-SBG/GBS-SBG.fasta using bowtie2...
+02/18/2023 02:29:15 Running: bowtie2 -1 ERR3227798_1.fastq.gz -2 ERR3227798_2.fastq.gz -S ERR3227798_srst_output__ERR3227798.GBS-SBG.sam -q --very-sensitive-local --no-unal -a -x GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:30:05 Processing Bowtie2 output with SAMtools...
+02/18/2023 02:30:05 Generate and sort BAM file...
+02/18/2023 02:30:05 Running: samtools view -b -o ERR3227798_srst_output__ERR3227798.GBS-SBG.unsorted.bam -q 1 -S ERR3227798_srst_output__ERR3227798.GBS-SBG.sam.mod
+02/18/2023 02:30:05 {'message': "Command 'samtools view -b -o ERR3227798_srst_output__ERR3227798.GBS-SBG.unsorted.bam -q 1 -S ERR3227798_srst_output__ERR3227798.GBS-SBG.sam.mod' failed with non-zero exit status: 1"}
+02/18/2023 02:30:05  failed gene detection
+02/18/2023 02:30:05 Tabulating results for database GBS-SBG/GBS-SBG.fasta ...
+02/18/2023 02:30:05 Finished processing for database GBS-SBG/GBS-SBG.fasta ...
+02/18/2023 02:30:05 Gene detection output printed to ERR3227798_srst_output__genes__GBS-SBG__results.txt
+02/18/2023 02:30:05 SRST2 has finished.

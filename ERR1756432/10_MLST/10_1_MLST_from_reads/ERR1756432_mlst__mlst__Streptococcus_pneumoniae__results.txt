@@ -1,0 +1,1 @@
+Sample	ST	aroE	gdh	gki	recP	spi	xpt	ddl	mismatches	uncertainty	depth	maxMAF

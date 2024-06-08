@@ -1,0 +1,5 @@
+Predicted Serotype:	23F
+Serotype predicted by ariba	:23F
+assembly from ariba as an identiy of: 	99.74	 with this serotype
+Serotype 	 Genetic Variant
+23F	allele	wchA

@@ -1,0 +1,29 @@
+Assembly	ERR2090184_contigs
+# contigs (>= 0 bp)	230
+# contigs (>= 1000 bp)	44
+# contigs (>= 5000 bp)	40
+# contigs (>= 10000 bp)	36
+# contigs (>= 25000 bp)	25
+# contigs (>= 50000 bp)	18
+Total length (>= 0 bp)	2091421
+Total length (>= 1000 bp)	2066115
+Total length (>= 5000 bp)	2055302
+Total length (>= 10000 bp)	2029966
+Total length (>= 25000 bp)	1830146
+Total length (>= 50000 bp)	1554834
+# contigs	50
+Largest contig	230065
+Total length	2069847
+GC (%)	39.46
+N50	78052
+N75	50289
+L50	10
+L75	18
+# total reads	3334314
+# left	1666308
+# right	1666308
+Mapped (%)	99.53
+Properly paired (%)	97.53
+Avg. coverage depth	199
+Coverage >= 1x (%)	100.0
+# N's per 100 kbp	0.00

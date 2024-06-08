@@ -1,0 +1,16 @@
+Assembly	ERR3227761_contigs
+# total reads	1822620
+# left	910385
+# right	910385
+# mapped	1816688
+Mapped (%)	99.67
+# properly paired	1769956
+Properly paired (%)	97.11
+# singletons	4516
+Singletons (%)	0.25
+# misjoint mates	33470
+Misjoint mates (%)	1.84
+Avg. coverage depth	134
+Coverage >= 1x (%)	100.0
+Coverage >= 5x (%)	100.0
+Coverage >= 10x (%)	100.0

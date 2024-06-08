@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+ERR2090184_contigs.fasta	NODE_8_length_79898_cov_92.232256	35198	35935	-	erm(B)	1-738/738	===============	0/0	100.00	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	MACROLIDE
+ERR2090184_contigs.fasta	NODE_8_length_79898_cov_92.232256	37042	38961	-	tet(M)	1-1920/1920	===============	0/0	100.00	99.74	ncbi	NG_048253.1	tetracycline resistance ribosomal protection protein Tet(M)	TETRACYCLINE

@@ -1,0 +1,88 @@
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/EGG-INFO/scripts/quast.py ERR1756432_contigs.fasta -g PROKKA_02182023.gff -1 ERR1756432_1.fastq.gz -2 ERR1756432_2.fastq.gz -o ERR1756432_quast_output
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.15.0-60-generic-x86_64-with-Ubuntu-16.04-xenial (linux_64)
+  Python version: 2.7.12
+  CPUs number: 16
+
+Started: 2023-02-18 01:22:57
+
+Logging to /data/ERR1756432_quast_output/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+CWD: /data
+Main parameters: 
+  MODE: default, threads: 4, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+WARNING: Can't draw plots: python-matplotlib is missing or corrupted.
+
+Contigs:
+  Pre-processing...
+  ERR1756432_contigs.fasta ==> ERR1756432_contigs
+
+2023-02-18 01:22:57
+Running Reads analyzer...
+NOTICE: Permission denied accessing /usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/gridss. GRIDSS will be downloaded to home directory /.quast
+WARNING: Permission denied accessing home directory /.quast. GRIDSS cannot be downloaded.
+
+NOTICE: Improper read names in /data/ERR1756432_1.fastq.gz (forward reads)! Names should end with /1 (for forward reads) or /2 (for reverse reads) but @ERR1756432.1 was found!
+QUAST will attempt to fix read names.
+Using existing FASTQ file /data/ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_1.fastq
+
+NOTICE: Improper read names in /data/ERR1756432_2.fastq.gz (reverse reads)! Names should end with /1 (for forward reads) or /2 (for reverse reads) but @ERR1756432.1 was found!
+QUAST will attempt to fix read names.
+Using existing FASTQ file /data/ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_2.fastq
+  Logging to files /data/ERR1756432_quast_output/reads_stats/reads_stats.log and /data/ERR1756432_quast_output/reads_stats/reads_stats.err...
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/sambamba/sambamba_linux \
+view -H -S ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_contigs.sam \
+> ERR1756432_quast_output/reads_stats/ERR1756432_contigs.sam.header 2>> ERR1756432_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/sambamba/sambamba_linux \
+flagstat -t 2 ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_contigs.bam \
+> ERR1756432_quast_output/reads_stats/ERR1756432_contigs.stat 2>> ERR1756432_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/bedtools/bin/bamToBed \
+-i ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_contigs.bam > ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_contigs.bed \
+2>> ERR1756432_quast_output/reads_stats/reads_stats.err
+sort -k1,1 -k2,2n ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_contigs.bed \
+> ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_contigs.sorted.bed 2>> \
+ERR1756432_quast_output/reads_stats/reads_stats.err
+/usr/local/lib/python2.7/dist-packages/quast-5.0.2-py2.7.egg/quast_libs/bedtools/bin/bedtools \
+genomecov -i ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_contigs.sorted.bed \
+-g ERR1756432_quast_output/quast_corrected_input/ERR1756432_contigs.fasta.fai > ERR1756432_quast_output/reads_stats/temp_output/ERR1756432_contigs.genomecov \
+2>> ERR1756432_quast_output/reads_stats/reads_stats.err
+  Creating total report...
+    saved to /data/ERR1756432_quast_output/reads_stats/reads_report.txt, reads_report.tsv, and reads_report.tex
+Done.
+
+2023-02-18 01:23:26
+Running Basic statistics processor...
+  Contig files: 
+    ERR1756432_contigs
+  Calculating N50 and L50...
+    ERR1756432_contigs, N50 = 57148, L50 = 13, Total length = 2069428, GC % = 39.62, # N's per 100 kbp =  0.00
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-02-18 01:23:27
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 1: Creating Icarus viewers...
+Done
+
+2023-02-18 01:23:27
+RESULTS:
+  Text versions of total report are saved to /data/ERR1756432_quast_output/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /data/ERR1756432_quast_output/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /data/ERR1756432_quast_output/report.html
+  Icarus (contig browser) is saved to /data/ERR1756432_quast_output/icarus.html
+  Log is saved to /data/ERR1756432_quast_output/quast.log
+
+Finished: 2023-02-18 01:23:27
+Elapsed time: 0:00:29.653603
+NOTICEs: 6; WARNINGs: 2; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

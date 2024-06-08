@@ -1,0 +1,2033 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FAOCAIIH_00001	CDS	1608	dexB	3.2.1.70	COG0366	Glucan 1,6-alpha-glucosidase
+FAOCAIIH_00002	CDS	1485				hypothetical protein
+FAOCAIIH_00003	CDS	483	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+FAOCAIIH_00004	CDS	2106	clpC_1			putative ATP-dependent Clp protease ATP-binding subunit
+FAOCAIIH_00005	CDS	981	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+FAOCAIIH_00006	CDS	2253	pbpX		COG0768	Penicillin-binding protein 2X
+FAOCAIIH_00007	CDS	318	ftsL			Cell division protein FtsL
+FAOCAIIH_00008	CDS	951	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+FAOCAIIH_00009	CDS	195				hypothetical protein
+FAOCAIIH_00010	CDS	543				hypothetical protein
+FAOCAIIH_00011	CDS	327				hypothetical protein
+FAOCAIIH_00012	CDS	579				hypothetical protein
+FAOCAIIH_00013	CDS	1002	kdgR		COG1609	HTH-type transcriptional regulator KdgR
+FAOCAIIH_00014	CDS	1902				hypothetical protein
+FAOCAIIH_00015	CDS	294				hypothetical protein
+FAOCAIIH_00016	CDS	819	manZ_1		COG3716	PTS system mannose-specific EIID component
+FAOCAIIH_00017	CDS	780	agaC		COG3715	N-acetylgalactosamine permease IIC component 1
+FAOCAIIH_00018	CDS	492	sorB_1	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+FAOCAIIH_00019	CDS	1191	ugl	3.2.1.180		Unsaturated chondroitin disaccharide hydrolase
+FAOCAIIH_00020	CDS	435				hypothetical protein
+FAOCAIIH_00021	CDS	816	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+FAOCAIIH_00022	CDS	642				hypothetical protein
+FAOCAIIH_00023	CDS	1002	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+FAOCAIIH_00024	CDS	630	kdgA		COG0800	KHG/KDPG aldolase
+FAOCAIIH_00025	CDS	204				IS200/IS605 family transposase ISStin10
+FAOCAIIH_00026	CDS	3204		4.2.2.1		Hyaluronate lyase
+FAOCAIIH_00027	CDS	477	bsaA			Glutathione peroxidase BsaA
+FAOCAIIH_00028	CDS	2214				hypothetical protein
+FAOCAIIH_00029	CDS	126				hypothetical protein
+FAOCAIIH_00030	CDS	177				hypothetical protein
+FAOCAIIH_00031	CDS	1347	licC_1		COG1455	Lichenan permease IIC component
+FAOCAIIH_00032	CDS	507				hypothetical protein
+FAOCAIIH_00033	CDS	315	lacF_1		COG1447	PTS system lactose-specific EIIA component
+FAOCAIIH_00034	CDS	1974	licR_1		COG1762	putative licABCH operon regulator
+FAOCAIIH_00035	CDS	315				hypothetical protein
+FAOCAIIH_00036	CDS	240			COG4095	Sugar transporter SemiSWEET
+FAOCAIIH_00037	CDS	1437	bglA_1	3.2.1.86	COG2723	6-phospho-beta-glucosidase BglA
+FAOCAIIH_00038	CDS	339				hypothetical protein
+FAOCAIIH_00039	CDS	396				hypothetical protein
+FAOCAIIH_00040	CDS	612				hypothetical protein
+FAOCAIIH_00041	CDS	588				hypothetical protein
+FAOCAIIH_00042	CDS	471				hypothetical protein
+FAOCAIIH_00043	CDS	1320				hypothetical protein
+FAOCAIIH_00044	CDS	267				hypothetical protein
+FAOCAIIH_00045	CDS	729	apaH_1	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+FAOCAIIH_00046	CDS	774				hypothetical protein
+FAOCAIIH_00047	CDS	795				hypothetical protein
+FAOCAIIH_00048	CDS	270				hypothetical protein
+FAOCAIIH_00049	CDS	1221	xerC_1			Tyrosine recombinase XerC
+FAOCAIIH_00050	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+FAOCAIIH_00051	CDS	447	rplM			50S ribosomal protein L13
+FAOCAIIH_00052	CDS	318				hypothetical protein
+FAOCAIIH_00053	CDS	813	sulD		COG0801	Bifunctional folate synthesis protein
+FAOCAIIH_00054	CDS	555	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+FAOCAIIH_00055	CDS	1323	fpgS_1	6.3.2.17		Folylpolyglutamate synthase
+FAOCAIIH_00056	CDS	948	sulA	2.5.1.15	COG0294	Dihydropteroate synthase
+FAOCAIIH_00057	CDS	708				hypothetical protein
+FAOCAIIH_00058	CDS	1419	adeQ		COG2252	Adenine permease AdeQ
+FAOCAIIH_00059	CDS	813	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+FAOCAIIH_00060	CDS	1020	adhA	1.1.1.1		Alcohol dehydrogenase 1
+FAOCAIIH_00061	CDS	990	manX_1	2.7.1.191		PTS system mannose-specific EIIAB component
+FAOCAIIH_00062	CDS	804	sorA		COG3715	PTS system sorbose-specific EIIC component
+FAOCAIIH_00063	CDS	912	manZ_2		COG3716	PTS system mannose-specific EIID component
+FAOCAIIH_00064	CDS	1335	pepC	3.4.22.40	COG3579	Aminopeptidase C
+FAOCAIIH_00065	CDS	723	rsuA_1	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+FAOCAIIH_00066	CDS	231				hypothetical protein
+FAOCAIIH_00067	CDS	1242	pepS	3.4.11.-	COG2309	Aminopeptidase PepS
+FAOCAIIH_00068	CDS	153				hypothetical protein
+FAOCAIIH_00069	CDS	279	yafQ	3.1.-.-		mRNA interferase toxin YafQ
+FAOCAIIH_00070	CDS	264				hypothetical protein
+FAOCAIIH_00071	CDS	4392	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+FAOCAIIH_00072	CDS	2082	fus			Elongation factor G
+FAOCAIIH_00073	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+FAOCAIIH_00074	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+FAOCAIIH_00075	CDS	3798	glgX	3.2.1.196		Glycogen debranching enzyme
+FAOCAIIH_00076	CDS	1050				hypothetical protein
+FAOCAIIH_00077	CDS	1809	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FAOCAIIH_00078	CDS	1380	gmuD_1	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+FAOCAIIH_00079	CDS	1854	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FAOCAIIH_00080	CDS	1260		3.4.24.-		Putative zinc metalloprotease
+FAOCAIIH_00081	CDS	804				hypothetical protein
+FAOCAIIH_00082	CDS	759	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+FAOCAIIH_00083	CDS	426				hypothetical protein
+FAOCAIIH_00084	CDS	108				hypothetical protein
+FAOCAIIH_00085	CDS	972	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+FAOCAIIH_00086	CDS	417				hypothetical protein
+FAOCAIIH_00087	CDS	696				hypothetical protein
+FAOCAIIH_00088	CDS	843				hypothetical protein
+FAOCAIIH_00089	CDS	2502	leuS	6.1.1.4		Leucine--tRNA ligase
+FAOCAIIH_00090	CDS	1089	gldA	1.1.1.6		Glycerol dehydrogenase
+FAOCAIIH_00091	CDS	669	fsaA	4.1.2.-	COG0176	Fructose-6-phosphate aldolase 1
+FAOCAIIH_00092	CDS	2439	cutC_1	4.3.99.4	COG1882	Choline trimethylamine-lyase
+FAOCAIIH_00093	CDS	1299	licC_2		COG1455	Lichenan permease IIC component
+FAOCAIIH_00094	CDS	309	gmuB	2.7.1.205	COG1440	PTS system oligo-beta-mannoside-specific EIIB component
+FAOCAIIH_00095	CDS	321	licA		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+FAOCAIIH_00096	CDS	981	sorC_1		COG2390	Sorbitol operon regulator
+FAOCAIIH_00097	CDS	747	ydjF		COG1349	putative HTH-type transcriptional regulator YdjF
+FAOCAIIH_00098	CDS	777	hpdA	1.97.1.-	COG1180	4-hydroxyphenylacetate decarboxylase activating enzyme
+FAOCAIIH_00099	CDS	102				hypothetical protein
+FAOCAIIH_00100	CDS	195				hypothetical protein
+FAOCAIIH_00101	CDS	450				hypothetical protein
+FAOCAIIH_00102	CDS	1092	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FAOCAIIH_00103	CDS	369				hypothetical protein
+FAOCAIIH_00104	CDS	1023				hypothetical protein
+FAOCAIIH_00105	CDS	693	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+FAOCAIIH_00106	CDS	1338				hypothetical protein
+FAOCAIIH_00107	CDS	267				hypothetical protein
+FAOCAIIH_00108	CDS	387	rplQ		COG0203	50S ribosomal protein L17
+FAOCAIIH_00109	CDS	936	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+FAOCAIIH_00110	CDS	384	rpsK			30S ribosomal protein S11
+FAOCAIIH_00111	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+FAOCAIIH_00112	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+FAOCAIIH_00113	CDS	219	infA		COG0361	Translation initiation factor IF-1
+FAOCAIIH_00114	CDS	639	adk	2.7.4.3	COG0563	Adenylate kinase
+FAOCAIIH_00115	CDS	1311	secY			Protein translocase subunit SecY
+FAOCAIIH_00116	CDS	441	rplO			50S ribosomal protein L15
+FAOCAIIH_00117	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+FAOCAIIH_00118	CDS	495	rpsE			30S ribosomal protein S5
+FAOCAIIH_00119	CDS	357	rplR		COG0256	50S ribosomal protein L18
+FAOCAIIH_00120	CDS	537	rplF		COG0097	50S ribosomal protein L6
+FAOCAIIH_00121	CDS	399	rpsH			30S ribosomal protein S8
+FAOCAIIH_00122	CDS	270	rpsN2		COG0199	Alternate 30S ribosomal protein S14
+FAOCAIIH_00123	CDS	543	rplE		COG0094	50S ribosomal protein L5
+FAOCAIIH_00124	CDS	306	rplX		COG0198	50S ribosomal protein L24
+FAOCAIIH_00125	CDS	369	rplN		COG0093	50S ribosomal protein L14
+FAOCAIIH_00126	CDS	261	rpsQ		COG0186	30S ribosomal protein S17
+FAOCAIIH_00127	CDS	207	rpmC		COG0255	50S ribosomal protein L29
+FAOCAIIH_00128	CDS	414	rplP		COG0197	50S ribosomal protein L16
+FAOCAIIH_00129	CDS	654	rpsC		COG0092	30S ribosomal protein S3
+FAOCAIIH_00130	CDS	345	rplV		COG0091	50S ribosomal protein L22
+FAOCAIIH_00131	CDS	282	rpsS		COG0185	30S ribosomal protein S19
+FAOCAIIH_00132	CDS	834	rplB		COG0090	50S ribosomal protein L2
+FAOCAIIH_00133	CDS	297	rplW			50S ribosomal protein L23
+FAOCAIIH_00134	CDS	624	rplD		COG0088	50S ribosomal protein L4
+FAOCAIIH_00135	CDS	627	rplC		COG0087	50S ribosomal protein L3
+FAOCAIIH_00136	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+FAOCAIIH_00137	CDS	618	udk_1	2.7.1.48		Uridine kinase
+FAOCAIIH_00138	CDS	591				hypothetical protein
+FAOCAIIH_00139	CDS	507				hypothetical protein
+FAOCAIIH_00140	CDS	2208	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+FAOCAIIH_00141	CDS	1539				hypothetical protein
+FAOCAIIH_00142	CDS	144				hypothetical protein
+FAOCAIIH_00143	CDS	1533	cls	2.7.8.-		Cardiolipin synthase
+FAOCAIIH_00144	CDS	456				hypothetical protein
+FAOCAIIH_00145	CDS	1251	fpgS_2	6.3.2.17		Folylpolyglutamate synthase
+FAOCAIIH_00146	CDS	306				hypothetical protein
+FAOCAIIH_00147	CDS	420	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+FAOCAIIH_00148	CDS	267				hypothetical protein
+FAOCAIIH_00149	CDS	570				hypothetical protein
+FAOCAIIH_00150	CDS	399	spxA_1		COG1393	Regulatory protein Spx
+FAOCAIIH_00151	CDS	1062	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+FAOCAIIH_00152	CDS	2832	uvrA			UvrABC system protein A
+FAOCAIIH_00153	CDS	420				hypothetical protein
+FAOCAIIH_00154	CDS	510				hypothetical protein
+FAOCAIIH_00155	CDS	531				hypothetical protein
+FAOCAIIH_00156	CDS	168				hypothetical protein
+FAOCAIIH_00157	CDS	1470				hypothetical protein
+FAOCAIIH_00158	CDS	861				hypothetical protein
+FAOCAIIH_00159	CDS	282				hypothetical protein
+FAOCAIIH_00160	CDS	342				hypothetical protein
+FAOCAIIH_00161	CDS	294				hypothetical protein
+FAOCAIIH_00162	CDS	216				hypothetical protein
+FAOCAIIH_00163	CDS	201				hypothetical protein
+FAOCAIIH_00164	CDS	453				hypothetical protein
+FAOCAIIH_00165	CDS	627				hypothetical protein
+FAOCAIIH_00166	CDS	231				hypothetical protein
+FAOCAIIH_00167	CDS	714				hypothetical protein
+FAOCAIIH_00168	CDS	1515				hypothetical protein
+FAOCAIIH_00169	CDS	1167	xerC_2			Tyrosine recombinase XerC
+FAOCAIIH_00170	CDS	945				hypothetical protein
+FAOCAIIH_00171	CDS	684				hypothetical protein
+FAOCAIIH_00172	CDS	1032	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+FAOCAIIH_00173	CDS	678				hypothetical protein
+FAOCAIIH_00174	CDS	564	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+FAOCAIIH_00175	CDS	594	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+FAOCAIIH_00176	CDS	1101	ribD		COG0117	Riboflavin biosynthesis protein RibD
+FAOCAIIH_00177	CDS	636	ribE	2.5.1.9	COG0307	Riboflavin synthase
+FAOCAIIH_00178	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+FAOCAIIH_00179	CDS	468	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+FAOCAIIH_00180	CDS	1950	mutL		COG0323	DNA mismatch repair protein MutL
+FAOCAIIH_00181	CDS	441			COG3279	putative HTH-type transcriptional regulator
+FAOCAIIH_00182	CDS	459				hypothetical protein
+FAOCAIIH_00183	CDS	1263				hypothetical protein
+FAOCAIIH_00184	CDS	471			COG1780	Putative NrdI-like protein
+FAOCAIIH_00185	CDS	534				hypothetical protein
+FAOCAIIH_00186	CDS	1287	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+FAOCAIIH_00187	CDS	1683				hypothetical protein
+FAOCAIIH_00188	CDS	615				hypothetical protein
+FAOCAIIH_00189	CDS	570				hypothetical protein
+FAOCAIIH_00190	CDS	693	metP		COG2011	Methionine import system permease protein MetP
+FAOCAIIH_00191	CDS	1062	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+FAOCAIIH_00192	CDS	1374	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+FAOCAIIH_00193	CDS	855	metQ		COG1464	D-methionine-binding lipoprotein MetQ
+FAOCAIIH_00194	CDS	831	tcyA		COG0834	L-cystine-binding protein TcyA
+FAOCAIIH_00195	CDS	324				hypothetical protein
+FAOCAIIH_00196	CDS	657				hypothetical protein
+FAOCAIIH_00197	CDS	1227				hypothetical protein
+FAOCAIIH_00198	CDS	666				hypothetical protein
+FAOCAIIH_00199	CDS	198				hypothetical protein
+FAOCAIIH_00200	CDS	864				hypothetical protein
+FAOCAIIH_00201	CDS	249	hasB	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+FAOCAIIH_00202	CDS	651	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+FAOCAIIH_00203	CDS	366				hypothetical protein
+FAOCAIIH_00204	CDS	222				hypothetical protein
+FAOCAIIH_00205	CDS	411				hypothetical protein
+FAOCAIIH_00206	CDS	1617	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FAOCAIIH_00207	CDS	876				hypothetical protein
+FAOCAIIH_00208	CDS	462	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+FAOCAIIH_00209	CDS	555				hypothetical protein
+FAOCAIIH_00210	CDS	930				hypothetical protein
+FAOCAIIH_00211	CDS	387				ISL3 family transposase ISSth1
+FAOCAIIH_00212	CDS	1011	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+FAOCAIIH_00213	CDS	438				hypothetical protein
+FAOCAIIH_00214	CDS	684	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+FAOCAIIH_00215	CDS	186				hypothetical protein
+FAOCAIIH_00216	CDS	153				hypothetical protein
+FAOCAIIH_00217	CDS	108				hypothetical protein
+FAOCAIIH_00218	CDS	234				hypothetical protein
+FAOCAIIH_00219	CDS	1680	rnj1	3.1.-.-		Ribonuclease J 1
+FAOCAIIH_00220	CDS	1914	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+FAOCAIIH_00221	CDS	456				hypothetical protein
+FAOCAIIH_00222	CDS	1122	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+FAOCAIIH_00223	CDS	2067				hypothetical protein
+FAOCAIIH_00224	CDS	279				hypothetical protein
+FAOCAIIH_00225	CDS	198				hypothetical protein
+FAOCAIIH_00226	CDS	729				hypothetical protein
+FAOCAIIH_00227	CDS	354				hypothetical protein
+FAOCAIIH_00228	CDS	903				hypothetical protein
+FAOCAIIH_00229	CDS	375				hypothetical protein
+FAOCAIIH_00230	CDS	978				hypothetical protein
+FAOCAIIH_00231	CDS	1059				hypothetical protein
+FAOCAIIH_00232	CDS	246				hypothetical protein
+FAOCAIIH_00233	CDS	363				hypothetical protein
+FAOCAIIH_00234	CDS	213				hypothetical protein
+FAOCAIIH_00235	CDS	435				hypothetical protein
+FAOCAIIH_00236	CDS	339	lagD_1	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+FAOCAIIH_00237	CDS	864				hypothetical protein
+FAOCAIIH_00238	CDS	369				hypothetical protein
+FAOCAIIH_00239	CDS	420	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+FAOCAIIH_00240	CDS	807	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+FAOCAIIH_00241	CDS	642	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+FAOCAIIH_00242	CDS	2109				hypothetical protein
+FAOCAIIH_00243	CDS	249				hypothetical protein
+FAOCAIIH_00244	CDS	588				hypothetical protein
+FAOCAIIH_00245	CDS	672	sdhB	4.3.1.17		L-serine dehydratase, beta chain
+FAOCAIIH_00246	CDS	873	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+FAOCAIIH_00247	CDS	633		3.1.3.5	COG0546	5'-nucleotidase
+FAOCAIIH_00248	CDS	405				hypothetical protein
+FAOCAIIH_00249	CDS	1851	fcl	1.1.1.271		GDP-L-fucose synthase
+FAOCAIIH_00250	CDS	1065	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FAOCAIIH_00251	CDS	1167	yycB		COG2807	putative transporter YycB
+FAOCAIIH_00252	CDS	327				hypothetical protein
+FAOCAIIH_00253	CDS	594				hypothetical protein
+FAOCAIIH_00254	CDS	912				hypothetical protein
+FAOCAIIH_00255	CDS	1065				hypothetical protein
+FAOCAIIH_00256	CDS	198				hypothetical protein
+FAOCAIIH_00257	CDS	126				hypothetical protein
+FAOCAIIH_00258	CDS	300				hypothetical protein
+FAOCAIIH_00259	CDS	342				hypothetical protein
+FAOCAIIH_00260	CDS	774				hypothetical protein
+FAOCAIIH_00261	CDS	264				hypothetical protein
+FAOCAIIH_00262	CDS	243				hypothetical protein
+FAOCAIIH_00263	CDS	810	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+FAOCAIIH_00264	CDS	1368	walK	2.7.13.3		Sensor histidine kinase WalK
+FAOCAIIH_00265	CDS	705	walR		COG0745	Transcriptional regulatory protein WalR
+FAOCAIIH_00266	CDS	1176	mutY	3.2.2.31		Adenine DNA glycosylase
+FAOCAIIH_00267	CDS	1671	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+FAOCAIIH_00268	CDS	690	coaBC_1		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+FAOCAIIH_00269	CDS	552	coaBC_2		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+FAOCAIIH_00270	CDS	564	panT		COG4684	Pantothenic acid transporter PanT
+FAOCAIIH_00271	CDS	528	niaX			Niacin transporter NiaX
+FAOCAIIH_00272	CDS	516	niaR		COG1827	putative transcription repressor NiaR
+FAOCAIIH_00273	CDS	468	nudC	3.6.1.22		NADH pyrophosphatase
+FAOCAIIH_00274	CDS	489				hypothetical protein
+FAOCAIIH_00275	CDS	564				hypothetical protein
+FAOCAIIH_00276	CDS	1989	uvrB			UvrABC system protein B
+FAOCAIIH_00277	CDS	954				hypothetical protein
+FAOCAIIH_00278	CDS	2166	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+FAOCAIIH_00279	CDS	741	artM		COG1126	Arginine transport ATP-binding protein ArtM
+FAOCAIIH_00280	CDS	1488	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+FAOCAIIH_00281	CDS	1290	ftsY			Signal recognition particle receptor FtsY
+FAOCAIIH_00282	CDS	819	yidA_1	3.1.3.23	COG0561	Sugar phosphatase YidA
+FAOCAIIH_00283	CDS	795	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+FAOCAIIH_00284	CDS	3540	smc		COG1196	Chromosome partition protein Smc
+FAOCAIIH_00285	CDS	699	rnc	3.1.26.3	COG0571	Ribonuclease 3
+FAOCAIIH_00286	tRNA	74				tRNA-Arg(ccg)
+FAOCAIIH_00287	CDS	987	guaC	1.7.1.7	COG0516	GMP reductase
+FAOCAIIH_00288	CDS	1344				hypothetical protein
+FAOCAIIH_00289	CDS	1932				hypothetical protein
+FAOCAIIH_00290	CDS	171				hypothetical protein
+FAOCAIIH_00291	CDS	267				hypothetical protein
+FAOCAIIH_00292	CDS	360	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+FAOCAIIH_00293	CDS	270				hypothetical protein
+FAOCAIIH_00294	CDS	1038	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+FAOCAIIH_00295	CDS	420	leuA_1	2.3.3.13		2-isopropylmalate synthase
+FAOCAIIH_00296	CDS	633	leuA_2	2.3.3.13		2-isopropylmalate synthase
+FAOCAIIH_00297	CDS	657				hypothetical protein
+FAOCAIIH_00298	CDS	633	cutC_2		COG3142	Copper homeostasis protein CutC
+FAOCAIIH_00299	CDS	360	ybaN		COG2832	Inner membrane protein YbaN
+FAOCAIIH_00300	CDS	2088	topA	5.6.2.1		DNA topoisomerase 1
+FAOCAIIH_00301	CDS	1044				hypothetical protein
+FAOCAIIH_00302	CDS	849	dprA		COG0758	DNA processing protein DprA
+FAOCAIIH_00303	CDS	690	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FAOCAIIH_00304	CDS	879				hypothetical protein
+FAOCAIIH_00305	CDS	870	thiK	2.7.1.89		Thiamine kinase
+FAOCAIIH_00306	CDS	1023	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase
+FAOCAIIH_00307	CDS	708	tarI	2.7.7.40	COG1211	Ribitol-5-phosphate cytidylyltransferase
+FAOCAIIH_00308	CDS	1488				hypothetical protein
+FAOCAIIH_00309	CDS	804				hypothetical protein
+FAOCAIIH_00310	CDS	810				hypothetical protein
+FAOCAIIH_00311	CDS	3177	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+FAOCAIIH_00312	CDS	1080	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+FAOCAIIH_00313	CDS	924	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+FAOCAIIH_00314	CDS	522	pyrR		COG2065	Bifunctional protein PyrR
+FAOCAIIH_00315	CDS	630	pdg			Ultraviolet N-glycosylase/AP lyase
+FAOCAIIH_00316	CDS	543				hypothetical protein
+FAOCAIIH_00317	CDS	1527	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+FAOCAIIH_00318	CDS	900	htpX	3.4.24.-	COG0501	Protease HtpX 
+FAOCAIIH_00319	CDS	561	lemA		COG1704	Protein LemA
+FAOCAIIH_00320	CDS	714	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+FAOCAIIH_00321	CDS	1284	pyrP			Uracil permease
+FAOCAIIH_00322	CDS	1572	ffh		COG0541	Signal recognition particle protein
+FAOCAIIH_00323	CDS	333				hypothetical protein
+FAOCAIIH_00324	CDS	378				hypothetical protein
+FAOCAIIH_00325	CDS	1305				hypothetical protein
+FAOCAIIH_00326	CDS	807		3.1.3.-		Putative phosphatase
+FAOCAIIH_00327	CDS	999				hypothetical protein
+FAOCAIIH_00328	tRNA	72				tRNA-Arg(cct)
+FAOCAIIH_00329	CDS	348	rplS		COG0335	50S ribosomal protein L19
+FAOCAIIH_00330	CDS	330	crcB_1		COG0239	Putative fluoride ion transporter CrcB
+FAOCAIIH_00331	CDS	375	crcB_2			Putative fluoride ion transporter CrcB
+FAOCAIIH_00332	CDS	267				hypothetical protein
+FAOCAIIH_00333	CDS	444				Flavodoxin
+FAOCAIIH_00334	CDS	936	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+FAOCAIIH_00335	CDS	243	rpmE2		COG0254	50S ribosomal protein L31 type B
+FAOCAIIH_00336	CDS	219				hypothetical protein
+FAOCAIIH_00337	CDS	510				IS630 family transposase ISSpn2
+FAOCAIIH_00338	CDS	1347	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+FAOCAIIH_00339	CDS	3579				hypothetical protein
+FAOCAIIH_00340	CDS	369	rplL		COG0222	50S ribosomal protein L7/L12
+FAOCAIIH_00341	CDS	501	rplJ			50S ribosomal protein L10
+FAOCAIIH_00342	CDS	1260	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+FAOCAIIH_00343	CDS	1749		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+FAOCAIIH_00344	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+FAOCAIIH_00345	CDS	939	msrAB1		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB 1
+FAOCAIIH_00346	CDS	297				hypothetical protein
+FAOCAIIH_00347	CDS	870	thrB	2.7.1.39	COG0083	Homoserine kinase
+FAOCAIIH_00348	CDS	1287	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+FAOCAIIH_00349	CDS	738	mecA		COG4862	Adapter protein MecA
+FAOCAIIH_00350	CDS	1035				hypothetical protein
+FAOCAIIH_00351	CDS	1434				hypothetical protein
+FAOCAIIH_00352	CDS	987	glyG			Glycosyltransferase GlyG
+FAOCAIIH_00353	CDS	1104	pglJ	2.4.1.291	COG0438	N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase
+FAOCAIIH_00354	CDS	837				hypothetical protein
+FAOCAIIH_00355	CDS	1275	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+FAOCAIIH_00356	CDS	849	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+FAOCAIIH_00357	CDS	477	aroL	2.7.1.71		Shikimate kinase 2
+FAOCAIIH_00358	CDS	1284	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+FAOCAIIH_00359	CDS	339				hypothetical protein
+FAOCAIIH_00360	CDS	1104				hypothetical protein
+FAOCAIIH_00361	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+FAOCAIIH_00362	CDS	1068	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+FAOCAIIH_00363	CDS	855	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+FAOCAIIH_00364	CDS	678	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+FAOCAIIH_00365	CDS	1164	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+FAOCAIIH_00366	CDS	1635				hypothetical protein
+FAOCAIIH_00367	CDS	750	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+FAOCAIIH_00368	CDS	1455	amyS	3.2.1.1		Alpha-amylase
+FAOCAIIH_00369	CDS	2619	alaS	6.1.1.7		Alanine--tRNA ligase
+FAOCAIIH_00370	CDS	486				hypothetical protein
+FAOCAIIH_00371	CDS	1071	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+FAOCAIIH_00372	CDS	774	ydcV			Inner membrane ABC transporter permease protein YdcV
+FAOCAIIH_00373	CDS	807	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+FAOCAIIH_00374	CDS	1158	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+FAOCAIIH_00375	CDS	951	murB	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+FAOCAIIH_00376	CDS	753				hypothetical protein
+FAOCAIIH_00377	CDS	672	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+FAOCAIIH_00378	CDS	1272	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+FAOCAIIH_00379	CDS	816	glnH_1		COG0834	Glutamine-binding periplasmic protein
+FAOCAIIH_00380	CDS	654	phoU_1		COG0704	Phosphate-specific transport system accessory protein PhoU 
+FAOCAIIH_00381	CDS	759	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+FAOCAIIH_00382	CDS	804	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+FAOCAIIH_00383	CDS	885				hypothetical protein
+FAOCAIIH_00384	CDS	918	pstC		COG0573	Phosphate transport system permease protein PstC
+FAOCAIIH_00385	CDS	879	pstS1		COG0226	Phosphate-binding protein PstS 1
+FAOCAIIH_00386	CDS	114				hypothetical protein
+FAOCAIIH_00387	CDS	1305	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+FAOCAIIH_00388	CDS	774	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+FAOCAIIH_00389	CDS	279				hypothetical protein
+FAOCAIIH_00390	CDS	402	spxA_2		COG1393	Regulatory protein Spx
+FAOCAIIH_00391	CDS	618				hypothetical protein
+FAOCAIIH_00392	CDS	774	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+FAOCAIIH_00393	CDS	738				hypothetical protein
+FAOCAIIH_00394	CDS	1131	hemW		COG0635	Heme chaperone HemW
+FAOCAIIH_00395	CDS	390				hypothetical protein
+FAOCAIIH_00396	CDS	384				hypothetical protein
+FAOCAIIH_00397	CDS	789	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+FAOCAIIH_00398	CDS	936	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+FAOCAIIH_00399	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+FAOCAIIH_00400	CDS	708	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+FAOCAIIH_00401	CDS	1029	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+FAOCAIIH_00402	CDS	390				hypothetical protein
+FAOCAIIH_00403	CDS	102				hypothetical protein
+FAOCAIIH_00404	CDS	552				hypothetical protein
+FAOCAIIH_00405	CDS	825	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FAOCAIIH_00406	CDS	1461	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+FAOCAIIH_00407	CDS	489				hypothetical protein
+FAOCAIIH_00408	CDS	210				hypothetical protein
+FAOCAIIH_00409	CDS	729				hypothetical protein
+FAOCAIIH_00410	CDS	720	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FAOCAIIH_00411	CDS	726				hypothetical protein
+FAOCAIIH_00412	CDS	1287				hypothetical protein
+FAOCAIIH_00413	CDS	135				hypothetical protein
+FAOCAIIH_00414	CDS	192				hypothetical protein
+FAOCAIIH_00415	CDS	1191				hypothetical protein
+FAOCAIIH_00416	CDS	159				hypothetical protein
+FAOCAIIH_00417	CDS	1365	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FAOCAIIH_00418	CDS	696	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+FAOCAIIH_00419	CDS	585				hypothetical protein
+FAOCAIIH_00420	CDS	1722	ndvA	7.5.2.3	COG1132	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+FAOCAIIH_00421	CDS	1755	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FAOCAIIH_00422	CDS	993	rhaR			HTH-type transcriptional activator RhaR
+FAOCAIIH_00423	CDS	519				hypothetical protein
+FAOCAIIH_00424	CDS	651	dtxR			Diphtheria toxin repressor
+FAOCAIIH_00425	CDS	843				hypothetical protein
+FAOCAIIH_00426	CDS	438	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+FAOCAIIH_00427	CDS	303				hypothetical protein
+FAOCAIIH_00428	CDS	1074				hypothetical protein
+FAOCAIIH_00429	CDS	678	graR		COG0745	Response regulator protein GraR
+FAOCAIIH_00430	CDS	975	graS	2.7.13.3	COG0642	Sensor histidine kinase GraS
+FAOCAIIH_00431	CDS	1944	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+FAOCAIIH_00432	CDS	141				hypothetical protein
+FAOCAIIH_00433	CDS	201				hypothetical protein
+FAOCAIIH_00434	CDS	630				hypothetical protein
+FAOCAIIH_00435	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+FAOCAIIH_00436	CDS	615				hypothetical protein
+FAOCAIIH_00437	CDS	750	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+FAOCAIIH_00438	CDS	2337	ctpE	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+FAOCAIIH_00439	CDS	1464	manR		COG1762	Transcriptional regulator ManR
+FAOCAIIH_00440	CDS	429				hypothetical protein
+FAOCAIIH_00441	CDS	450	mngA		COG1299	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+FAOCAIIH_00442	CDS	312	manP		COG1299	PTS system mannose-specific EIIBCA component
+FAOCAIIH_00443	CDS	1086	fruA_1		COG1299	PTS system fructose-specific EIIB'BC component
+FAOCAIIH_00444	CDS	696	alsE	5.1.3.-	COG0036	D-allulose-6-phosphate 3-epimerase
+FAOCAIIH_00445	CDS	1971	tkt_1	2.2.1.1		Transketolase
+FAOCAIIH_00446	CDS	1272				IS3 family transposase ISSpn11
+FAOCAIIH_00447	CDS	276				hypothetical protein
+FAOCAIIH_00448	CDS	378				hypothetical protein
+FAOCAIIH_00449	CDS	177				hypothetical protein
+FAOCAIIH_00450	CDS	105				hypothetical protein
+FAOCAIIH_00451	CDS	678	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+FAOCAIIH_00452	CDS	798			COG0327	GTP cyclohydrolase 1 type 2 
+FAOCAIIH_00453	CDS	1104	thiO	1.4.3.19		Glycine oxidase
+FAOCAIIH_00454	CDS	1020	lnpD_1	5.1.3.2		UDP-glucose 4-epimerase
+FAOCAIIH_00455	CDS	984	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+FAOCAIIH_00456	CDS	213				hypothetical protein
+FAOCAIIH_00457	CDS	477				hypothetical protein
+FAOCAIIH_00458	CDS	672	cmk	2.7.4.25	COG0283	Cytidylate kinase
+FAOCAIIH_00459	CDS	339				hypothetical protein
+FAOCAIIH_00460	CDS	630				hypothetical protein
+FAOCAIIH_00461	CDS	1152				hypothetical protein
+FAOCAIIH_00462	CDS	750	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+FAOCAIIH_00463	CDS	774	pdxK	2.7.1.35	COG0351	Pyridoxine kinase
+FAOCAIIH_00464	CDS	462	hmpT		COG4720	Thiamine precursor transporter HmpT
+FAOCAIIH_00465	CDS	213				IS3 family transposase ISSpn11
+FAOCAIIH_00466	CDS	168				hypothetical protein
+FAOCAIIH_00467	CDS	273				IS3 family transposase ISSpn11
+FAOCAIIH_00468	CDS	354				IS3 family transposase ISSpn11
+FAOCAIIH_00469	CDS	1083	pepQ	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+FAOCAIIH_00470	CDS	783	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+FAOCAIIH_00471	CDS	1344	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+FAOCAIIH_00472	CDS	1317	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+FAOCAIIH_00473	CDS	1227	yhjX			putative MFS-type transporter YhjX
+FAOCAIIH_00474	CDS	1575	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+FAOCAIIH_00475	CDS	789	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+FAOCAIIH_00476	CDS	576				hypothetical protein
+FAOCAIIH_00477	tRNA	86				tRNA-Leu(aag)
+FAOCAIIH_00478	CDS	1131	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+FAOCAIIH_00479	CDS	759	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FAOCAIIH_00480	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+FAOCAIIH_00481	CDS	945	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+FAOCAIIH_00482	CDS	678	dnaD		COG3935	DNA replication protein DnaD
+FAOCAIIH_00483	CDS	759	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+FAOCAIIH_00484	CDS	1506				hypothetical protein
+FAOCAIIH_00485	CDS	519	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+FAOCAIIH_00486	CDS	507	dhfR	1.5.1.3	COG0262	Dihydrofolate reductase
+FAOCAIIH_00487	CDS	171				hypothetical protein
+FAOCAIIH_00488	CDS	1233	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+FAOCAIIH_00489	CDS	588	engB		COG0218	putative GTP-binding protein EngB
+FAOCAIIH_00490	CDS	381	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+FAOCAIIH_00491	CDS	891	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+FAOCAIIH_00492	CDS	978			COG0391	Putative gluconeogenesis factor
+FAOCAIIH_00493	CDS	912	whiA		COG1481	putative cell division protein WhiA
+FAOCAIIH_00494	CDS	969	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+FAOCAIIH_00495	CDS	858	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+FAOCAIIH_00496	CDS	780				hypothetical protein
+FAOCAIIH_00497	CDS	1353	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+FAOCAIIH_00498	CDS	375				hypothetical protein
+FAOCAIIH_00499	CDS	849			COG1307	DegV domain-containing protein
+FAOCAIIH_00500	CDS	768	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+FAOCAIIH_00501	CDS	1185	cca	2.7.7.72		CCA-adding enzyme
+FAOCAIIH_00502	CDS	1872	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+FAOCAIIH_00503	CDS	1185	fieF			Ferrous-iron efflux pump FieF
+FAOCAIIH_00504	CDS	2697		7.2.2.10		Calcium-transporting ATPase 1
+FAOCAIIH_00505	CDS	792	yghU	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YghU
+FAOCAIIH_00506	CDS	411	def_1	3.5.1.88	COG0242	Peptide deformylase
+FAOCAIIH_00507	CDS	1596				hypothetical protein
+FAOCAIIH_00508	CDS	165				hypothetical protein
+FAOCAIIH_00509	CDS	729	yaaA		COG3022	Peroxide stress resistance protein YaaA
+FAOCAIIH_00510	CDS	1485				Putative trans-acting regulator
+FAOCAIIH_00511	CDS	5622				hypothetical protein
+FAOCAIIH_00512	CDS	549				hypothetical protein
+FAOCAIIH_00513	CDS	432				hypothetical protein
+FAOCAIIH_00514	CDS	1188	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+FAOCAIIH_00515	CDS	225				hypothetical protein
+FAOCAIIH_00516	CDS	1344	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+FAOCAIIH_00517	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+FAOCAIIH_00518	CDS	471	ssb_1		COG0629	Single-stranded DNA-binding protein
+FAOCAIIH_00519	CDS	240	rpsR		COG0238	30S ribosomal protein S18
+FAOCAIIH_00520	CDS	1401				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FAOCAIIH_00521	CDS	360	yugI		COG1098	General stress protein 13
+FAOCAIIH_00522	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+FAOCAIIH_00523	CDS	300				hypothetical protein
+FAOCAIIH_00524	CDS	936	ppaC	3.6.1.1	COG1227	putative manganese-dependent inorganic pyrophosphatase
+FAOCAIIH_00525	CDS	513				hypothetical protein
+FAOCAIIH_00526	CDS	597				hypothetical protein
+FAOCAIIH_00527	CDS	195				hypothetical protein
+FAOCAIIH_00528	CDS	1446	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+FAOCAIIH_00529	CDS	1623	murJ		COG2244	Lipid II flippase MurJ
+FAOCAIIH_00530	CDS	1962	sarA_1		COG4166	Oligopeptide-binding protein SarA
+FAOCAIIH_00531	CDS	234				hypothetical protein
+FAOCAIIH_00532	CDS	1431	lmrA	7.6.2.2	COG1132	Multidrug resistance ABC transporter ATP-binding and permease protein
+FAOCAIIH_00533	CDS	1095	metI	2.5.1.-	COG0626	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+FAOCAIIH_00534	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+FAOCAIIH_00535	CDS	3099	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+FAOCAIIH_00536	CDS	618				hypothetical protein
+FAOCAIIH_00537	CDS	1335	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+FAOCAIIH_00538	CDS	465				hypothetical protein
+FAOCAIIH_00539	CDS	495				hypothetical protein
+FAOCAIIH_00540	CDS	1656	mltG	4.2.2.-		Endolytic murein transglycosylase
+FAOCAIIH_00541	CDS	483	greA			Transcription elongation factor GreA
+FAOCAIIH_00542	CDS	429				hypothetical protein
+FAOCAIIH_00543	CDS	603			COG2826	IS30 family transposase ISSpn8
+FAOCAIIH_00544	CDS	201	atpE		COG0636	ATP synthase subunit c
+FAOCAIIH_00545	CDS	717	atpB		COG0356	ATP synthase subunit a
+FAOCAIIH_00546	CDS	495	atpF		COG0711	ATP synthase subunit b
+FAOCAIIH_00547	CDS	537	atpH		COG0712	ATP synthase subunit delta
+FAOCAIIH_00548	CDS	1506	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+FAOCAIIH_00549	CDS	879	atpG		COG0224	ATP synthase gamma chain
+FAOCAIIH_00550	CDS	1407	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+FAOCAIIH_00551	CDS	420	atpC		COG0355	ATP synthase epsilon chain
+FAOCAIIH_00552	CDS	1014	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+FAOCAIIH_00553	CDS	1167			COG0628	Putative transport protein
+FAOCAIIH_00554	CDS	1230	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+FAOCAIIH_00555	CDS	642	yecS		COG0765	L-cystine transport system permease protein YecS
+FAOCAIIH_00556	CDS	630	glnQ_1		COG1126	Glutamine transport ATP-binding protein GlnQ
+FAOCAIIH_00557	CDS	837	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+FAOCAIIH_00558	CDS	348				hypothetical protein
+FAOCAIIH_00559	CDS	1719	pgcA	5.4.2.2		Phosphoglucomutase
+FAOCAIIH_00560	CDS	534				IS630 family transposase IS630-Spn1
+FAOCAIIH_00561	CDS	255				hypothetical protein
+FAOCAIIH_00562	CDS	1092				hypothetical protein
+FAOCAIIH_00563	CDS	522				hypothetical protein
+FAOCAIIH_00564	CDS	870	gla		COG0580	Glycerol facilitator-aquaporin gla
+FAOCAIIH_00565	CDS	1197	tuf			Elongation factor Tu
+FAOCAIIH_00566	CDS	111				hypothetical protein
+FAOCAIIH_00567	CDS	507	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+FAOCAIIH_00568	CDS	243				hypothetical protein
+FAOCAIIH_00569	CDS	549	glnH_2		COG0834	ABC transporter glutamine-binding protein GlnH
+FAOCAIIH_00570	CDS	648	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+FAOCAIIH_00571	CDS	705				hypothetical protein
+FAOCAIIH_00572	CDS	753				hypothetical protein
+FAOCAIIH_00573	CDS	765				hypothetical protein
+FAOCAIIH_00574	CDS	351				hypothetical protein
+FAOCAIIH_00575	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+FAOCAIIH_00576	CDS	702	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+FAOCAIIH_00577	CDS	1221	divIB		COG1589	Cell division protein DivIB
+FAOCAIIH_00578	CDS	1059	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FAOCAIIH_00579	CDS	1353	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+FAOCAIIH_00580	CDS	642	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+FAOCAIIH_00581	CDS	2022				hypothetical protein
+FAOCAIIH_00582	CDS	348				hypothetical protein
+FAOCAIIH_00583	CDS	255				hypothetical protein
+FAOCAIIH_00584	CDS	1842	typA		COG1217	GTP-binding protein TypA/BipA
+FAOCAIIH_00585	CDS	726	rsuA_2	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+FAOCAIIH_00586	CDS	228				hypothetical protein
+FAOCAIIH_00587	CDS	381	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+FAOCAIIH_00588	CDS	270				hypothetical protein
+FAOCAIIH_00589	CDS	969	hdfR			HTH-type transcriptional regulator HdfR
+FAOCAIIH_00590	CDS	756		1.-.-.-		putative oxidoreductase
+FAOCAIIH_00591	CDS	930	rnz	3.1.26.11	COG1234	Ribonuclease Z
+FAOCAIIH_00592	CDS	624				hypothetical protein
+FAOCAIIH_00593	CDS	1239	hflX		COG2262	GTPase HflX
+FAOCAIIH_00594	CDS	885	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+FAOCAIIH_00595	CDS	171				hypothetical protein
+FAOCAIIH_00596	CDS	840	thyA	2.1.1.45	COG0207	Thymidylate synthase
+FAOCAIIH_00597	CDS	960	glcK	2.7.1.2	COG1940	Glucokinase
+FAOCAIIH_00598	CDS	879				hypothetical protein
+FAOCAIIH_00599	CDS	618	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+FAOCAIIH_00600	CDS	1722	menF	5.4.4.2		Isochorismate synthase MenF
+FAOCAIIH_00601	CDS	5709				hypothetical protein
+FAOCAIIH_00602	CDS	564				hypothetical protein
+FAOCAIIH_00603	CDS	1692				hypothetical protein
+FAOCAIIH_00604	CDS	738			COG4753	putative response regulatory protein
+FAOCAIIH_00605	CDS	1113	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+FAOCAIIH_00606	CDS	567	resA_1			Thiol-disulfide oxidoreductase ResA
+FAOCAIIH_00607	CDS	711	dsbD_1	1.8.1.8		Thiol:disulfide interchange protein DsbD
+FAOCAIIH_00608	CDS	861				hypothetical protein
+FAOCAIIH_00609	CDS	2055				hypothetical protein
+FAOCAIIH_00610	CDS	255				hypothetical protein
+FAOCAIIH_00611	CDS	558				hypothetical protein
+FAOCAIIH_00612	CDS	393				hypothetical protein
+FAOCAIIH_00613	CDS	510				hypothetical protein
+FAOCAIIH_00614	CDS	360				hypothetical protein
+FAOCAIIH_00615	CDS	246				hypothetical protein
+FAOCAIIH_00616	CDS	426				hypothetical protein
+FAOCAIIH_00617	CDS	231				hypothetical protein
+FAOCAIIH_00618	CDS	6702	lacZ	3.2.1.23		Beta-galactosidase
+FAOCAIIH_00619	CDS	1476	gatC_1		COG3775	PTS system galactitol-specific EIIC component
+FAOCAIIH_00620	CDS	306				hypothetical protein
+FAOCAIIH_00621	CDS	477				hypothetical protein
+FAOCAIIH_00622	CDS	6432				hypothetical protein
+FAOCAIIH_00623	CDS	105				hypothetical protein
+FAOCAIIH_00624	CDS	786				hypothetical protein
+FAOCAIIH_00625	CDS	819				hypothetical protein
+FAOCAIIH_00626	CDS	993	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FAOCAIIH_00627	CDS	333				hypothetical protein
+FAOCAIIH_00628	CDS	363				hypothetical protein
+FAOCAIIH_00629	CDS	690	rplA			50S ribosomal protein L1
+FAOCAIIH_00630	CDS	426	rplK			50S ribosomal protein L11
+FAOCAIIH_00631	CDS	717	yodJ	3.4.-.-	COG1876	Putative carboxypeptidase YodJ
+FAOCAIIH_00632	CDS	462				hypothetical protein
+FAOCAIIH_00633	CDS	1038	pepA_1	3.4.11.7	COG1363	Glutamyl aminopeptidase
+FAOCAIIH_00634	CDS	1326	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FAOCAIIH_00635	CDS	153				hypothetical protein
+FAOCAIIH_00636	CDS	579				hypothetical protein
+FAOCAIIH_00637	CDS	1401	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+FAOCAIIH_00638	CDS	606		1.-.-.-		Putative NAD(P)H nitroreductase
+FAOCAIIH_00639	CDS	801	tcyJ		COG0834	L-cystine-binding protein TcyJ
+FAOCAIIH_00640	CDS	792				hypothetical protein
+FAOCAIIH_00641	CDS	1845	uvrC		COG0322	UvrABC system protein C
+FAOCAIIH_00642	CDS	702				hypothetical protein
+FAOCAIIH_00643	CDS	1233	femA	2.3.2.17		Aminoacyltransferase FemA
+FAOCAIIH_00644	CDS	1221	femX	2.3.2.16	COG2348	Lipid II:glycine glycyltransferase
+FAOCAIIH_00645	CDS	780	axe1-6A		COG2382	Carbohydrate acetyl esterase/feruloyl esterase
+FAOCAIIH_00646	CDS	1662	rnj2	3.1.-.-		Ribonuclease J 2
+FAOCAIIH_00647	CDS	2223				hypothetical protein
+FAOCAIIH_00648	CDS	759	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+FAOCAIIH_00649	CDS	795	peb1A		COG0834	Major cell-binding factor
+FAOCAIIH_00650	CDS	678	glnM_1		COG0765	putative glutamine ABC transporter permease protein GlnM
+FAOCAIIH_00651	CDS	660	glnP		COG0765	putative glutamine ABC transporter permease protein GlnP
+FAOCAIIH_00652	CDS	1191		1.14.13.239		Carnitine monooxygenase reductase subunit
+FAOCAIIH_00653	CDS	882	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+FAOCAIIH_00654	CDS	1329				hypothetical protein
+FAOCAIIH_00655	CDS	657	regX3		COG0745	Sensory transduction protein regX3
+FAOCAIIH_00656	CDS	1380				hypothetical protein
+FAOCAIIH_00657	CDS	648			COG1136	putative ABC transporter ATP-binding protein
+FAOCAIIH_00658	CDS	1278				hypothetical protein
+FAOCAIIH_00659	CDS	282				hypothetical protein
+FAOCAIIH_00660	CDS	456				hypothetical protein
+FAOCAIIH_00661	CDS	885	lrp			Leucine-rich protein
+FAOCAIIH_00662	CDS	387	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+FAOCAIIH_00663	CDS	1344	cysS	6.1.1.16		Cysteine--tRNA ligase
+FAOCAIIH_00664	CDS	885	mshD	2.3.1.189		Mycothiol acetyltransferase
+FAOCAIIH_00665	CDS	618	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+FAOCAIIH_00666	CDS	2214	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+FAOCAIIH_00667	CDS	867	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+FAOCAIIH_00668	CDS	2250	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+FAOCAIIH_00669	CDS	225			COG2826	IS30 family transposase ISSpn8
+FAOCAIIH_00670	CDS	1002				hypothetical protein
+FAOCAIIH_00671	CDS	2406	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+FAOCAIIH_00672	CDS	510	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+FAOCAIIH_00673	CDS	1047	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+FAOCAIIH_00674	CDS	1416	bglH	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+FAOCAIIH_00675	CDS	1839	bglF		COG1263	PTS system beta-glucoside-specific EIIBCA component
+FAOCAIIH_00676	CDS	840	licT_1		COG3711	Transcription antiterminator LicT
+FAOCAIIH_00677	CDS	192				hypothetical protein
+FAOCAIIH_00678	CDS	195				hypothetical protein
+FAOCAIIH_00679	CDS	885	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FAOCAIIH_00680	CDS	738				hypothetical protein
+FAOCAIIH_00681	CDS	1098	desK	2.7.13.3	COG4585	Sensor histidine kinase DesK
+FAOCAIIH_00682	CDS	600	desR		COG2197	Transcriptional regulatory protein DesR
+FAOCAIIH_00683	CDS	1011	ccpA_1		COG1609	Catabolite control protein A
+FAOCAIIH_00684	CDS	249				hypothetical protein
+FAOCAIIH_00685	CDS	963	ansB	3.5.1.1	COG0252	L-asparaginase 2
+FAOCAIIH_00686	CDS	1389	cof	3.6.1.-		HMP-PP phosphatase
+FAOCAIIH_00687	CDS	453				Putative universal stress protein
+FAOCAIIH_00688	CDS	258				hypothetical protein
+FAOCAIIH_00689	CDS	1215	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+FAOCAIIH_00690	CDS	135	rpmH			50S ribosomal protein L34
+FAOCAIIH_00691	CDS	1005				hypothetical protein
+FAOCAIIH_00692	CDS	774	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+FAOCAIIH_00693	CDS	561	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+FAOCAIIH_00694	CDS	900				hypothetical protein
+FAOCAIIH_00695	CDS	2031				hypothetical protein
+FAOCAIIH_00696	CDS	642	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+FAOCAIIH_00697	CDS	159				hypothetical protein
+FAOCAIIH_00698	CDS	873	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+FAOCAIIH_00699	CDS	879	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+FAOCAIIH_00700	CDS	657	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+FAOCAIIH_00701	CDS	663	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+FAOCAIIH_00702	CDS	1257				hypothetical protein
+FAOCAIIH_00703	CDS	942	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+FAOCAIIH_00704	CDS	828	purR		COG0503	Pur operon repressor
+FAOCAIIH_00705	CDS	1251	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+FAOCAIIH_00706	CDS	795	pflA	1.97.1.4		Pyruvate formate-lyase-activating enzyme
+FAOCAIIH_00707	CDS	927	yidC2		COG0706	Membrane protein insertase YidC 2
+FAOCAIIH_00708	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+FAOCAIIH_00709	CDS	741		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+FAOCAIIH_00710	CDS	684	ybhL		COG0670	Inner membrane protein YbhL
+FAOCAIIH_00711	CDS	993	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+FAOCAIIH_00712	CDS	540	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+FAOCAIIH_00713	CDS	489	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+FAOCAIIH_00714	CDS	1038	ylbL		COG3480	putative protein YlbL
+FAOCAIIH_00715	CDS	1284	murA1_1	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+FAOCAIIH_00716	CDS	195				hypothetical protein
+FAOCAIIH_00717	CDS	825	endA	3.1.30.-		DNA-entry nuclease
+FAOCAIIH_00718	CDS	1332				hypothetical protein
+FAOCAIIH_00719	tRNA	74				tRNA-Cys(gca)
+FAOCAIIH_00720	CDS	3612	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+FAOCAIIH_00721	CDS	3678	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+FAOCAIIH_00722	CDS	414	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+FAOCAIIH_00723	CDS	162				hypothetical protein
+FAOCAIIH_00724	CDS	633	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+FAOCAIIH_00725	CDS	2016				hypothetical protein
+FAOCAIIH_00726	CDS	1218	Int-Tn			Transposase from transposon Tn916
+FAOCAIIH_00727	CDS	204				hypothetical protein
+FAOCAIIH_00728	CDS	231				hypothetical protein
+FAOCAIIH_00729	CDS	423				hypothetical protein
+FAOCAIIH_00730	CDS	354				hypothetical protein
+FAOCAIIH_00731	CDS	171				hypothetical protein
+FAOCAIIH_00732	CDS	1218	entS			Enterobactin exporter EntS
+FAOCAIIH_00733	CDS	1464	msr(D)			ABC-F type ribosomal protection protein Msr(D)
+FAOCAIIH_00734	CDS	300				hypothetical protein
+FAOCAIIH_00735	CDS	369				hypothetical protein
+FAOCAIIH_00736	CDS	336				hypothetical protein
+FAOCAIIH_00737	CDS	246				hypothetical protein
+FAOCAIIH_00738	CDS	1920	tet(M)			tetracycline resistance ribosomal protection protein Tet(M)
+FAOCAIIH_00739	CDS	915				hypothetical protein
+FAOCAIIH_00740	CDS	1002				hypothetical protein
+FAOCAIIH_00741	CDS	2112				hypothetical protein
+FAOCAIIH_00742	CDS	2448				hypothetical protein
+FAOCAIIH_00743	CDS	507				hypothetical protein
+FAOCAIIH_00744	CDS	498				hypothetical protein
+FAOCAIIH_00745	CDS	222				hypothetical protein
+FAOCAIIH_00746	CDS	1206				hypothetical protein
+FAOCAIIH_00747	CDS	1386				hypothetical protein
+FAOCAIIH_00748	CDS	384				hypothetical protein
+FAOCAIIH_00749	CDS	315				hypothetical protein
+FAOCAIIH_00750	CDS	171				hypothetical protein
+FAOCAIIH_00751	CDS	864				hypothetical protein
+FAOCAIIH_00752	CDS	621				hypothetical protein
+FAOCAIIH_00753	CDS	444	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+FAOCAIIH_00754	CDS	519				hypothetical protein
+FAOCAIIH_00755	CDS	1017	brpA		COG1316	Biofilm regulatory protein A
+FAOCAIIH_00756	CDS	1257	cinA		COG1058	Putative competence-damage inducible protein
+FAOCAIIH_00757	CDS	1167	recA		COG0468	Protein RecA
+FAOCAIIH_00758	CDS	1371	mepA			Multidrug export protein MepA
+FAOCAIIH_00759	CDS	957	lytA_1	3.5.1.28		Autolysin
+FAOCAIIH_00760	CDS	207				hypothetical protein
+FAOCAIIH_00761	CDS	360				hypothetical protein
+FAOCAIIH_00762	CDS	426				hypothetical protein
+FAOCAIIH_00763	CDS	795				hypothetical protein
+FAOCAIIH_00764	CDS	198				hypothetical protein
+FAOCAIIH_00765	CDS	552				hypothetical protein
+FAOCAIIH_00766	CDS	261				hypothetical protein
+FAOCAIIH_00767	CDS	264			COG3039	IS5 family transposase ISSpn7
+FAOCAIIH_00768	CDS	132				hypothetical protein
+FAOCAIIH_00769	CDS	2028				hypothetical protein
+FAOCAIIH_00770	CDS	600	yihX	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX
+FAOCAIIH_00771	CDS	702				hypothetical protein
+FAOCAIIH_00772	CDS	1695				hypothetical protein
+FAOCAIIH_00773	CDS	1005	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FAOCAIIH_00774	CDS	1062				hypothetical protein
+FAOCAIIH_00775	CDS	834				hypothetical protein
+FAOCAIIH_00776	CDS	132				hypothetical protein
+FAOCAIIH_00777	CDS	459				hypothetical protein
+FAOCAIIH_00778	CDS	609				hypothetical protein
+FAOCAIIH_00779	CDS	411				hypothetical protein
+FAOCAIIH_00780	CDS	1416	ply			Pneumolysin
+FAOCAIIH_00781	CDS	717	yeeN		COG0217	putative transcriptional regulatory protein YeeN
+FAOCAIIH_00782	CDS	450				hypothetical protein
+FAOCAIIH_00783	CDS	822			COG1132	putative ABC transporter ATP-binding protein
+FAOCAIIH_00784	CDS	1032			COG1132	putative ABC transporter ATP-binding protein
+FAOCAIIH_00785	CDS	363				hypothetical protein
+FAOCAIIH_00786	CDS	504				hypothetical protein
+FAOCAIIH_00787	CDS	447				hypothetical protein
+FAOCAIIH_00788	CDS	675				hypothetical protein
+FAOCAIIH_00789	CDS	300				hypothetical protein
+FAOCAIIH_00790	CDS	318	ytpP			Thioredoxin-like protein YtpP
+FAOCAIIH_00791	CDS	627				hypothetical protein
+FAOCAIIH_00792	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+FAOCAIIH_00793	CDS	396	ssb_2		COG0629	Single-stranded DNA-binding protein
+FAOCAIIH_00794	CDS	285	groS		COG0234	10 kDa chaperonin
+FAOCAIIH_00795	CDS	1623	groL		COG0459	60 kDa chaperonin
+FAOCAIIH_00796	CDS	327	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+FAOCAIIH_00797	CDS	774	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FAOCAIIH_00798	CDS	333				hypothetical protein
+FAOCAIIH_00799	CDS	348				hypothetical protein
+FAOCAIIH_00800	CDS	534				hypothetical protein
+FAOCAIIH_00801	CDS	777	recX			Regulatory protein RecX
+FAOCAIIH_00802	CDS	1356	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+FAOCAIIH_00803	CDS	852				hypothetical protein
+FAOCAIIH_00804	CDS	894				hypothetical protein
+FAOCAIIH_00805	CDS	897				hypothetical protein
+FAOCAIIH_00806	CDS	1206				hypothetical protein
+FAOCAIIH_00807	CDS	1998				hypothetical protein
+FAOCAIIH_00808	CDS	2661				hypothetical protein
+FAOCAIIH_00809	CDS	1530				hypothetical protein
+FAOCAIIH_00810	CDS	1263				ISL3 family transposase IS1193
+FAOCAIIH_00811	CDS	2325	pflB	2.3.1.54		Formate acetyltransferase
+FAOCAIIH_00812	CDS	1062	dinB	2.7.7.7	COG0389	DNA polymerase IV
+FAOCAIIH_00813	CDS	846	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+FAOCAIIH_00814	CDS	123				hypothetical protein
+FAOCAIIH_00815	CDS	549				hypothetical protein
+FAOCAIIH_00816	CDS	1890				hypothetical protein
+FAOCAIIH_00817	CDS	1566				hypothetical protein
+FAOCAIIH_00818	CDS	741	glnQ_3			Glutamine transport ATP-binding protein GlnQ
+FAOCAIIH_00819	CDS	216				hypothetical protein
+FAOCAIIH_00820	CDS	1251	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+FAOCAIIH_00821	CDS	357				hypothetical protein
+FAOCAIIH_00822	CDS	237				hypothetical protein
+FAOCAIIH_00823	CDS	1023	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+FAOCAIIH_00824	CDS	477	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+FAOCAIIH_00825	CDS	1701	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+FAOCAIIH_00826	CDS	1668				putative protein
+FAOCAIIH_00827	CDS	366				putative protein
+FAOCAIIH_00828	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+FAOCAIIH_00829	CDS	1545	prfC			Peptide chain release factor 3
+FAOCAIIH_00830	CDS	303	gatC_2	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+FAOCAIIH_00831	CDS	1467	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+FAOCAIIH_00832	CDS	1443	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+FAOCAIIH_00833	CDS	1044	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+FAOCAIIH_00834	CDS	561	efp			Elongation factor P
+FAOCAIIH_00835	CDS	390				putative protein
+FAOCAIIH_00836	CDS	423	nusB		COG0781	Transcription antitermination protein NusB
+FAOCAIIH_00837	CDS	186				hypothetical protein
+FAOCAIIH_00838	CDS	768	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+FAOCAIIH_00839	CDS	867	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+FAOCAIIH_00840	CDS	1368	accC	6.3.4.14	COG0439	Biotin carboxylase
+FAOCAIIH_00841	CDS	423	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+FAOCAIIH_00842	CDS	486	accB			Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+FAOCAIIH_00843	CDS	1236	fabF	2.3.1.179		3-oxoacyl-[acyl-carrier-protein] synthase 2
+FAOCAIIH_00844	CDS	732	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FAOCAIIH_00845	CDS	921	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+FAOCAIIH_00846	CDS	975		1.6.5.11	COG2070	NADH:quinone reductase
+FAOCAIIH_00847	CDS	225	acpA		COG0236	Acyl carrier protein
+FAOCAIIH_00848	CDS	975	fabH	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+FAOCAIIH_00849	CDS	435				hypothetical protein
+FAOCAIIH_00850	CDS	786	fabM	5.3.3.14	COG1024	Trans-2-decenoyl-[acyl-carrier-protein] isomerase
+FAOCAIIH_00851	CDS	1365	yclM	2.7.2.4	COG0527	Aspartokinase 3
+FAOCAIIH_00852	CDS	372				hypothetical protein
+FAOCAIIH_00853	CDS	1275	serS	6.1.1.11		Serine--tRNA ligase
+FAOCAIIH_00854	CDS	900				hypothetical protein
+FAOCAIIH_00855	CDS	549				hypothetical protein
+FAOCAIIH_00856	CDS	1317	alsT		COG1115	Amino-acid carrier protein AlsT
+FAOCAIIH_00857	CDS	2337	mutS2	3.1.-.-		Endonuclease MutS2
+FAOCAIIH_00858	CDS	549				hypothetical protein
+FAOCAIIH_00859	CDS	303				hypothetical protein
+FAOCAIIH_00860	CDS	882	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+FAOCAIIH_00861	CDS	615	spsB_1	3.4.21.89		Signal peptidase IB
+FAOCAIIH_00862	CDS	2367	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+FAOCAIIH_00863	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+FAOCAIIH_00864	CDS	366				hypothetical protein
+FAOCAIIH_00865	CDS	915				hypothetical protein
+FAOCAIIH_00866	CDS	147				hypothetical protein
+FAOCAIIH_00867	CDS	633	liaR		COG2197	Transcriptional regulatory protein LiaR
+FAOCAIIH_00868	CDS	996				hypothetical protein
+FAOCAIIH_00869	CDS	699	liaF		COG4758	Protein LiaF
+FAOCAIIH_00870	CDS	1011	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+FAOCAIIH_00871	CDS	1008		2.7.4.2		Phosphomevalonate kinase
+FAOCAIIH_00872	CDS	954				hypothetical protein
+FAOCAIIH_00873	CDS	879	galK_1	2.7.1.6		Galactokinase
+FAOCAIIH_00874	CDS	330				hypothetical protein
+FAOCAIIH_00875	CDS	588				hypothetical protein
+FAOCAIIH_00876	CDS	1233				hypothetical protein
+FAOCAIIH_00877	CDS	999				hypothetical protein
+FAOCAIIH_00878	CDS	963				hypothetical protein
+FAOCAIIH_00879	CDS	690	arlR_1		COG0745	Response regulator ArlR
+FAOCAIIH_00880	CDS	1425	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+FAOCAIIH_00881	CDS	1395	mapZ			Mid-cell-anchored protein Z
+FAOCAIIH_00882	CDS	1158	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+FAOCAIIH_00883	CDS	342	gpsB		COG3599	Cell cycle protein GpsB
+FAOCAIIH_00884	CDS	528				hypothetical protein
+FAOCAIIH_00885	CDS	597	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+FAOCAIIH_00886	CDS	2160	ponA		COG0744	Penicillin-binding protein 1A
+FAOCAIIH_00887	CDS	5304		3.2.1.97		Endo-alpha-N-acetylgalactosaminidase
+FAOCAIIH_00888	CDS	1983	sarA_2		COG4166	Oligopeptide-binding protein SarA
+FAOCAIIH_00889	CDS	492	glf_1	5.4.99.9	COG0562	UDP-galactopyranose mutase
+FAOCAIIH_00890	CDS	234	glf_2	5.4.99.9	COG0562	UDP-galactopyranose mutase
+FAOCAIIH_00891	CDS	852	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+FAOCAIIH_00892	CDS	1050	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+FAOCAIIH_00893	CDS	597	rfbC	5.1.3.-		Protein RmlC 
+FAOCAIIH_00894	CDS	870	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+FAOCAIIH_00895	CDS	1089	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+FAOCAIIH_00896	CDS	1422				hypothetical protein
+FAOCAIIH_00897	CDS	1338				hypothetical protein
+FAOCAIIH_00898	CDS	879				hypothetical protein
+FAOCAIIH_00899	CDS	825				hypothetical protein
+FAOCAIIH_00900	CDS	744	tarA	2.4.1.187		N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+FAOCAIIH_00901	CDS	1368				hypothetical protein
+FAOCAIIH_00902	CDS	684	cpsD	2.7.10.2		Tyrosine-protein kinase CpsD
+FAOCAIIH_00903	CDS	693	ywqC		COG3944	putative capsular polysaccharide biosynthesis protein YwqC
+FAOCAIIH_00904	CDS	732	cpsB	3.1.3.48		Tyrosine-protein phosphatase CpsB
+FAOCAIIH_00905	CDS	1446	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+FAOCAIIH_00906	CDS	711	treR		COG2188	HTH-type transcriptional regulator TreR
+FAOCAIIH_00907	CDS	1968				hypothetical protein
+FAOCAIIH_00908	CDS	1626	treA	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+FAOCAIIH_00909	CDS	249				hypothetical protein
+FAOCAIIH_00910	CDS	795	murI	5.1.1.3	COG0796	Glutamate racemase
+FAOCAIIH_00911	CDS	972		3.6.1.66		dITP/XTP pyrophosphatase
+FAOCAIIH_00912	CDS	522				hypothetical protein
+FAOCAIIH_00913	CDS	462				hypothetical protein
+FAOCAIIH_00914	CDS	735			COG0582	Tyrosine recombinase XerD-like protein
+FAOCAIIH_00915	CDS	729	scpA			Segregation and condensation protein A
+FAOCAIIH_00916	CDS	570	scpB			Segregation and condensation protein B
+FAOCAIIH_00917	CDS	723	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+FAOCAIIH_00918	CDS	243			COG0759	Putative membrane protein insertion efficiency factor
+FAOCAIIH_00919	CDS	966	yclQ		COG4607	Petrobactin-binding protein YclQ
+FAOCAIIH_00920	CDS	753	yclP	7.2.2.-	COG4604	Petrobactin import ATP-binding protein YclP
+FAOCAIIH_00921	CDS	957	yclO		COG4605	Petrobactin import system permease protein YclO
+FAOCAIIH_00922	CDS	960	yclN		COG4606	Petrobactin import system permease protein YclN
+FAOCAIIH_00923	CDS	153				hypothetical protein
+FAOCAIIH_00924	CDS	720	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+FAOCAIIH_00925	CDS	1065	pepA_2	3.4.11.7	COG1363	Glutamyl aminopeptidase
+FAOCAIIH_00926	CDS	297				hypothetical protein
+FAOCAIIH_00927	CDS	444				hypothetical protein
+FAOCAIIH_00928	CDS	765				hypothetical protein
+FAOCAIIH_00929	CDS	729	opuBA		COG1125	Choline transport ATP-binding protein OpuBA
+FAOCAIIH_00930	CDS	1521				hypothetical protein
+FAOCAIIH_00931	CDS	807				hypothetical protein
+FAOCAIIH_00932	CDS	537				hypothetical protein
+FAOCAIIH_00933	CDS	891	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+FAOCAIIH_00934	CDS	354	adhR		COG0789	HTH-type transcriptional regulator AdhR
+FAOCAIIH_00935	CDS	1038	adh_1	1.1.1.1	COG1063	Alcohol dehydrogenase
+FAOCAIIH_00936	CDS	1008	melR		COG1609	HTH-type transcriptional repressor MelR
+FAOCAIIH_00937	CDS	1179	galK_2	2.7.1.6	COG0153	Galactokinase
+FAOCAIIH_00938	CDS	1482	galT_1	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+FAOCAIIH_00939	CDS	405	paaI	3.1.2.-	COG2050	Acyl-coenzyme A thioesterase PaaI
+FAOCAIIH_00940	CDS	765	dpnC	3.1.21.4		Type-2 restriction enzyme DpnI
+FAOCAIIH_00941	CDS	462				hypothetical protein
+FAOCAIIH_00942	CDS	1263	pucK		COG2233	Uric acid permease PucK
+FAOCAIIH_00943	CDS	582	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+FAOCAIIH_00944	CDS	252				hypothetical protein
+FAOCAIIH_00945	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+FAOCAIIH_00946	CDS	156				hypothetical protein
+FAOCAIIH_00947	CDS	270				hypothetical protein
+FAOCAIIH_00948	CDS	246				hypothetical protein
+FAOCAIIH_00949	CDS	1746	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+FAOCAIIH_00950	CDS	1743	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+FAOCAIIH_00951	CDS	693	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+FAOCAIIH_00952	CDS	1227	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+FAOCAIIH_00953	CDS	2079	pfbA		COG5434	Plasmin and fibronectin-binding protein A
+FAOCAIIH_00954	CDS	747				hypothetical protein
+FAOCAIIH_00955	CDS	642	phoU_2		COG0704	Phosphate-specific transport system accessory protein PhoU 
+FAOCAIIH_00956	CDS	1476	galT_2	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+FAOCAIIH_00957	CDS	1011	lnpD_2	5.1.3.2		UDP-glucose 4-epimerase
+FAOCAIIH_00958	CDS	660				hypothetical protein
+FAOCAIIH_00959	CDS	1068				hypothetical protein
+FAOCAIIH_00960	CDS	1011	btuD_7	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FAOCAIIH_00961	CDS	1692				hypothetical protein
+FAOCAIIH_00962	CDS	711				hypothetical protein
+FAOCAIIH_00963	CDS	327				hypothetical protein
+FAOCAIIH_00964	CDS	1002	ccpA_2		COG1609	Catabolite control protein A
+FAOCAIIH_00965	CDS	297				hypothetical protein
+FAOCAIIH_00966	CDS	1362	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+FAOCAIIH_00967	CDS	567	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+FAOCAIIH_00968	CDS	1005	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+FAOCAIIH_00969	CDS	768	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+FAOCAIIH_00970	CDS	600	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+FAOCAIIH_00971	CDS	1224	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+FAOCAIIH_00972	CDS	777	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+FAOCAIIH_00973	CDS	732				hypothetical protein
+FAOCAIIH_00974	CDS	1152				hypothetical protein
+FAOCAIIH_00975	CDS	660	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+FAOCAIIH_00976	CDS	447				hypothetical protein
+FAOCAIIH_00977	CDS	204				hypothetical protein
+FAOCAIIH_00978	CDS	609				hypothetical protein
+FAOCAIIH_00979	CDS	171				hypothetical protein
+FAOCAIIH_00980	CDS	567				hypothetical protein
+FAOCAIIH_00981	CDS	165				hypothetical protein
+FAOCAIIH_00982	CDS	1482				Putative trans-acting regulator
+FAOCAIIH_00983	CDS	1002	rbsR		COG1609	Ribose operon repressor
+FAOCAIIH_00984	CDS	918	yteP_1		COG4209	putative multiple-sugar transport system permease YteP
+FAOCAIIH_00985	CDS	891				hypothetical protein
+FAOCAIIH_00986	CDS	1617				hypothetical protein
+FAOCAIIH_00987	CDS	1320	sacA	3.2.1.26		Sucrose-6-phosphate hydrolase
+FAOCAIIH_00988	tRNA	76				tRNA-Lys(ctt)
+FAOCAIIH_00989	CDS	1272			COG2256	putative AAA domain-containing protein
+FAOCAIIH_00990	CDS	240				hypothetical protein
+FAOCAIIH_00991	CDS	180				hypothetical protein
+FAOCAIIH_00992	CDS	453				hypothetical protein
+FAOCAIIH_00993	CDS	471				hypothetical protein
+FAOCAIIH_00994	CDS	1089				hypothetical protein
+FAOCAIIH_00995	CDS	159				hypothetical protein
+FAOCAIIH_00996	CDS	1035				hypothetical protein
+FAOCAIIH_00997	CDS	2244				hypothetical protein
+FAOCAIIH_00998	CDS	1020				hypothetical protein
+FAOCAIIH_00999	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+FAOCAIIH_01000	CDS	744	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+FAOCAIIH_01001	CDS	1797	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+FAOCAIIH_01002	CDS	156				hypothetical protein
+FAOCAIIH_01003	CDS	369				hypothetical protein
+FAOCAIIH_01004	CDS	669	aqpZ2			Aquaporin Z 2
+FAOCAIIH_01005	CDS	534	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+FAOCAIIH_01006	CDS	315	trxA		COG0526	Thioredoxin
+FAOCAIIH_01007	CDS	222				hypothetical protein
+FAOCAIIH_01008	CDS	381				hypothetical protein
+FAOCAIIH_01009	CDS	954				hypothetical protein
+FAOCAIIH_01010	CDS	501	sstT_1		COG3633	Serine/threonine transporter SstT
+FAOCAIIH_01011	CDS	444	sstT_2		COG3633	Serine/threonine transporter SstT
+FAOCAIIH_01012	CDS	561	ykuT		COG0668	putative MscS family protein YkuT
+FAOCAIIH_01013	CDS	909				hypothetical protein
+FAOCAIIH_01014	CDS	528	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+FAOCAIIH_01015	CDS	1107	yqeH		COG1161	putative protein YqeH
+FAOCAIIH_01016	CDS	312	yhbY		COG1534	RNA-binding protein YhbY
+FAOCAIIH_01017	CDS	630	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+FAOCAIIH_01018	CDS	594				hypothetical protein
+FAOCAIIH_01019	CDS	501	sttH	3.5.2.19		Streptothricin hydrolase
+FAOCAIIH_01020	CDS	354	rsfS		COG0799	Ribosomal silencing factor RsfS
+FAOCAIIH_01021	CDS	747	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FAOCAIIH_01022	CDS	1098	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+FAOCAIIH_01023	CDS	918	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+FAOCAIIH_01024	CDS	1392	yhdG		COG0531	putative amino acid permease YhdG
+FAOCAIIH_01025	CDS	558	resA_2			Thiol-disulfide oxidoreductase ResA
+FAOCAIIH_01026	CDS	708	dsbD_2	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+FAOCAIIH_01027	CDS	417				hypothetical protein
+FAOCAIIH_01028	CDS	330				IS630 family transposase IS630-Spn1
+FAOCAIIH_01029	CDS	555				ISL3 family transposase IS1167
+FAOCAIIH_01030	CDS	288				hypothetical protein
+FAOCAIIH_01031	CDS	528				ISL3 family transposase ISSpn14
+FAOCAIIH_01032	CDS	1764				hypothetical protein
+FAOCAIIH_01033	CDS	591	dinG_1	3.1.-.-		3'-5' exonuclease DinG
+FAOCAIIH_01034	CDS	492				putative protein
+FAOCAIIH_01035	CDS	693	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+FAOCAIIH_01036	CDS	315				hypothetical protein
+FAOCAIIH_01037	CDS	546	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+FAOCAIIH_01038	CDS	1380	glmU		COG1207	Bifunctional protein GlmU
+FAOCAIIH_01039	CDS	789				hypothetical protein
+FAOCAIIH_01040	CDS	843				hypothetical protein
+FAOCAIIH_01041	CDS	483				hypothetical protein
+FAOCAIIH_01042	CDS	621	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+FAOCAIIH_01043	CDS	192				hypothetical protein
+FAOCAIIH_01044	CDS	270				IS3 family transposase ISSpn1
+FAOCAIIH_01045	CDS	942	prsA	5.2.1.8		Foldase protein PrsA
+FAOCAIIH_01046	CDS	714	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+FAOCAIIH_01047	CDS	1812	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+FAOCAIIH_01048	CDS	954				hypothetical protein
+FAOCAIIH_01049	CDS	861	tehB	2.1.1.-	COG0500	putative S-adenosyl-L-methionine-dependent methyltransferase TehB
+FAOCAIIH_01050	CDS	468	smpB		COG0691	SsrA-binding protein
+FAOCAIIH_01051	CDS	2355	rnr	3.1.13.1	COG0557	Ribonuclease R
+FAOCAIIH_01052	CDS	234	secG		COG1314	putative protein-export membrane protein SecG
+FAOCAIIH_01053	CDS	1200	sbnD			Staphyloferrin B transporter
+FAOCAIIH_01054	CDS	606	coaE	2.7.1.24		Dephospho-CoA kinase
+FAOCAIIH_01055	CDS	825	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+FAOCAIIH_01056	CDS	900	era		COG1159	GTPase Era
+FAOCAIIH_01057	CDS	396	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+FAOCAIIH_01058	CDS	498	ybeY	3.1.-.-		Endoribonuclease YbeY
+FAOCAIIH_01059	CDS	1656	rqcH		COG1293	Rqc2 RqcH
+FAOCAIIH_01060	CDS	2109	lytB	3.2.1.96	COG4193	Putative endo-beta-N-acetylglucosaminidase
+FAOCAIIH_01061	CDS	939	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+FAOCAIIH_01062	CDS	801	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+FAOCAIIH_01063	CDS	381	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+FAOCAIIH_01064	CDS	360	rplT		COG0292	50S ribosomal protein L20
+FAOCAIIH_01065	CDS	201	rpmI		COG0291	50S ribosomal protein L35
+FAOCAIIH_01066	CDS	558	infC		COG0290	Translation initiation factor IF-3
+FAOCAIIH_01067	CDS	1185				hypothetical protein
+FAOCAIIH_01068	CDS	588	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+FAOCAIIH_01069	CDS	2241	comEC		COG0658	ComE operon protein 3
+FAOCAIIH_01070	CDS	651	comEA		COG1555	ComE operon protein 1
+FAOCAIIH_01071	CDS	570		2.3.1.-	COG1670	Acetyltransferase
+FAOCAIIH_01072	CDS	426	ald_1	1.4.1.1	COG0686	Alanine dehydrogenase
+FAOCAIIH_01073	CDS	276	ald_2	1.4.1.1	COG0686	Alanine dehydrogenase
+FAOCAIIH_01074	CDS	228				hypothetical protein
+FAOCAIIH_01075	CDS	501				hypothetical protein
+FAOCAIIH_01076	CDS	969			COG1702	PhoH-like protein
+FAOCAIIH_01077	CDS	216				hypothetical protein
+FAOCAIIH_01078	CDS	855	cvfB			Conserved virulence factor B
+FAOCAIIH_01079	CDS	558	frr			Ribosome-recycling factor
+FAOCAIIH_01080	CDS	738	pyrH	2.7.4.22	COG0528	Uridylate kinase
+FAOCAIIH_01081	CDS	1335	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+FAOCAIIH_01082	CDS	879	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+FAOCAIIH_01083	CDS	318	yabA		COG4467	Initiation-control protein YabA
+FAOCAIIH_01084	CDS	891				hypothetical protein
+FAOCAIIH_01085	CDS	639	tmk	2.7.4.9	COG0125	Thymidylate kinase
+FAOCAIIH_01086	CDS	798	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+FAOCAIIH_01087	CDS	1263	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+FAOCAIIH_01088	CDS	1110	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+FAOCAIIH_01089	CDS	1884				hypothetical protein
+FAOCAIIH_01090	CDS	888	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+FAOCAIIH_01091	CDS	462	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+FAOCAIIH_01092	CDS	909				hypothetical protein
+FAOCAIIH_01093	CDS	672				hypothetical protein
+FAOCAIIH_01094	CDS	222				hypothetical protein
+FAOCAIIH_01095	CDS	810	yidA_2	3.1.3.23	COG0561	Sugar phosphatase YidA
+FAOCAIIH_01096	CDS	876		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+FAOCAIIH_01097	CDS	1086	aguA	3.5.3.12	COG2957	Agmatine deiminase
+FAOCAIIH_01098	CDS	1128	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+FAOCAIIH_01099	CDS	1260		1.5.1.43		Carboxynorspermidine synthase
+FAOCAIIH_01100	CDS	861	speE	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+FAOCAIIH_01101	CDS	528				hypothetical protein
+FAOCAIIH_01102	CDS	1476	speA	4.1.1.19	COG1982	Arginine decarboxylase
+FAOCAIIH_01103	CDS	876			COG2826	IS30 family transposase ISSpn8
+FAOCAIIH_01104	CDS	429				hypothetical protein
+FAOCAIIH_01105	CDS	1989	bceB		COG0577	Bacitracin export permease protein BceB
+FAOCAIIH_01106	CDS	759	bceA		COG1136	Bacitracin export ATP-binding protein BceA
+FAOCAIIH_01107	CDS	111				hypothetical protein
+FAOCAIIH_01108	CDS	192				hypothetical protein
+FAOCAIIH_01109	CDS	273				hypothetical protein
+FAOCAIIH_01110	CDS	450				Protein SprT-like protein
+FAOCAIIH_01111	CDS	2130	yhgF		COG2183	Protein YhgF
+FAOCAIIH_01112	CDS	132				hypothetical protein
+FAOCAIIH_01113	CDS	906			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+FAOCAIIH_01114	CDS	816			COG3689	Putative two-component membrane permease complex subunit SMU_746c
+FAOCAIIH_01115	CDS	717				hypothetical protein
+FAOCAIIH_01116	CDS	282				hypothetical protein
+FAOCAIIH_01117	CDS	384			COG3039	IS5 family transposase ISSpn7
+FAOCAIIH_01118	CDS	873				hypothetical protein
+FAOCAIIH_01119	CDS	2259	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+FAOCAIIH_01120	CDS	231				hypothetical protein
+FAOCAIIH_01121	CDS	684	artQ		COG0765	Arginine transport system permease protein ArtQ
+FAOCAIIH_01122	CDS	735	glnQ_4	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+FAOCAIIH_01123	CDS	858	folD			Bifunctional protein FolD protein
+FAOCAIIH_01124	CDS	873	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+FAOCAIIH_01125	CDS	684	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+FAOCAIIH_01126	CDS	1212	deoB	5.4.2.7	COG1015	Phosphopentomutase
+FAOCAIIH_01127	CDS	543				hypothetical protein
+FAOCAIIH_01128	CDS	810	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+FAOCAIIH_01129	CDS	408				hypothetical protein
+FAOCAIIH_01130	CDS	576				hypothetical protein
+FAOCAIIH_01131	CDS	513				hypothetical protein
+FAOCAIIH_01132	CDS	711	deoD_1	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+FAOCAIIH_01133	CDS	525				hypothetical protein
+FAOCAIIH_01134	CDS	237	rpsT		COG0268	30S ribosomal protein S20
+FAOCAIIH_01135	CDS	921	coaA	2.7.1.33	COG1072	Pantothenate kinase
+FAOCAIIH_01136	CDS	237				hypothetical protein
+FAOCAIIH_01137	CDS	582	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+FAOCAIIH_01138	CDS	1278	pdp	2.4.2.2	COG0213	Pyrimidine-nucleoside phosphorylase
+FAOCAIIH_01139	CDS	663	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+FAOCAIIH_01140	CDS	390	cdd	3.5.4.5	COG0295	Cytidine deaminase
+FAOCAIIH_01141	CDS	1053	tmpC		COG1744	Membrane lipoprotein TmpC
+FAOCAIIH_01142	CDS	1536	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+FAOCAIIH_01143	CDS	1059	rfuC		COG4603	putative riboflavin import permease protein RfuC
+FAOCAIIH_01144	CDS	957				hypothetical protein
+FAOCAIIH_01145	CDS	213				IS3 family transposase ISSpn11
+FAOCAIIH_01146	CDS	834				IS3 family transposase ISSpn11
+FAOCAIIH_01147	CDS	642	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+FAOCAIIH_01148	CDS	1944	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+FAOCAIIH_01149	CDS	108				hypothetical protein
+FAOCAIIH_01150	CDS	2436	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+FAOCAIIH_01151	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+FAOCAIIH_01152	CDS	705	sarA_3		COG4166	Oligopeptide-binding protein SarA
+FAOCAIIH_01153	CDS	690				hypothetical protein
+FAOCAIIH_01154	CDS	924				hypothetical protein
+FAOCAIIH_01155	CDS	645	pcp_1	3.4.19.3		Pyrrolidone-carboxylate peptidase
+FAOCAIIH_01156	CDS	231				hypothetical protein
+FAOCAIIH_01157	tRNA	81				tRNA-Tyr(gta)
+FAOCAIIH_01158	tRNA	72				tRNA-Gln(ttg)
+FAOCAIIH_01159	CDS	1203	rpsA		COG0539	30S Ribosomal protein S1
+FAOCAIIH_01160	CDS	504				ISL3 family transposase IS1167
+FAOCAIIH_01161	CDS	678				ISL3 family transposase ISSpn14
+FAOCAIIH_01162	CDS	498	msrC	1.8.4.14	COG1956	Free methionine-R-sulfoxide reductase
+FAOCAIIH_01163	CDS	1656	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+FAOCAIIH_01164	CDS	195				hypothetical protein
+FAOCAIIH_01165	CDS	771				putative ABC transporter ATP-binding protein
+FAOCAIIH_01166	CDS	1263				hypothetical protein
+FAOCAIIH_01167	CDS	1227	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+FAOCAIIH_01168	CDS	441	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+FAOCAIIH_01169	CDS	1413				hypothetical protein
+FAOCAIIH_01170	CDS	1242	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+FAOCAIIH_01171	CDS	1110				hypothetical protein
+FAOCAIIH_01172	tmRNA	345	ssrA			transfer-messenger RNA, SsrA
+FAOCAIIH_01173	tRNA	91				tRNA-Ser(gga)
+FAOCAIIH_01174	CDS	741	lacR_1			Lactose phosphotransferase system repressor
+FAOCAIIH_01175	CDS	912	lacC_1	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+FAOCAIIH_01176	CDS	1953	fruA_2		COG1299	PTS system fructose-specific EIIABC component
+FAOCAIIH_01177	CDS	2304	ftsK		COG1674	DNA translocase FtsK
+FAOCAIIH_01178	CDS	429				hypothetical protein
+FAOCAIIH_01179	CDS	1203	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+FAOCAIIH_01180	CDS	1215	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+FAOCAIIH_01181	CDS	825	ybbA		COG2819	putative protein YbbA
+FAOCAIIH_01182	CDS	336				hypothetical protein
+FAOCAIIH_01183	CDS	408				hypothetical protein
+FAOCAIIH_01184	CDS	1167				hypothetical protein
+FAOCAIIH_01185	CDS	1494	hsdM	2.1.1.72	COG0286	Type I restriction enzyme EcoKI M protein
+FAOCAIIH_01186	CDS	1059				hypothetical protein
+FAOCAIIH_01187	CDS	237				hypothetical protein
+FAOCAIIH_01188	CDS	414				hypothetical protein
+FAOCAIIH_01189	CDS	966	xerC_3		COG4974	Tyrosine recombinase XerC
+FAOCAIIH_01190	CDS	1107				hypothetical protein
+FAOCAIIH_01191	CDS	3351				hypothetical protein
+FAOCAIIH_01192	CDS	471	argR_1		COG1438	Arginine regulator
+FAOCAIIH_01193	CDS	2274	pepX	3.4.14.11		Xaa-Pro dipeptidyl-peptidase
+FAOCAIIH_01194	CDS	3102	dnaE2	2.7.7.7		Error-prone DNA polymerase
+FAOCAIIH_01195	CDS	1008	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+FAOCAIIH_01196	CDS	1506	pyk	2.7.1.40	COG0469	Pyruvate kinase
+FAOCAIIH_01197	CDS	165				hypothetical protein
+FAOCAIIH_01198	CDS	861				hypothetical protein
+FAOCAIIH_01199	CDS	987				hypothetical protein
+FAOCAIIH_01200	CDS	1476				hypothetical protein
+FAOCAIIH_01201	CDS	924	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+FAOCAIIH_01202	CDS	930	yteP_2		COG4209	putative multiple-sugar transport system permease YteP
+FAOCAIIH_01203	CDS	222				hypothetical protein
+FAOCAIIH_01204	CDS	261				hypothetical protein
+FAOCAIIH_01205	CDS	612	rpsD		COG0522	30S ribosomal protein S4
+FAOCAIIH_01206	CDS	1053	saeS	2.7.13.3		Histidine protein kinase SaeS
+FAOCAIIH_01207	CDS	699	saeR			Response regulator SaeR
+FAOCAIIH_01208	CDS	1662				hypothetical protein
+FAOCAIIH_01209	CDS	411				hypothetical protein
+FAOCAIIH_01210	CDS	540				hypothetical protein
+FAOCAIIH_01211	CDS	159				hypothetical protein
+FAOCAIIH_01212	CDS	666	ktrA		COG0569	Ktr system potassium uptake protein A
+FAOCAIIH_01213	CDS	1380	ktrB		COG0168	Ktr system potassium uptake protein B
+FAOCAIIH_01214	CDS	765	deoD_2	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+FAOCAIIH_01215	CDS	297		2.8.1.-	COG0607	Sulfurtransferase
+FAOCAIIH_01216	CDS	363				hypothetical protein
+FAOCAIIH_01217	CDS	258				hypothetical protein
+FAOCAIIH_01218	CDS	855	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+FAOCAIIH_01219	CDS	1038	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+FAOCAIIH_01220	CDS	1167	agaS	3.5.99.-	COG2222	Putative D-galactosamine-6-phosphate deaminase AgaS
+FAOCAIIH_01221	CDS	339	manX_2	2.7.1.191		PTS system mannose-specific EIIAB component
+FAOCAIIH_01222	CDS	816	manZ_3		COG3716	PTS system mannose-specific EIID component
+FAOCAIIH_01223	CDS	906				hypothetical protein
+FAOCAIIH_01224	CDS	477	sorB_2	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+FAOCAIIH_01225	CDS	1788	bga	3.2.1.23		Beta-galactosidase
+FAOCAIIH_01226	CDS	717	gamR			HTH-type transcriptional repressor GamR
+FAOCAIIH_01227	CDS	3939	strH	3.2.1.52	COG3525	Beta-N-acetylhexosaminidase
+FAOCAIIH_01228	CDS	1299	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+FAOCAIIH_01229	CDS	228				hypothetical protein
+FAOCAIIH_01230	CDS	1092	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+FAOCAIIH_01231	CDS	489	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+FAOCAIIH_01232	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FAOCAIIH_01233	CDS	1548	purH			Bifunctional purine biosynthesis protein PurH
+FAOCAIIH_01234	CDS	510				hypothetical protein
+FAOCAIIH_01235	CDS	546	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+FAOCAIIH_01236	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+FAOCAIIH_01237	CDS	1443	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+FAOCAIIH_01238	CDS	3726	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+FAOCAIIH_01239	CDS	708	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+FAOCAIIH_01240	CDS	1350	lcnD_1			Lactococcin A secretion protein LcnD
+FAOCAIIH_01241	CDS	2154	lagD_2	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+FAOCAIIH_01242	CDS	231				hypothetical protein
+FAOCAIIH_01243	CDS	294			COG3039	IS5 family transposase ISSpn7
+FAOCAIIH_01244	CDS	234	acpP		COG0236	Acyl carrier protein
+FAOCAIIH_01245	CDS	993	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+FAOCAIIH_01246	CDS	771	recO		COG1381	DNA repair protein RecO
+FAOCAIIH_01247	CDS	1170	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+FAOCAIIH_01248	CDS	1011				hypothetical protein
+FAOCAIIH_01249	CDS	438	yccU		COG1832	putative protein YccU
+FAOCAIIH_01250	CDS	2670	polA	2.7.7.7		DNA polymerase I
+FAOCAIIH_01251	CDS	258				hypothetical protein
+FAOCAIIH_01252	CDS	234				hypothetical protein
+FAOCAIIH_01253	CDS	480				hypothetical protein
+FAOCAIIH_01254	CDS	969	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FAOCAIIH_01255	CDS	816				hypothetical protein
+FAOCAIIH_01256	CDS	498	mtcA1	4.2.1.1	COG0288	Beta-carbonic anhydrase 1
+FAOCAIIH_01257	CDS	1263	radA	3.6.4.-	COG1066	DNA repair protein RadA
+FAOCAIIH_01258	CDS	558				hypothetical protein
+FAOCAIIH_01259	CDS	444	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+FAOCAIIH_01260	CDS	468	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+FAOCAIIH_01261	CDS	1329	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+FAOCAIIH_01262	CDS	237				hypothetical protein
+FAOCAIIH_01263	CDS	207				ISL3 family transposase IS1167
+FAOCAIIH_01264	CDS	246	lytA_2	3.5.1.28		Autolysin
+FAOCAIIH_01265	CDS	150	rpmGA			50S ribosomal protein L33 1
+FAOCAIIH_01266	CDS	183	rpmF		COG0333	50S ribosomal protein L32
+FAOCAIIH_01267	CDS	201				hypothetical protein
+FAOCAIIH_01268	CDS	1008				hypothetical protein
+FAOCAIIH_01269	CDS	2031				hypothetical protein
+FAOCAIIH_01270	CDS	285				hypothetical protein
+FAOCAIIH_01271	CDS	1347	ulaA_1		COG3037	Ascorbate-specific PTS system EIIC component
+FAOCAIIH_01272	CDS	858	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+FAOCAIIH_01273	CDS	933	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+FAOCAIIH_01274	CDS	1704	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+FAOCAIIH_01275	CDS	342				hypothetical protein
+FAOCAIIH_01276	CDS	852				hypothetical protein
+FAOCAIIH_01277	CDS	1248				hypothetical protein
+FAOCAIIH_01278	CDS	1290	hisS	6.1.1.21		Histidine--tRNA ligase
+FAOCAIIH_01279	CDS	147				hypothetical protein
+FAOCAIIH_01280	CDS	315				hypothetical protein
+FAOCAIIH_01281	CDS	207				hypothetical protein
+FAOCAIIH_01282	CDS	198				hypothetical protein
+FAOCAIIH_01283	CDS	735				hypothetical protein
+FAOCAIIH_01284	CDS	642				hypothetical protein
+FAOCAIIH_01285	CDS	231				hypothetical protein
+FAOCAIIH_01286	CDS	237				hypothetical protein
+FAOCAIIH_01287	CDS	1764	aspS	6.1.1.12		Aspartate--tRNA ligase
+FAOCAIIH_01288	CDS	942				hypothetical protein
+FAOCAIIH_01289	CDS	987	malR		COG1609	HTH-type transcriptional regulator MalR
+FAOCAIIH_01290	CDS	801				hypothetical protein
+FAOCAIIH_01291	CDS	843	malG		COG3833	Maltose/maltodextrin transport system permease protein MalG
+FAOCAIIH_01292	CDS	1293				hypothetical protein
+FAOCAIIH_01293	CDS	1272	malX		COG2182	Maltose/maltodextrin-binding protein
+FAOCAIIH_01294	CDS	1518	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+FAOCAIIH_01295	CDS	2259	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+FAOCAIIH_01296	CDS	147				hypothetical protein
+FAOCAIIH_01297	CDS	849	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+FAOCAIIH_01298	CDS	279				hypothetical protein
+FAOCAIIH_01299	CDS	2064	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+FAOCAIIH_01300	CDS	1257	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+FAOCAIIH_01301	CDS	2466	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+FAOCAIIH_01302	CDS	912	yicL_1		COG0697	putative inner membrane transporter YicL
+FAOCAIIH_01303	CDS	699	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FAOCAIIH_01304	CDS	1131	ykuR	3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+FAOCAIIH_01305	CDS	540	yqgN		COG0212	putative protein YqgN
+FAOCAIIH_01306	CDS	678	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+FAOCAIIH_01307	CDS	900	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+FAOCAIIH_01308	CDS	1017	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+FAOCAIIH_01309	CDS	381				hypothetical protein
+FAOCAIIH_01310	CDS	426				IS1380 family transposase ISSpn5
+FAOCAIIH_01311	CDS	651	phoU_3		COG0704	Phosphate-specific transport system accessory protein PhoU 
+FAOCAIIH_01312	CDS	753	pstB3_3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+FAOCAIIH_01313	CDS	816				hypothetical protein
+FAOCAIIH_01314	CDS	864				hypothetical protein
+FAOCAIIH_01315	CDS	876	pstS2		COG0226	Phosphate-binding protein PstS 2
+FAOCAIIH_01316	CDS	1332	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+FAOCAIIH_01317	CDS	708	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FAOCAIIH_01318	CDS	486				hypothetical protein
+FAOCAIIH_01319	CDS	390			COG3039	IS5 family transposase IS1381
+FAOCAIIH_01320	CDS	1692	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+FAOCAIIH_01321	CDS	447	argR_2		COG1438	Arginine regulator
+FAOCAIIH_01322	CDS	2535	mutS		COG0249	DNA mismatch repair protein MutS
+FAOCAIIH_01323	CDS	1695			COG1132	putative ABC transporter ATP-binding protein
+FAOCAIIH_01324	CDS	309				hypothetical protein
+FAOCAIIH_01325	CDS	1767			COG1132	putative ABC transporter ATP-binding protein
+FAOCAIIH_01326	CDS	690		2.4.2.-	COG2071	Putative glutamine amidotransferase
+FAOCAIIH_01327	CDS	1350	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+FAOCAIIH_01328	CDS	1461	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+FAOCAIIH_01329	CDS	435				hypothetical protein
+FAOCAIIH_01330	CDS	783				hypothetical protein
+FAOCAIIH_01331	CDS	528				ISL3 family transposase IS1167
+FAOCAIIH_01332	CDS	1980				hypothetical protein
+FAOCAIIH_01333	CDS	528				hypothetical protein
+FAOCAIIH_01334	CDS	1332	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+FAOCAIIH_01335	CDS	654	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+FAOCAIIH_01336	CDS	2433	clpC_2			ATP-dependent Clp protease ATP-binding subunit ClpC
+FAOCAIIH_01337	CDS	459	ctsR		COG4463	Transcriptional regulator CtsR
+FAOCAIIH_01338	CDS	729	cysA	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+FAOCAIIH_01339	CDS	1008	thiY		COG0715	Formylaminopyrimidine-binding protein
+FAOCAIIH_01340	CDS	759	ribX			Riboflavin transport system permease protein RibX
+FAOCAIIH_01341	CDS	291				hypothetical protein
+FAOCAIIH_01342	CDS	1347				hypothetical protein
+FAOCAIIH_01343	CDS	267				hypothetical protein
+FAOCAIIH_01344	CDS	1353	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+FAOCAIIH_01345	CDS	453	rplI			50S ribosomal protein L9
+FAOCAIIH_01346	CDS	1974	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+FAOCAIIH_01347	CDS	549	hpf			Ribosome hibernation promotion factor
+FAOCAIIH_01348	CDS	663				hypothetical protein
+FAOCAIIH_01349	CDS	1299	comFA	3.6.4.12	COG4098	ComF operon protein 1
+FAOCAIIH_01350	CDS	636	yigZ		COG1739	IMPACT family member YigZ
+FAOCAIIH_01351	CDS	921	cysK	2.5.1.47		Cysteine synthase
+FAOCAIIH_01352	CDS	399				hypothetical protein
+FAOCAIIH_01353	CDS	324				hypothetical protein
+FAOCAIIH_01354	CDS	1041	tsf		COG0264	Elongation factor Ts
+FAOCAIIH_01355	CDS	780	rpsB			30S ribosomal protein S2
+FAOCAIIH_01356	CDS	1179				hypothetical protein
+FAOCAIIH_01357	CDS	495				hypothetical protein
+FAOCAIIH_01358	CDS	819	mreC		COG1792	Cell shape-determining protein MreC
+FAOCAIIH_01359	CDS	795	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+FAOCAIIH_01360	CDS	840	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+FAOCAIIH_01361	CDS	828	ecfA1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+FAOCAIIH_01362	CDS	546	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+FAOCAIIH_01363	CDS	822				hypothetical protein
+FAOCAIIH_01364	CDS	1284		3.4.24.-	COG0612	putative zinc protease
+FAOCAIIH_01365	CDS	1251				hypothetical protein
+FAOCAIIH_01366	CDS	369				hypothetical protein
+FAOCAIIH_01367	CDS	1098	recF		COG1195	DNA replication and repair protein RecF
+FAOCAIIH_01368	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+FAOCAIIH_01369	CDS	1026	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+FAOCAIIH_01370	CDS	1623	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+FAOCAIIH_01371	CDS	2553				hypothetical protein
+FAOCAIIH_01372	CDS	654				hypothetical protein
+FAOCAIIH_01373	CDS	543				hypothetical protein
+FAOCAIIH_01374	tRNA	74				tRNA-Asn(gtt)
+FAOCAIIH_01375	tRNA	72				tRNA-Glu(ttc)
+FAOCAIIH_01376	CDS	753	agrA_1		COG3279	Accessory gene regulator protein A
+FAOCAIIH_01377	CDS	1326				hypothetical protein
+FAOCAIIH_01378	CDS	126	comC1			Competence-stimulating peptide type 1
+FAOCAIIH_01379	tRNA	74				tRNA-Arg(tct)
+FAOCAIIH_01380	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+FAOCAIIH_01381	CDS	1182	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+FAOCAIIH_01382	CDS	744	spo0J		COG1475	Stage 0 sporulation protein J
+FAOCAIIH_01383	CDS	1362	dnaA			Chromosomal replication initiator protein DnaA
+FAOCAIIH_01384	CDS	1137	dnaN		COG0592	Beta sliding clamp
+FAOCAIIH_01385	CDS	195				hypothetical protein
+FAOCAIIH_01386	CDS	1116	ychF		COG0012	Ribosome-binding ATPase YchF
+FAOCAIIH_01387	CDS	570	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+FAOCAIIH_01388	CDS	3510	mfd	3.6.4.-		Transcription-repair-coupling factor
+FAOCAIIH_01389	CDS	267				hypothetical protein
+FAOCAIIH_01390	CDS	369				hypothetical protein
+FAOCAIIH_01391	CDS	123				hypothetical protein
+FAOCAIIH_01392	CDS	1269				hypothetical protein
+FAOCAIIH_01393	CDS	1278	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+FAOCAIIH_01394	CDS	543	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+FAOCAIIH_01395	CDS	1959	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+FAOCAIIH_01396	CDS	480				hypothetical protein
+FAOCAIIH_01397	CDS	327				hypothetical protein
+FAOCAIIH_01398	CDS	1881				hypothetical protein
+FAOCAIIH_01399	CDS	882	bglK_1	2.7.1.85	COG1940	Beta-glucoside kinase
+FAOCAIIH_01400	CDS	2646	mngB	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+FAOCAIIH_01401	CDS	1281				hypothetical protein
+FAOCAIIH_01402	CDS	2085				hypothetical protein
+FAOCAIIH_01403	CDS	1680				hypothetical protein
+FAOCAIIH_01404	CDS	1230	arcA	3.5.3.6	COG2235	Arginine deiminase
+FAOCAIIH_01405	CDS	1017	arcB	2.1.3.3		Ornithine carbamoyltransferase, catabolic
+FAOCAIIH_01406	CDS	948	arcC1	2.7.2.2		Carbamate kinase 1
+FAOCAIIH_01407	CDS	1512				hypothetical protein
+FAOCAIIH_01408	CDS	1332		3.4.13.-		Putative dipeptidase
+FAOCAIIH_01409	CDS	291				hypothetical protein
+FAOCAIIH_01410	CDS	252				hypothetical protein
+FAOCAIIH_01411	CDS	249				hypothetical protein
+FAOCAIIH_01412	CDS	900	qmcA		COG0330	Protein QmcA
+FAOCAIIH_01413	CDS	1152	adhB	1.1.1.1		Alcohol dehydrogenase 2
+FAOCAIIH_01414	CDS	1767	fucI	5.3.1.25	COG2407	L-fucose isomerase
+FAOCAIIH_01415	CDS	3117				hypothetical protein
+FAOCAIIH_01416	CDS	2295				hypothetical protein
+FAOCAIIH_01417	CDS	801	manZ_4		COG3716	PTS system mannose-specific EIID component
+FAOCAIIH_01418	CDS	774	sorC_2		COG3715	PTS system sorbose-specific EIIC component
+FAOCAIIH_01419	CDS	471	levE	2.7.1.202	COG3444	PTS system fructose-specific EIIB component
+FAOCAIIH_01420	CDS	444	manX_3	2.7.1.191		PTS system mannose-specific EIIAB component
+FAOCAIIH_01421	CDS	441	fucU	5.1.3.29	COG4154	L-fucose mutarotase
+FAOCAIIH_01422	CDS	639	drdA	4.1.2.-		5-deoxy-D-ribulose 1-phosphate aldolase
+FAOCAIIH_01423	CDS	1404	rhaB	2.7.1.5	COG1070	L-Rhamnulokinase
+FAOCAIIH_01424	CDS	774	srlR		COG1349	Glucitol operon repressor
+FAOCAIIH_01425	CDS	1506				hypothetical protein
+FAOCAIIH_01426	CDS	807	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+FAOCAIIH_01427	CDS	705	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+FAOCAIIH_01428	CDS	441	adcR			Transcriptional regulator AdcR
+FAOCAIIH_01429	CDS	1269	dltD		COG3966	Protein DltD
+FAOCAIIH_01430	CDS	240	dltC		COG0236	D-alanyl carrier protein
+FAOCAIIH_01431	CDS	1245				hypothetical protein
+FAOCAIIH_01432	CDS	1551	dltA	6.2.1.54		D-alanine--D-alanyl carrier protein ligase
+FAOCAIIH_01433	CDS	1179				hypothetical protein
+FAOCAIIH_01434	CDS	993				hypothetical protein
+FAOCAIIH_01435	CDS	282				hypothetical protein
+FAOCAIIH_01436	CDS	198				hypothetical protein
+FAOCAIIH_01437	CDS	588				hypothetical protein
+FAOCAIIH_01438	CDS	204				hypothetical protein
+FAOCAIIH_01439	CDS	705	glpF		COG0580	putative glycerol uptake facilitator protein
+FAOCAIIH_01440	CDS	1827	glpO	1.1.3.21	COG0578	Alpha-glycerophosphate oxidase
+FAOCAIIH_01441	CDS	1509	glpK	2.7.1.30	COG0554	Glycerol kinase
+FAOCAIIH_01442	CDS	1410				hypothetical protein
+FAOCAIIH_01443	CDS	873	hslO			33 kDa chaperonin
+FAOCAIIH_01444	CDS	981	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+FAOCAIIH_01445	CDS	228				hypothetical protein
+FAOCAIIH_01446	CDS	2946	nanA_1	3.2.1.18	COG4409	Sialidase A
+FAOCAIIH_01447	CDS	96				hypothetical protein
+FAOCAIIH_01448	CDS	453				hypothetical protein
+FAOCAIIH_01449	CDS	1338				hypothetical protein
+FAOCAIIH_01450	CDS	885	ycjO		COG1175	Inner membrane ABC transporter permease protein YcjO
+FAOCAIIH_01451	CDS	834	ycjP		COG0395	Inner membrane ABC transporter permease protein YcjP
+FAOCAIIH_01452	CDS	2094	nanB	3.2.1.18	COG4409	Sialidase B
+FAOCAIIH_01453	CDS	1104	yjhC	1.-.-.-	COG0673	putative oxidoreductase YjhC
+FAOCAIIH_01454	CDS	699	nanE	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+FAOCAIIH_01455	CDS	1518	ptsG_1	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+FAOCAIIH_01456	CDS	1329				hypothetical protein
+FAOCAIIH_01457	CDS	888	lacF_2			Lactose transport system permease protein LacF
+FAOCAIIH_01458	CDS	840	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+FAOCAIIH_01459	CDS	453	tabA		COG2731	Toxin-antitoxin biofilm protein TabA
+FAOCAIIH_01460	CDS	333				hypothetical protein
+FAOCAIIH_01461	CDS	645				hypothetical protein
+FAOCAIIH_01462	CDS	918	nanA_2	4.1.3.3	COG0329	N-acetylneuraminate lyase
+FAOCAIIH_01463	CDS	885	bglK_2	2.7.1.85	COG1940	Beta-glucoside kinase
+FAOCAIIH_01464	CDS	852	ybbH		COG1737	putative HTH-type transcriptional regulator YbbH
+FAOCAIIH_01465	CDS	2043	penA		COG0768	Penicillin-binding protein 2B
+FAOCAIIH_01466	CDS	597	recR		COG0353	Recombination protein RecR
+FAOCAIIH_01467	CDS	1044	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+FAOCAIIH_01468	CDS	1374	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+FAOCAIIH_01469	CDS	612				hypothetical protein
+FAOCAIIH_01470	CDS	705				hypothetical protein
+FAOCAIIH_01471	CDS	1374	ftsA		COG0849	Cell division protein FtsA
+FAOCAIIH_01472	CDS	1260	ftsZ		COG0206	Cell division protein FtsZ
+FAOCAIIH_01473	CDS	672			COG0325	Pyridoxal phosphate homeostasis protein
+FAOCAIIH_01474	CDS	540	sepF		COG1799	Cell division protein SepF
+FAOCAIIH_01475	CDS	264				hypothetical protein
+FAOCAIIH_01476	CDS	786				hypothetical protein
+FAOCAIIH_01477	CDS	789	divIVA		COG3599	Cell division protein DivIVA
+FAOCAIIH_01478	CDS	2793	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+FAOCAIIH_01479	CDS	363				hypothetical protein
+FAOCAIIH_01480	CDS	189				hypothetical protein
+FAOCAIIH_01481	CDS	693	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+FAOCAIIH_01482	CDS	2412				hypothetical protein
+FAOCAIIH_01483	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+FAOCAIIH_01484	CDS	2709				hypothetical protein
+FAOCAIIH_01485	CDS	492	tpx	1.11.1.15	COG2077	Thiol peroxidase
+FAOCAIIH_01486	CDS	930	psaA		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+FAOCAIIH_01487	CDS	849	mntB			Manganese transport system membrane protein MntB
+FAOCAIIH_01488	CDS	723	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+FAOCAIIH_01489	CDS	1893	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+FAOCAIIH_01490	CDS	630		3.-.-.-		putative metallo-hydrolase
+FAOCAIIH_01491	CDS	2223	relA			Bifunctional (p)ppGpp synthase/hydrolase RelA
+FAOCAIIH_01492	CDS	444	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+FAOCAIIH_01493	CDS	1341				hypothetical protein
+FAOCAIIH_01494	CDS	738	agrA_2		COG3279	Accessory gene regulator protein A
+FAOCAIIH_01495	CDS	339				hypothetical protein
+FAOCAIIH_01496	CDS	330				hypothetical protein
+FAOCAIIH_01497	CDS	1050				hypothetical protein
+FAOCAIIH_01498	CDS	732	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+FAOCAIIH_01499	CDS	411	hit		COG0537	Protein hit
+FAOCAIIH_01500	CDS	288				hypothetical protein
+FAOCAIIH_01501	CDS	1137	dnaJ		COG0484	Chaperone protein DnaJ
+FAOCAIIH_01502	CDS	354				hypothetical protein
+FAOCAIIH_01503	CDS	1824	dnaK			Chaperone protein DnaK
+FAOCAIIH_01504	CDS	525	grpE		COG0576	Protein GrpE
+FAOCAIIH_01505	CDS	1035	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+FAOCAIIH_01506	CDS	510				hypothetical protein
+FAOCAIIH_01507	CDS	2334				hypothetical protein
+FAOCAIIH_01508	CDS	1464		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+FAOCAIIH_01509	CDS	1551				hypothetical protein
+FAOCAIIH_01510	CDS	798	xerC_4			Tyrosine recombinase XerC
+FAOCAIIH_01511	CDS	546				hypothetical protein
+FAOCAIIH_01512	CDS	1284				hypothetical protein
+FAOCAIIH_01513	CDS	150				hypothetical protein
+FAOCAIIH_01514	CDS	1347	glnA	6.3.1.2	COG0174	Glutamine synthetase
+FAOCAIIH_01515	CDS	357	glnR		COG0789	HTH-type transcriptional regulator GlnR
+FAOCAIIH_01516	CDS	528				hypothetical protein
+FAOCAIIH_01517	CDS	1197	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+FAOCAIIH_01518	CDS	4941				hypothetical protein
+FAOCAIIH_01519	CDS	1632				hypothetical protein
+FAOCAIIH_01520	CDS	1608	pyrG	6.3.4.2	COG0504	CTP synthase
+FAOCAIIH_01521	CDS	588	rpoE			putative DNA-directed RNA polymerase subunit delta
+FAOCAIIH_01522	CDS	309				hypothetical protein
+FAOCAIIH_01523	CDS	390				hypothetical protein
+FAOCAIIH_01524	CDS	651				hypothetical protein
+FAOCAIIH_01525	CDS	564	ribU		COG3601	Riboflavin transporter RibU
+FAOCAIIH_01526	CDS	504	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+FAOCAIIH_01527	CDS	831	ecfT_3		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+FAOCAIIH_01528	CDS	1683	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FAOCAIIH_01529	CDS	258				hypothetical protein
+FAOCAIIH_01530	CDS	549				hypothetical protein
+FAOCAIIH_01531	CDS	849	salL	2.5.1.94	COG1912	Adenosyl-chloride synthase
+FAOCAIIH_01532	CDS	1350	trkA		COG0569	Trk system potassium uptake protein TrkA
+FAOCAIIH_01533	CDS	1440	trkG		COG0168	Trk system potassium uptake protein TrkG
+FAOCAIIH_01534	CDS	1680	lacE_1			PTS system lactose-specific EIICB component
+FAOCAIIH_01535	CDS	1413	lacG_1	3.2.1.85		6-phospho-beta-galactosidase
+FAOCAIIH_01536	CDS	345	lacF_3		COG1447	PTS system lactose-specific EIIA component
+FAOCAIIH_01537	CDS	1887				hypothetical protein
+FAOCAIIH_01538	CDS	1323	licC_3		COG1455	Lichenan permease IIC component
+FAOCAIIH_01539	CDS	1224	nagC		COG1940	N-acetylglucosamine repressor
+FAOCAIIH_01540	CDS	171				hypothetical protein
+FAOCAIIH_01541	CDS	285				hypothetical protein
+FAOCAIIH_01542	CDS	150				hypothetical protein
+FAOCAIIH_01543	tRNA	73				tRNA-Phe(gaa)
+FAOCAIIH_01544	tRNA	83				tRNA-Tyr(gta)
+FAOCAIIH_01545	tRNA	73				tRNA-Trp(cca)
+FAOCAIIH_01546	tRNA	75				tRNA-His(gtg)
+FAOCAIIH_01547	tRNA	74				tRNA-Gln(ttg)
+FAOCAIIH_01548	tRNA	86				tRNA-Leu(caa)
+FAOCAIIH_01549	CDS	1278				hypothetical protein
+FAOCAIIH_01550	CDS	1485	thrC	4.2.3.1	COG0498	Threonine synthase
+FAOCAIIH_01551	CDS	1281	yeeO		COG0534	putative FMN/FAD exporter YeeO
+FAOCAIIH_01552	CDS	621	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+FAOCAIIH_01553	CDS	1143				hypothetical protein
+FAOCAIIH_01554	CDS	426				hypothetical protein
+FAOCAIIH_01555	CDS	402				hypothetical protein
+FAOCAIIH_01556	CDS	645	pcp_2	3.4.19.3		Pyrrolidone-carboxylate peptidase
+FAOCAIIH_01557	CDS	858				hypothetical protein
+FAOCAIIH_01558	CDS	1143	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+FAOCAIIH_01559	CDS	1818	oatA	2.3.1.-		O-acetyltransferase OatA
+FAOCAIIH_01560	CDS	1152	agaA_1	3.5.1.-	COG1820	N-acetylgalactosamine-6-phosphate deacetylase
+FAOCAIIH_01561	CDS	1059	adh_2	1.1.1.1	COG1063	Alcohol dehydrogenase
+FAOCAIIH_01562	CDS	366				hypothetical protein
+FAOCAIIH_01563	CDS	942	comGA		COG2804	ComG operon protein 1
+FAOCAIIH_01564	CDS	1017				hypothetical protein
+FAOCAIIH_01565	CDS	327				hypothetical protein
+FAOCAIIH_01566	CDS	387				hypothetical protein
+FAOCAIIH_01567	CDS	303				hypothetical protein
+FAOCAIIH_01568	CDS	462				hypothetical protein
+FAOCAIIH_01569	CDS	414				hypothetical protein
+FAOCAIIH_01570	CDS	588	COQ5_4	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FAOCAIIH_01571	CDS	954				hypothetical protein
+FAOCAIIH_01572	CDS	1191	ackA	2.7.2.1	COG0282	Acetate kinase
+FAOCAIIH_01573	CDS	372	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+FAOCAIIH_01574	CDS	831	misCA		COG0706	Membrane protein insertase MisCA
+FAOCAIIH_01575	CDS	987				hypothetical protein
+FAOCAIIH_01576	CDS	624				hypothetical protein
+FAOCAIIH_01577	CDS	1458	ulaA_2		COG3037	Ascorbate-specific PTS system EIIC component
+FAOCAIIH_01578	CDS	282	ulaB	2.7.1.194		Ascorbate-specific PTS system EIIB component
+FAOCAIIH_01579	CDS	486	ulaC		COG1762	Ascorbate-specific PTS system EIIA component
+FAOCAIIH_01580	CDS	666	ulaD	4.1.1.85	COG0269	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+FAOCAIIH_01581	CDS	864	ulaE	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE
+FAOCAIIH_01582	CDS	705	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD
+FAOCAIIH_01583	CDS	1674	licR_2		COG1762	putative licABCH operon regulator
+FAOCAIIH_01584	CDS	1092	ulaG	3.1.1.-	COG2220	putative L-ascorbate-6-phosphate lactonase UlaG
+FAOCAIIH_01585	CDS	1977	tkt_2	2.2.1.1		Transketolase
+FAOCAIIH_01586	CDS	300				hypothetical protein
+FAOCAIIH_01587	CDS	429	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+FAOCAIIH_01588	CDS	411				hypothetical protein
+FAOCAIIH_01589	CDS	2652	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+FAOCAIIH_01590	CDS	309	gmuA		COG1447	PTS system oligo-beta-mannoside-specific EIIA component
+FAOCAIIH_01591	CDS	309	celA	2.7.1.205		PTS system cellobiose-specific EIIB component
+FAOCAIIH_01592	CDS	1296	licC_4		COG1455	Lichenan permease IIC component
+FAOCAIIH_01593	CDS	1410	gmuD_2	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+FAOCAIIH_01594	CDS	729	gmuR		COG2188	HTH-type transcriptional regulator GmuR
+FAOCAIIH_01595	CDS	195				hypothetical protein
+FAOCAIIH_01596	CDS	1311				hypothetical protein
+FAOCAIIH_01597	CDS	873	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+FAOCAIIH_01598	CDS	330				IS630 family transposase IS630-Spn1
+FAOCAIIH_01599	CDS	339				IS630 family transposase IS630-Spn1
+FAOCAIIH_01600	CDS	963				hypothetical protein
+FAOCAIIH_01601	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+FAOCAIIH_01602	CDS	876				hypothetical protein
+FAOCAIIH_01603	CDS	2196	pbpF		COG0744	Penicillin-binding protein 1F
+FAOCAIIH_01604	CDS	177				hypothetical protein
+FAOCAIIH_01605	CDS	537	nusG			Transcription termination/antitermination protein NusG
+FAOCAIIH_01606	CDS	240				hypothetical protein
+FAOCAIIH_01607	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+FAOCAIIH_01608	CDS	213				hypothetical protein
+FAOCAIIH_01609	CDS	804				hypothetical protein
+FAOCAIIH_01610	CDS	1542	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+FAOCAIIH_01611	CDS	483				hypothetical protein
+FAOCAIIH_01612	CDS	903	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+FAOCAIIH_01613	CDS	531				hypothetical protein
+FAOCAIIH_01614	CDS	606	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+FAOCAIIH_01615	CDS	1038	yqeN		COG1466	putative protein YqeN
+FAOCAIIH_01616	CDS	936	pyrDA	1.3.98.1	COG0167	putative dihydroorotate dehydrogenase A (fumarate)
+FAOCAIIH_01617	CDS	1191	metK	2.5.1.6		S-adenosylmethionine synthase
+FAOCAIIH_01618	CDS	1344	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+FAOCAIIH_01619	CDS	816	mapP	3.1.3.90		Maltose 6'-phosphate phosphatase
+FAOCAIIH_01620	CDS	2181	ptsG_2	2.7.1.199		PTS system glucose-specific EIICBA component
+FAOCAIIH_01621	CDS	927	ftsX		COG2177	Cell division protein FtsX
+FAOCAIIH_01622	CDS	693	ftsE		COG2884	Cell division ATP-binding protein FtsE
+FAOCAIIH_01623	CDS	978	prfB			Peptide chain release factor 2
+FAOCAIIH_01624	CDS	657	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+FAOCAIIH_01625	CDS	711	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+FAOCAIIH_01626	CDS	765	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+FAOCAIIH_01627	CDS	957				hypothetical protein
+FAOCAIIH_01628	CDS	870	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+FAOCAIIH_01629	CDS	1161	braC		COG0683	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+FAOCAIIH_01630	CDS	249				hypothetical protein
+FAOCAIIH_01631	CDS	591	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+FAOCAIIH_01632	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+FAOCAIIH_01633	CDS	468	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+FAOCAIIH_01634	CDS	558				hypothetical protein
+FAOCAIIH_01635	CDS	846			COG1307	DegV domain-containing protein
+FAOCAIIH_01636	CDS	1176			COG2081	putative protein
+FAOCAIIH_01637	CDS	315				hypothetical protein
+FAOCAIIH_01638	CDS	417	mta		COG0789	HTH-type transcriptional activator mta
+FAOCAIIH_01639	CDS	1332				hypothetical protein
+FAOCAIIH_01640	CDS	945	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+FAOCAIIH_01641	CDS	297	bglA_2	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglA
+FAOCAIIH_01642	CDS	507				IS630 family transposase ISSpn2
+FAOCAIIH_01643	CDS	510				IS630 family transposase ISSpn2
+FAOCAIIH_01644	CDS	348				hypothetical protein
+FAOCAIIH_01645	CDS	1776	pox5	1.2.3.3	COG0028	Pyruvate oxidase
+FAOCAIIH_01646	CDS	2244	pacS	7.2.2.8		putative copper-transporting ATPase PacS
+FAOCAIIH_01647	CDS	372				hypothetical protein
+FAOCAIIH_01648	CDS	396	copY			Transcriptional repressor CopY
+FAOCAIIH_01649	CDS	792	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+FAOCAIIH_01650	CDS	633	thiE_1	2.5.1.3	COG0352	Thiamine-phosphate synthase
+FAOCAIIH_01651	CDS	804	thiM_1	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+FAOCAIIH_01652	CDS	525				hypothetical protein
+FAOCAIIH_01653	CDS	693	tenA_1	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+FAOCAIIH_01654	CDS	651				hypothetical protein
+FAOCAIIH_01655	CDS	1386	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FAOCAIIH_01656	CDS	561	ykoE		COG4721	Putative HMP/thiamine permease protein YkoE
+FAOCAIIH_01657	CDS	630	thiE_2	2.5.1.3		Thiamine-phosphate synthase
+FAOCAIIH_01658	CDS	783	thiM_2	2.7.1.50		Hydroxyethylthiazole kinase
+FAOCAIIH_01659	CDS	669	tenA_2	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+FAOCAIIH_01660	CDS	1071	hmo	1.1.3.46		4-hydroxymandelate oxidase
+FAOCAIIH_01661	CDS	1614	rny	3.1.-.-	COG1418	Ribonuclease Y
+FAOCAIIH_01662	CDS	627	gmk	2.7.4.8		Guanylate kinase
+FAOCAIIH_01663	CDS	315	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+FAOCAIIH_01664	CDS	2397	priA	3.6.4.-	COG1198	Primosomal protein N'
+FAOCAIIH_01665	CDS	936	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+FAOCAIIH_01666	CDS	1314	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+FAOCAIIH_01667	CDS	741	phpP	3.1.3.16	COG0631	Protein phosphatase PhpP
+FAOCAIIH_01668	CDS	1980	stkP	2.7.11.1	COG0515	Serine/threonine-protein kinase StkP
+FAOCAIIH_01669	CDS	759	yjjP		COG2966	Inner membrane protein YjjP
+FAOCAIIH_01670	CDS	450				hypothetical protein
+FAOCAIIH_01671	CDS	390			COG3039	IS5 family transposase ISSpn7
+FAOCAIIH_01672	CDS	1173	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+FAOCAIIH_01673	CDS	1275	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+FAOCAIIH_01674	CDS	966	degA		COG1609	HTH-type transcriptional regulator DegA
+FAOCAIIH_01675	CDS	1455	scrB	3.2.1.26		Sucrose-6-phosphate hydrolase
+FAOCAIIH_01676	CDS	1884				hypothetical protein
+FAOCAIIH_01677	CDS	888	gmuE	2.7.1.4	COG1940	Putative fructokinase
+FAOCAIIH_01678	CDS	618				hypothetical protein
+FAOCAIIH_01679	CDS	894		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+FAOCAIIH_01680	CDS	1200	yhaP		COG1668	putative protein YhaP
+FAOCAIIH_01681	CDS	768				hypothetical protein
+FAOCAIIH_01682	CDS	696	skfE	7.3.2.3	COG1131	SkfA peptide export ATP-binding protein SkfE
+FAOCAIIH_01683	CDS	366	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+FAOCAIIH_01684	CDS	474	nrdR		COG1327	Transcriptional repressor NrdR
+FAOCAIIH_01685	CDS	1170				hypothetical protein
+FAOCAIIH_01686	CDS	897	dnaI		COG1484	Primosomal protein DnaI
+FAOCAIIH_01687	CDS	714	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+FAOCAIIH_01688	CDS	1311	der		COG1160	GTPase Der
+FAOCAIIH_01689	CDS	345				hypothetical protein
+FAOCAIIH_01690	CDS	336				hypothetical protein
+FAOCAIIH_01691	CDS	792				hypothetical protein
+FAOCAIIH_01692	CDS	642				hypothetical protein
+FAOCAIIH_01693	CDS	651	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+FAOCAIIH_01694	CDS	288				hypothetical protein
+FAOCAIIH_01695	CDS	2514	secA		COG0653	Protein translocase subunit SecA
+FAOCAIIH_01696	CDS	1032	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+FAOCAIIH_01697	CDS	1032	aroF	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+FAOCAIIH_01698	CDS	369	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+FAOCAIIH_01699	CDS	1104	alr	5.1.1.1	COG0787	Alanine racemase
+FAOCAIIH_01700	CDS	2016	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+FAOCAIIH_01701	CDS	645	axeA	3.1.1.41	COG3458	Cephalosporin-C deacetylase
+FAOCAIIH_01702	CDS	252	cah	3.1.1.41	COG3458	Cephalosporin-C deacetylase
+FAOCAIIH_01703	CDS	174				hypothetical protein
+FAOCAIIH_01704	CDS	1641				hypothetical protein
+FAOCAIIH_01705	CDS	315				hypothetical protein
+FAOCAIIH_01706	CDS	795	fpuD	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuD
+FAOCAIIH_01707	CDS	1008	yfhA		COG0609	putative siderophore transport system permease protein YfhA
+FAOCAIIH_01708	CDS	1008	fepD		COG0609	Ferric enterobactin transport system permease protein FepD
+FAOCAIIH_01709	CDS	1026	yfmC		COG4594	Fe(3+)-citrate-binding protein YfmC
+FAOCAIIH_01710	CDS	219				hypothetical protein
+FAOCAIIH_01711	CDS	1632		2.1.1.-	COG2265	putative RNA methyltransferase
+FAOCAIIH_01712	CDS	975				hypothetical protein
+FAOCAIIH_01713	CDS	615				hypothetical protein
+FAOCAIIH_01714	CDS	975				hypothetical protein
+FAOCAIIH_01715	CDS	1257	glyA	2.1.2.1		Serine hydroxymethyltransferase
+FAOCAIIH_01716	CDS	432				hypothetical protein
+FAOCAIIH_01717	CDS	603	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+FAOCAIIH_01718	CDS	840	prmC	2.1.1.297		Release factor glutamine methyltransferase
+FAOCAIIH_01719	CDS	1080	prfA		COG0216	Peptide chain release factor 1
+FAOCAIIH_01720	CDS	591	tdk	2.7.1.21	COG1435	Thymidine kinase
+FAOCAIIH_01721	CDS	183	xylH	5.3.2.6		2-hydroxymuconate tautomerase
+FAOCAIIH_01722	CDS	1374	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+FAOCAIIH_01723	CDS	936	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+FAOCAIIH_01724	CDS	1077	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+FAOCAIIH_01725	tRNA	73				tRNA-Thr(ggt)
+FAOCAIIH_01726	CDS	510	queT		COG4708	Queuosine precursor transporter QueT
+FAOCAIIH_01727	CDS	432				hypothetical protein
+FAOCAIIH_01728	CDS	378	mscL		COG1970	Large-conductance mechanosensitive channel
+FAOCAIIH_01729	CDS	1095	hemH	4.99.1.1		Ferrochelatase
+FAOCAIIH_01730	CDS	636				hypothetical protein
+FAOCAIIH_01731	CDS	999				hypothetical protein
+FAOCAIIH_01732	CDS	1242				Pilin
+FAOCAIIH_01733	CDS	552	spsB_2	3.4.21.89	COG0681	Signal peptidase IB
+FAOCAIIH_01734	CDS	1953				hypothetical protein
+FAOCAIIH_01735	CDS	504				hypothetical protein
+FAOCAIIH_01736	CDS	1224	pepT	3.4.11.4		Peptidase T
+FAOCAIIH_01737	CDS	630				hypothetical protein
+FAOCAIIH_01738	CDS	570				hypothetical protein
+FAOCAIIH_01739	CDS	783				hypothetical protein
+FAOCAIIH_01740	CDS	612				hypothetical protein
+FAOCAIIH_01741	CDS	3120				hypothetical protein
+FAOCAIIH_01742	CDS	534				hypothetical protein
+FAOCAIIH_01743	CDS	723				hypothetical protein
+FAOCAIIH_01744	CDS	162				hypothetical protein
+FAOCAIIH_01745	CDS	393				hypothetical protein
+FAOCAIIH_01746	CDS	1245				hypothetical protein
+FAOCAIIH_01747	CDS	567				hypothetical protein
+FAOCAIIH_01748	CDS	189				hypothetical protein
+FAOCAIIH_01749	CDS	759				hypothetical protein
+FAOCAIIH_01750	CDS	855				hypothetical protein
+FAOCAIIH_01751	CDS	885		2.7.1.-	COG1597	Putative lipid kinase
+FAOCAIIH_01752	CDS	1233	bbmA	3.2.1.-	COG0366	Intracellular maltogenic amylase
+FAOCAIIH_01753	CDS	129				hypothetical protein
+FAOCAIIH_01754	CDS	330				hypothetical protein
+FAOCAIIH_01755	CDS	303				hypothetical protein
+FAOCAIIH_01756	CDS	429		2.3.1.82		Aminoglycoside N(6')-acetyltransferase type 1
+FAOCAIIH_01757	CDS	258				hypothetical protein
+FAOCAIIH_01758	CDS	285				hypothetical protein
+FAOCAIIH_01759	CDS	210				hypothetical protein
+FAOCAIIH_01760	CDS	195				hypothetical protein
+FAOCAIIH_01761	CDS	1230	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+FAOCAIIH_01762	CDS	2697	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+FAOCAIIH_01763	CDS	1005				hypothetical protein
+FAOCAIIH_01764	CDS	867				hypothetical protein
+FAOCAIIH_01765	CDS	759	thiQ	3.6.3.-	COG3840	Thiamine import ATP-binding protein ThiQ
+FAOCAIIH_01766	CDS	1761	dnaG	2.7.7.-	COG0358	DNA primase
+FAOCAIIH_01767	CDS	1110	sigA		COG0568	RNA polymerase sigma factor SigA
+FAOCAIIH_01768	CDS	330	sufT			Fe-S protein maturation auxiliary factor SufT
+FAOCAIIH_01769	CDS	1044	cpoA	2.4.1.-	COG0438	Alpha-galactosylglucosyldiacylglycerol synthase
+FAOCAIIH_01770	CDS	1326		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+FAOCAIIH_01771	CDS	177				hypothetical protein
+FAOCAIIH_01772	CDS	135				hypothetical protein
+FAOCAIIH_01773	CDS	1311	obg	3.6.5.-	COG0536	GTPase Obg
+FAOCAIIH_01774	CDS	159				hypothetical protein
+FAOCAIIH_01775	CDS	528				ISL3 family transposase ISSpn14
+FAOCAIIH_01776	CDS	288				hypothetical protein
+FAOCAIIH_01777	CDS	555				ISL3 family transposase IS1167
+FAOCAIIH_01778	CDS	1260	murA1_2	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+FAOCAIIH_01779	CDS	552				hypothetical protein
+FAOCAIIH_01780	CDS	1278	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+FAOCAIIH_01781	CDS	861	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+FAOCAIIH_01782	CDS	381	dhaM	2.7.1.121	COG3412	PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+FAOCAIIH_01783	CDS	714	yfnB	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+FAOCAIIH_01784	CDS	648				hypothetical protein
+FAOCAIIH_01785	CDS	654	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+FAOCAIIH_01786	CDS	465	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+FAOCAIIH_01787	CDS	1269	pyrC	3.5.2.3	COG0044	Dihydroorotase
+FAOCAIIH_01788	CDS	261				hypothetical protein
+FAOCAIIH_01789	CDS	1362	norM		COG0534	Multidrug resistance protein NorM
+FAOCAIIH_01790	CDS	969	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+FAOCAIIH_01791	CDS	993	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+FAOCAIIH_01792	CDS	1044	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+FAOCAIIH_01793	CDS	1704	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+FAOCAIIH_01794	CDS	990	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+FAOCAIIH_01795	CDS	1071	xerS		COG0582	Tyrosine recombinase XerS
+FAOCAIIH_01796	CDS	1551	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+FAOCAIIH_01797	CDS	780	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+FAOCAIIH_01798	CDS	852	rbgA		COG1161	Ribosome biogenesis GTPase A
+FAOCAIIH_01799	CDS	6015	iga	3.4.24.13		Immunoglobulin A1 protease
+FAOCAIIH_01800	CDS	1179				hypothetical protein
+FAOCAIIH_01801	CDS	3651	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+FAOCAIIH_01802	CDS	3276	rexB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+FAOCAIIH_01803	CDS	789				hypothetical protein
+FAOCAIIH_01804	CDS	519	rimM			Ribosome maturation factor RimM
+FAOCAIIH_01805	CDS	720	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+FAOCAIIH_01806	CDS	339				hypothetical protein
+FAOCAIIH_01807	CDS	321				hypothetical protein
+FAOCAIIH_01808	CDS	216				hypothetical protein
+FAOCAIIH_01809	CDS	537	bioY2		COG1268	Biotin transporter BioY2
+FAOCAIIH_01810	CDS	1347	gor	1.8.1.7	COG1249	Glutathione reductase
+FAOCAIIH_01811	CDS	1200	yknX		COG0845	Putative efflux system component YknX
+FAOCAIIH_01812	CDS	702	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+FAOCAIIH_01813	CDS	1260	yknZ		COG0577	putative ABC transporter permease YknZ
+FAOCAIIH_01814	CDS	1998	metG	6.1.1.10		Methionine--tRNA ligase
+FAOCAIIH_01815	CDS	237				hypothetical protein
+FAOCAIIH_01816	CDS	321				hypothetical protein
+FAOCAIIH_01817	CDS	816				hypothetical protein
+FAOCAIIH_01818	CDS	927	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+FAOCAIIH_01819	CDS	237				hypothetical protein
+FAOCAIIH_01820	CDS	699		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+FAOCAIIH_01821	CDS	501				hypothetical protein
+FAOCAIIH_01822	CDS	870				hypothetical protein
+FAOCAIIH_01823	CDS	441				hypothetical protein
+FAOCAIIH_01824	CDS	2547	pepN	3.4.11.2		Aminopeptidase N
+FAOCAIIH_01825	CDS	675	arlR_2		COG0745	Response regulator ArlR
+FAOCAIIH_01826	CDS	1335	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+FAOCAIIH_01827	CDS	288				hypothetical protein
+FAOCAIIH_01828	CDS	930				hypothetical protein
+FAOCAIIH_01829	CDS	2451	dinG_2	3.1.-.-		3'-5' exonuclease DinG
+FAOCAIIH_01830	CDS	1224	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+FAOCAIIH_01831	CDS	555	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+FAOCAIIH_01832	CDS	573	mupP	3.1.3.105	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+FAOCAIIH_01833	CDS	1947	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+FAOCAIIH_01834	CDS	1728	ezrA		COG4477	Septation ring formation regulator EzrA
+FAOCAIIH_01835	CDS	267				IS630 family transposase ISSpn2
+FAOCAIIH_01836	CDS	1563	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+FAOCAIIH_01837	CDS	699	nagR		COG2188	HTH-type transcriptional repressor NagR
+FAOCAIIH_01838	CDS	897	yicL_2		COG0697	putative inner membrane transporter YicL
+FAOCAIIH_01839	CDS	936	yfeW	3.4.16.4	COG1680	Putative D-alanyl-D-alanine carboxypeptidase
+FAOCAIIH_01840	CDS	726				hypothetical protein
+FAOCAIIH_01841	CDS	636				hypothetical protein
+FAOCAIIH_01842	CDS	828	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+FAOCAIIH_01843	CDS	336				hypothetical protein
+FAOCAIIH_01844	CDS	717	capA			Capsule biosynthesis protein CapA
+FAOCAIIH_01845	CDS	612	def_2	3.5.1.88	COG0242	Peptide deformylase
+FAOCAIIH_01846	CDS	729		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+FAOCAIIH_01847	CDS	912	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+FAOCAIIH_01848	CDS	225				hypothetical protein
+FAOCAIIH_01849	CDS	744	tcyN	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyN
+FAOCAIIH_01850	CDS	801	yxeN			putative amino-acid permease protein YxeN
+FAOCAIIH_01851	CDS	357	mgsR		COG1393	Regulatory protein MgsR
+FAOCAIIH_01852	CDS	531	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+FAOCAIIH_01853	CDS	495				hypothetical protein
+FAOCAIIH_01854	CDS	447				hypothetical protein
+FAOCAIIH_01855	CDS	648				hypothetical protein
+FAOCAIIH_01856	CDS	582	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+FAOCAIIH_01857	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+FAOCAIIH_01858	CDS	1380		1.6.99.3		putative NADH oxidase
+FAOCAIIH_01859	CDS	924	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+FAOCAIIH_01860	CDS	606	urdA	1.3.99.33		Urocanate reductase
+FAOCAIIH_01861	CDS	1245				hypothetical protein
+FAOCAIIH_01862	CDS	258				hypothetical protein
+FAOCAIIH_01863	CDS	2037	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+FAOCAIIH_01864	CDS	918	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+FAOCAIIH_01865	CDS	762				hypothetical protein
+FAOCAIIH_01866	CDS	843	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+FAOCAIIH_01867	CDS	1443	pgdA	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+FAOCAIIH_01868	CDS	378				hypothetical protein
+FAOCAIIH_01869	CDS	978	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+FAOCAIIH_01870	CDS	1083	yfmL	3.6.4.13	COG0513	putative ATP-dependent RNA helicase YfmL
+FAOCAIIH_01871	CDS	2292	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+FAOCAIIH_01872	CDS	681				hypothetical protein
+FAOCAIIH_01873	CDS	690		2.4.2.-	COG2071	Putative glutamine amidotransferase
+FAOCAIIH_01874	CDS	642	rex		COG2344	Redox-sensing transcriptional repressor Rex
+FAOCAIIH_01875	CDS	216				hypothetical protein
+FAOCAIIH_01876	CDS	348				hypothetical protein
+FAOCAIIH_01877	CDS	1116	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+FAOCAIIH_01878	CDS	960	prs2	2.7.6.1		Putative ribose-phosphate pyrophosphokinase 2
+FAOCAIIH_01879	CDS	570	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+FAOCAIIH_01880	CDS	672	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+FAOCAIIH_01881	CDS	819	nadK	2.7.1.23	COG0061	NAD kinase
+FAOCAIIH_01882	CDS	897	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+FAOCAIIH_01883	CDS	975	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+FAOCAIIH_01884	CDS	528				ISL3 family transposase IS1167
+FAOCAIIH_01885	CDS	288				hypothetical protein
+FAOCAIIH_01886	CDS	555				ISL3 family transposase IS1167
+FAOCAIIH_01887	CDS	300			COG0718	Nucleoid-associated protein
+FAOCAIIH_01888	CDS	687				hypothetical protein
+FAOCAIIH_01889	CDS	315	rplU		COG0261	50S ribosomal protein L21
+FAOCAIIH_01890	CDS	345				hypothetical protein
+FAOCAIIH_01891	CDS	294	rpmA		COG0211	50S ribosomal protein L27
+FAOCAIIH_01892	CDS	918	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+FAOCAIIH_01893	CDS	849				hypothetical protein
+FAOCAIIH_01894	CDS	840			COG1307	DegV domain-containing protein
+FAOCAIIH_01895	CDS	276	hup		COG0776	DNA-binding protein HU
+FAOCAIIH_01896	CDS	1902	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+FAOCAIIH_01897	CDS	234				hypothetical protein
+FAOCAIIH_01898	CDS	222				hypothetical protein
+FAOCAIIH_01899	CDS	690				hypothetical protein
+FAOCAIIH_01900	CDS	234				hypothetical protein
+FAOCAIIH_01901	CDS	612				hypothetical protein
+FAOCAIIH_01902	CDS	795				hypothetical protein
+FAOCAIIH_01903	CDS	636	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+FAOCAIIH_01904	CDS	480	rimP		COG0779	Ribosome maturation factor RimP
+FAOCAIIH_01905	CDS	1125	nusA		COG0195	Transcription termination/antitermination protein NusA
+FAOCAIIH_01906	CDS	294				hypothetical protein
+FAOCAIIH_01907	CDS	300	rplGA		COG1358	putative ribosomal protein YlxQ
+FAOCAIIH_01908	CDS	2793	infB			Translation initiation factor IF-2
+FAOCAIIH_01909	CDS	351	rbfA			Ribosome-binding factor A
+FAOCAIIH_01910	CDS	780				hypothetical protein
+FAOCAIIH_01911	CDS	183				hypothetical protein
+FAOCAIIH_01912	CDS	153				hypothetical protein
+FAOCAIIH_01913	CDS	234				hypothetical protein
+FAOCAIIH_01914	CDS	1335				hypothetical protein
+FAOCAIIH_01915	CDS	255				hypothetical protein
+FAOCAIIH_01916	CDS	396				hypothetical protein
+FAOCAIIH_01917	CDS	450				hypothetical protein
+FAOCAIIH_01918	CDS	561				hypothetical protein
+FAOCAIIH_01919	CDS	579				hypothetical protein
+FAOCAIIH_01920	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+FAOCAIIH_01921	CDS	165				hypothetical protein
+FAOCAIIH_01922	CDS	1380				hypothetical protein
+FAOCAIIH_01923	CDS	804				hypothetical protein
+FAOCAIIH_01924	CDS	1824	lepA	3.6.5.-	COG0481	Elongation factor 4
+FAOCAIIH_01925	CDS	729	apaH_2	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+FAOCAIIH_01926	CDS	1668	recN		COG0497	DNA repair protein RecN
+FAOCAIIH_01927	CDS	432	argR_3		COG1438	Arginine repressor
+FAOCAIIH_01928	CDS	816	tlyA		COG1189	Hemolysin A
+FAOCAIIH_01929	CDS	876		2.5.1.10		Farnesyl diphosphate synthase
+FAOCAIIH_01930	CDS	213	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+FAOCAIIH_01931	CDS	1341	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+FAOCAIIH_01932	CDS	639	udk_2	2.7.1.48	COG0572	Uridine kinase
+FAOCAIIH_01933	CDS	342				hypothetical protein
+FAOCAIIH_01934	CDS	96				hypothetical protein
+FAOCAIIH_01935	CDS	879	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+FAOCAIIH_01936	CDS	1275				hypothetical protein
+FAOCAIIH_01937	CDS	1041		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+FAOCAIIH_01938	CDS	123	metY	2.5.1.-		O-acetyl-L-homoserine sulfhydrylase
+FAOCAIIH_01939	CDS	810				hypothetical protein
+FAOCAIIH_01940	CDS	744	strA	3.4.22.-	COG3764	Sortase A
+FAOCAIIH_01941	CDS	2469	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+FAOCAIIH_01942	CDS	987	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+FAOCAIIH_01943	CDS	927	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+FAOCAIIH_01944	CDS	1068	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+FAOCAIIH_01945	CDS	927	oppC		COG1173	Oligopeptide transport system permease protein OppC
+FAOCAIIH_01946	CDS	1497				hypothetical protein
+FAOCAIIH_01947	CDS	1980	amiA		COG4166	Oligopeptide-binding protein AmiA
+FAOCAIIH_01948	CDS	1194				hypothetical protein
+FAOCAIIH_01949	CDS	1443	gtfA	2.4.1.7	COG0366	Sucrose phosphorylase
+FAOCAIIH_01950	CDS	834	ngcG		COG0395	Diacetylchitobiose uptake system permease protein NgcG
+FAOCAIIH_01951	CDS	867	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+FAOCAIIH_01952	CDS	1260	msmE		COG1653	Multiple sugar-binding protein
+FAOCAIIH_01953	CDS	2163	agaA_2	3.2.1.22		Alpha-galactosidase AgaA
+FAOCAIIH_01954	CDS	861	rhaS			HTH-type transcriptional activator RhaS
+FAOCAIIH_01955	CDS	936	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+FAOCAIIH_01956	tRNA	90				tRNA-Ser(gct)
+FAOCAIIH_01957	tRNA	76				tRNA-Ile(gat)
+FAOCAIIH_01958	tRNA	71				tRNA-Gly(tcc)
+FAOCAIIH_01959	tRNA	73				tRNA-Phe(gaa)
+FAOCAIIH_01960	tRNA	74				tRNA-Met(cat)
+FAOCAIIH_01961	tRNA	90				tRNA-Ser(tga)
+FAOCAIIH_01962	tRNA	74				tRNA-Met(cat)
+FAOCAIIH_01963	tRNA	76				tRNA-Met(cat)
+FAOCAIIH_01964	tRNA	76				tRNA-Pro(tgg)
+FAOCAIIH_01965	tRNA	74				tRNA-Arg(acg)
+FAOCAIIH_01966	tRNA	86				tRNA-Leu(taa)
+FAOCAIIH_01967	tRNA	72				tRNA-Gly(gcc)
+FAOCAIIH_01968	tRNA	73				tRNA-Thr(tgt)
+FAOCAIIH_01969	tRNA	84				tRNA-Leu(tag)
+FAOCAIIH_01970	tRNA	73				tRNA-Lys(ttt)
+FAOCAIIH_01971	tRNA	73				tRNA-Asp(gtc)
+FAOCAIIH_01972	tRNA	73				tRNA-Val(tac)
+FAOCAIIH_01973	CDS	681				hypothetical protein
+FAOCAIIH_01974	CDS	1179				hypothetical protein
+FAOCAIIH_01975	CDS	1959	ligA	6.5.1.2		DNA ligase
+FAOCAIIH_01976	CDS	2280	amyX	3.2.1.41	COG1523	Pullulanase
+FAOCAIIH_01977	CDS	1425	gapN	1.2.1.9	COG1012	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+FAOCAIIH_01978	CDS	1929	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+FAOCAIIH_01979	CDS	1143	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+FAOCAIIH_01980	CDS	1140	glgD		COG0448	Glycogen biosynthesis protein GlgD
+FAOCAIIH_01981	CDS	1434	glgA	2.4.1.21	COG0297	Glycogen synthase
+FAOCAIIH_01982	CDS	372	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+FAOCAIIH_01983	CDS	1116	glxK	2.7.1.31		Glycerate kinase
+FAOCAIIH_01984	CDS	447				hypothetical protein
+FAOCAIIH_01985	CDS	1305	eno	4.2.1.11	COG0148	Enolase
+FAOCAIIH_01986	CDS	477	lacX			Protein LacX, plasmid
+FAOCAIIH_01987	CDS	426	lacA	5.3.1.26		Galactose-6-phosphate isomerase subunit LacA
+FAOCAIIH_01988	CDS	516	lacB	5.3.1.26		Galactose-6-phosphate isomerase subunit LacB
+FAOCAIIH_01989	CDS	930	lacC_2	2.7.1.144		Tagatose-6-phosphate kinase
+FAOCAIIH_01990	CDS	981	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+FAOCAIIH_01991	CDS	837	licT_2		COG3711	Transcription antiterminator LicT
+FAOCAIIH_01992	CDS	318	lacF_4			PTS system lactose-specific EIIA component
+FAOCAIIH_01993	CDS	1692	lacE_2			PTS system lactose-specific EIICB component
+FAOCAIIH_01994	CDS	1407	lacG_2	3.2.1.85		6-phospho-beta-galactosidase
+FAOCAIIH_01995	CDS	258				hypothetical protein
+FAOCAIIH_01996	CDS	762	lacR_2			Lactose phosphotransferase system repressor
+FAOCAIIH_01997	CDS	963	nrdF2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+FAOCAIIH_01998	CDS	2160	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+FAOCAIIH_01999	CDS	219	nrdH		COG0695	Glutaredoxin-like protein NrdH
+FAOCAIIH_02000	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+FAOCAIIH_02001	CDS	1725	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+FAOCAIIH_02002	CDS	156				hypothetical protein
+FAOCAIIH_02003	CDS	1362	lcnD_2			Lactococcin A secretion protein LcnD
+FAOCAIIH_02004	CDS	783	lagD_3	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+FAOCAIIH_02005	CDS	480	lagD_4	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+FAOCAIIH_02006	CDS	249				hypothetical protein
+FAOCAIIH_02007	CDS	210				hypothetical protein
+FAOCAIIH_02008	CDS	231				hypothetical protein
+FAOCAIIH_02009	CDS	576				hypothetical protein
+FAOCAIIH_02010	CDS	252				hypothetical protein
+FAOCAIIH_02011	CDS	405				hypothetical protein
+FAOCAIIH_02012	tRNA	72				tRNA-Glu(ttc)
+FAOCAIIH_02013	rRNA	1542				16S ribosomal RNA
+FAOCAIIH_02014	tRNA	75				tRNA-Ala(tgc)
+FAOCAIIH_02015	rRNA	2897				23S ribosomal RNA
+FAOCAIIH_02016	rRNA	109				5S ribosomal RNA
+FAOCAIIH_02017	CDS	1491	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+FAOCAIIH_02018	CDS	147				hypothetical protein
+FAOCAIIH_02019	CDS	681	glnM_2		COG0765	putative glutamine ABC transporter permease protein GlnM
+FAOCAIIH_02020	CDS	183				hypothetical protein
+FAOCAIIH_02021	CDS	300				hypothetical protein
+FAOCAIIH_02022	CDS	264				hypothetical protein
+FAOCAIIH_02023	CDS	294				hypothetical protein
+FAOCAIIH_02024	CDS	183				IS630 family transposase ISSpn2
+FAOCAIIH_02025	tRNA	72				tRNA-Pro(tgg)
+FAOCAIIH_02026	tRNA	74				tRNA-Asn(gtt)
+FAOCAIIH_02027	CDS	162				hypothetical protein
+FAOCAIIH_02028	tRNA	76				tRNA-Ile(gat)
+FAOCAIIH_02029	tRNA	73				tRNA-Ile(gat)
+FAOCAIIH_02030	tRNA	73				tRNA-Val(tac)
+FAOCAIIH_02031	tRNA	73				tRNA-Gly(tcc)
+FAOCAIIH_02032	tRNA	74				tRNA-Asn(gtt)

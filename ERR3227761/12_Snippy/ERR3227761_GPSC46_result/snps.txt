@@ -1,0 +1,11 @@
+DateTime	2023-02-18T06:32:59
+ReadFiles	/data/ERR3227761_1.fastq.gz /data/ERR3227761_2.fastq.gz
+Reference	/data/Reference_sequence_GPSC46.fa
+ReferenceSize	2071131
+Software	snippy 4.6.0
+Variant-COMPLEX	2016
+Variant-DEL	132
+Variant-INS	153
+Variant-MNP	263
+Variant-SNP	11616
+VariantTotal	14180

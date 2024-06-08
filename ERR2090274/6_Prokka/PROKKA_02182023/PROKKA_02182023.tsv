@@ -1,0 +1,2042 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OLAMIPOM_00001	CDS	657				hypothetical protein
+OLAMIPOM_00002	CDS	324				hypothetical protein
+OLAMIPOM_00003	CDS	831	tcyA		COG0834	L-cystine-binding protein TcyA
+OLAMIPOM_00004	CDS	855	metQ		COG1464	D-methionine-binding lipoprotein MetQ
+OLAMIPOM_00005	CDS	1374	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+OLAMIPOM_00006	CDS	1062	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+OLAMIPOM_00007	CDS	693	metP		COG2011	Methionine import system permease protein MetP
+OLAMIPOM_00008	CDS	570				hypothetical protein
+OLAMIPOM_00009	CDS	615				hypothetical protein
+OLAMIPOM_00010	CDS	1683				hypothetical protein
+OLAMIPOM_00011	CDS	1287	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+OLAMIPOM_00012	CDS	534				hypothetical protein
+OLAMIPOM_00013	CDS	471			COG1780	Putative NrdI-like protein
+OLAMIPOM_00014	CDS	1263				hypothetical protein
+OLAMIPOM_00015	CDS	459				hypothetical protein
+OLAMIPOM_00016	CDS	441			COG3279	putative HTH-type transcriptional regulator
+OLAMIPOM_00017	CDS	1950	mutL		COG0323	DNA mismatch repair protein MutL
+OLAMIPOM_00018	CDS	468	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+OLAMIPOM_00019	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+OLAMIPOM_00020	CDS	636	ribE	2.5.1.9	COG0307	Riboflavin synthase
+OLAMIPOM_00021	CDS	1101	ribD		COG0117	Riboflavin biosynthesis protein RibD
+OLAMIPOM_00022	CDS	594	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+OLAMIPOM_00023	CDS	564	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+OLAMIPOM_00024	CDS	678				hypothetical protein
+OLAMIPOM_00025	CDS	1032	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+OLAMIPOM_00026	CDS	684				hypothetical protein
+OLAMIPOM_00027	CDS	945				hypothetical protein
+OLAMIPOM_00028	CDS	2832	uvrA			UvrABC system protein A
+OLAMIPOM_00029	CDS	1062	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+OLAMIPOM_00030	CDS	399	spxA_1		COG1393	Regulatory protein Spx
+OLAMIPOM_00031	CDS	570				hypothetical protein
+OLAMIPOM_00032	CDS	267				hypothetical protein
+OLAMIPOM_00033	CDS	420	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+OLAMIPOM_00034	CDS	306				hypothetical protein
+OLAMIPOM_00035	CDS	1251	fpgS_1	6.3.2.17		Folylpolyglutamate synthase
+OLAMIPOM_00036	CDS	444				hypothetical protein
+OLAMIPOM_00037	CDS	1533	cls	2.7.8.-		Cardiolipin synthase
+OLAMIPOM_00038	CDS	144				hypothetical protein
+OLAMIPOM_00039	CDS	1539				hypothetical protein
+OLAMIPOM_00040	CDS	2208	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+OLAMIPOM_00041	CDS	507				hypothetical protein
+OLAMIPOM_00042	CDS	591				hypothetical protein
+OLAMIPOM_00043	CDS	618	udk_1	2.7.1.48		Uridine kinase
+OLAMIPOM_00044	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+OLAMIPOM_00045	CDS	627	rplC		COG0087	50S ribosomal protein L3
+OLAMIPOM_00046	CDS	624	rplD		COG0088	50S ribosomal protein L4
+OLAMIPOM_00047	CDS	297	rplW			50S ribosomal protein L23
+OLAMIPOM_00048	CDS	834	rplB		COG0090	50S ribosomal protein L2
+OLAMIPOM_00049	CDS	282	rpsS		COG0185	30S ribosomal protein S19
+OLAMIPOM_00050	CDS	345	rplV		COG0091	50S ribosomal protein L22
+OLAMIPOM_00051	CDS	654	rpsC		COG0092	30S ribosomal protein S3
+OLAMIPOM_00052	CDS	414	rplP		COG0197	50S ribosomal protein L16
+OLAMIPOM_00053	CDS	207	rpmC		COG0255	50S ribosomal protein L29
+OLAMIPOM_00054	CDS	261	rpsQ		COG0186	30S ribosomal protein S17
+OLAMIPOM_00055	CDS	369	rplN		COG0093	50S ribosomal protein L14
+OLAMIPOM_00056	CDS	306	rplX		COG0198	50S ribosomal protein L24
+OLAMIPOM_00057	CDS	543	rplE		COG0094	50S ribosomal protein L5
+OLAMIPOM_00058	CDS	270	rpsN2		COG0199	Alternate 30S ribosomal protein S14
+OLAMIPOM_00059	CDS	399	rpsH			30S ribosomal protein S8
+OLAMIPOM_00060	CDS	537	rplF		COG0097	50S ribosomal protein L6
+OLAMIPOM_00061	CDS	357	rplR		COG0256	50S ribosomal protein L18
+OLAMIPOM_00062	CDS	495	rpsE			30S ribosomal protein S5
+OLAMIPOM_00063	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+OLAMIPOM_00064	CDS	441	rplO			50S ribosomal protein L15
+OLAMIPOM_00065	CDS	1311	secY			Protein translocase subunit SecY
+OLAMIPOM_00066	CDS	639	adk	2.7.4.3	COG0563	Adenylate kinase
+OLAMIPOM_00067	CDS	219	infA		COG0361	Translation initiation factor IF-1
+OLAMIPOM_00068	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+OLAMIPOM_00069	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+OLAMIPOM_00070	CDS	384	rpsK			30S ribosomal protein S11
+OLAMIPOM_00071	CDS	936	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+OLAMIPOM_00072	CDS	387	rplQ		COG0203	50S ribosomal protein L17
+OLAMIPOM_00073	CDS	267				hypothetical protein
+OLAMIPOM_00074	CDS	1338				hypothetical protein
+OLAMIPOM_00075	CDS	693	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+OLAMIPOM_00076	CDS	414				hypothetical protein
+OLAMIPOM_00077	CDS	603				hypothetical protein
+OLAMIPOM_00078	CDS	345				hypothetical protein
+OLAMIPOM_00079	CDS	267				hypothetical protein
+OLAMIPOM_00080	CDS	660	msmX_1	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+OLAMIPOM_00081	CDS	366				hypothetical protein
+OLAMIPOM_00082	CDS	195				hypothetical protein
+OLAMIPOM_00083	CDS	102				hypothetical protein
+OLAMIPOM_00084	CDS	777	hpdA	1.97.1.-	COG1180	4-hydroxyphenylacetate decarboxylase activating enzyme
+OLAMIPOM_00085	CDS	747	srlR_1		COG1349	Glucitol operon repressor
+OLAMIPOM_00086	CDS	981	sorC_1		COG2390	Sorbitol operon regulator
+OLAMIPOM_00087	CDS	321	licA_1		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+OLAMIPOM_00088	CDS	309	gmuB	2.7.1.205	COG1440	PTS system oligo-beta-mannoside-specific EIIB component
+OLAMIPOM_00089	CDS	1299	licC_1		COG1455	Lichenan permease IIC component
+OLAMIPOM_00090	CDS	2439	cutC_1	4.3.99.4	COG1882	Choline trimethylamine-lyase
+OLAMIPOM_00091	CDS	669	fsaA	4.1.2.-	COG0176	Fructose-6-phosphate aldolase 1
+OLAMIPOM_00092	CDS	1089	gldA	1.1.1.6		Glycerol dehydrogenase
+OLAMIPOM_00093	CDS	2502	leuS	6.1.1.4		Leucine--tRNA ligase
+OLAMIPOM_00094	CDS	696				hypothetical protein
+OLAMIPOM_00095	CDS	417				hypothetical protein
+OLAMIPOM_00096	CDS	972	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+OLAMIPOM_00097	CDS	573				hypothetical protein
+OLAMIPOM_00098	CDS	759	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+OLAMIPOM_00099	CDS	804				hypothetical protein
+OLAMIPOM_00100	CDS	1260		3.4.24.-		Putative zinc metalloprotease
+OLAMIPOM_00101	CDS	1854	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+OLAMIPOM_00102	CDS	1380	gmuD_1	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+OLAMIPOM_00103	CDS	1809	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+OLAMIPOM_00104	CDS	1050	luxA	1.14.14.3		Alkanal monooxygenase alpha chain
+OLAMIPOM_00105	CDS	3798	glgX_1	3.2.1.196		Glycogen debranching enzyme
+OLAMIPOM_00106	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+OLAMIPOM_00107	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+OLAMIPOM_00108	CDS	2082	fus			Elongation factor G
+OLAMIPOM_00109	CDS	4392	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+OLAMIPOM_00110	CDS	264				hypothetical protein
+OLAMIPOM_00111	CDS	279	yafQ	3.1.-.-		mRNA interferase toxin YafQ
+OLAMIPOM_00112	CDS	153				hypothetical protein
+OLAMIPOM_00113	CDS	1242	pepS	3.4.11.-	COG2309	Aminopeptidase PepS
+OLAMIPOM_00114	CDS	231				hypothetical protein
+OLAMIPOM_00115	CDS	723	rsuA_1	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+OLAMIPOM_00116	CDS	1335	pepC	3.4.22.40	COG3579	Aminopeptidase C
+OLAMIPOM_00117	CDS	912	manZ_1		COG3716	PTS system mannose-specific EIID component
+OLAMIPOM_00118	CDS	804	sorA		COG3715	PTS system sorbose-specific EIIC component
+OLAMIPOM_00119	CDS	990	manX_1	2.7.1.191		PTS system mannose-specific EIIAB component
+OLAMIPOM_00120	CDS	1020	adhA	1.1.1.1		Alcohol dehydrogenase 1
+OLAMIPOM_00121	CDS	813	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+OLAMIPOM_00122	CDS	1419	adeQ		COG2252	Adenine permease AdeQ
+OLAMIPOM_00123	CDS	708				hypothetical protein
+OLAMIPOM_00124	CDS	951	sulA	2.5.1.15	COG0294	Dihydropteroate synthase
+OLAMIPOM_00125	CDS	1323	fpgS_2	6.3.2.17		Folylpolyglutamate synthase
+OLAMIPOM_00126	CDS	555	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OLAMIPOM_00127	CDS	813	sulD		COG0801	Bifunctional folate synthesis protein
+OLAMIPOM_00128	CDS	318				hypothetical protein
+OLAMIPOM_00129	CDS	447	rplM			50S ribosomal protein L13
+OLAMIPOM_00130	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+OLAMIPOM_00131	CDS	423	xerC_1			Tyrosine recombinase XerC
+OLAMIPOM_00132	CDS	177				hypothetical protein
+OLAMIPOM_00133	CDS	126				hypothetical protein
+OLAMIPOM_00134	CDS	2214				hypothetical protein
+OLAMIPOM_00135	CDS	477	bsaA			Glutathione peroxidase BsaA
+OLAMIPOM_00136	CDS	3204		4.2.2.1		Hyaluronate lyase
+OLAMIPOM_00137	CDS	216				IS200/IS605 family transposase ISStin10
+OLAMIPOM_00138	CDS	630	kdgA		COG0800	KHG/KDPG aldolase
+OLAMIPOM_00139	CDS	1002	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+OLAMIPOM_00140	CDS	642				hypothetical protein
+OLAMIPOM_00141	CDS	816	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+OLAMIPOM_00142	CDS	435				hypothetical protein
+OLAMIPOM_00143	CDS	1191	ugl	3.2.1.180		Unsaturated chondroitin disaccharide hydrolase
+OLAMIPOM_00144	CDS	492	levE_1	2.7.1.202	COG3444	PTS system fructose-specific EIIB component
+OLAMIPOM_00145	CDS	780	agaC		COG3715	N-acetylgalactosamine permease IIC component 1
+OLAMIPOM_00146	CDS	819	manZ_2		COG3716	PTS system mannose-specific EIID component
+OLAMIPOM_00147	CDS	294				hypothetical protein
+OLAMIPOM_00148	CDS	1902				hypothetical protein
+OLAMIPOM_00149	CDS	1002	kdgR		COG1609	HTH-type transcriptional regulator KdgR
+OLAMIPOM_00150	CDS	336				hypothetical protein
+OLAMIPOM_00151	CDS	243				hypothetical protein
+OLAMIPOM_00152	CDS	195				hypothetical protein
+OLAMIPOM_00153	CDS	951	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+OLAMIPOM_00154	CDS	318	ftsL			Cell division protein FtsL
+OLAMIPOM_00155	CDS	2253	pbpX		COG0768	Penicillin-binding protein 2X
+OLAMIPOM_00156	CDS	981	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+OLAMIPOM_00157	CDS	2106	clpC_1			putative ATP-dependent Clp protease ATP-binding subunit
+OLAMIPOM_00158	CDS	351				hypothetical protein
+OLAMIPOM_00159	CDS	483	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+OLAMIPOM_00160	CDS	1485				hypothetical protein
+OLAMIPOM_00161	CDS	1608	dexB	3.2.1.70	COG0366	Glucan 1,6-alpha-glucosidase
+OLAMIPOM_00162	CDS	282				IS630 family transposase IS630-Spn1
+OLAMIPOM_00163	CDS	330				IS630 family transposase IS630-Spn1
+OLAMIPOM_00164	CDS	1446	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+OLAMIPOM_00165	CDS	732	cpsB	3.1.3.48	COG4464	Tyrosine-protein phosphatase CpsB
+OLAMIPOM_00166	CDS	693	ywqC		COG3944	putative capsular polysaccharide biosynthesis protein YwqC
+OLAMIPOM_00167	CDS	684	cpsD	2.7.10.2		Tyrosine-protein kinase CpsD
+OLAMIPOM_00168	CDS	636	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+OLAMIPOM_00169	CDS	795				hypothetical protein
+OLAMIPOM_00170	CDS	1251				hypothetical protein
+OLAMIPOM_00171	CDS	906				hypothetical protein
+OLAMIPOM_00172	CDS	1086	gtfA_1	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+OLAMIPOM_00173	CDS	1005	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OLAMIPOM_00174	CDS	954	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OLAMIPOM_00175	CDS	957				hypothetical protein
+OLAMIPOM_00176	CDS	1413	rfbX		COG2244	Putative O-antigen transporter
+OLAMIPOM_00177	CDS	1101	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+OLAMIPOM_00178	CDS	1983	sarA_1		COG4166	Oligopeptide-binding protein SarA
+OLAMIPOM_00179	CDS	5310		3.2.1.97		Endo-alpha-N-acetylgalactosaminidase
+OLAMIPOM_00180	CDS	2160	ponA		COG0744	Penicillin-binding protein 1A
+OLAMIPOM_00181	CDS	597	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+OLAMIPOM_00182	CDS	528				hypothetical protein
+OLAMIPOM_00183	CDS	330	gpsB		COG3599	Cell cycle protein GpsB
+OLAMIPOM_00184	CDS	1158	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+OLAMIPOM_00185	CDS	1395	mapZ			Mid-cell-anchored protein Z
+OLAMIPOM_00186	CDS	1425	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+OLAMIPOM_00187	CDS	690	arlR_1		COG0745	Response regulator ArlR
+OLAMIPOM_00188	CDS	1017				hypothetical protein
+OLAMIPOM_00189	CDS	1233				hypothetical protein
+OLAMIPOM_00190	CDS	588				hypothetical protein
+OLAMIPOM_00191	CDS	330				hypothetical protein
+OLAMIPOM_00192	CDS	879	galK_1	2.7.1.6		Galactokinase
+OLAMIPOM_00193	CDS	954				hypothetical protein
+OLAMIPOM_00194	CDS	1008		2.7.4.2		Phosphomevalonate kinase
+OLAMIPOM_00195	CDS	1011	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+OLAMIPOM_00196	CDS	699	liaF		COG4758	Protein LiaF
+OLAMIPOM_00197	CDS	996				hypothetical protein
+OLAMIPOM_00198	CDS	633	liaR		COG2197	Transcriptional regulatory protein LiaR
+OLAMIPOM_00199	CDS	240				hypothetical protein
+OLAMIPOM_00200	CDS	906				hypothetical protein
+OLAMIPOM_00201	CDS	426				hypothetical protein
+OLAMIPOM_00202	CDS	480				hypothetical protein
+OLAMIPOM_00203	CDS	186				IS3 family transposase ISSpn11
+OLAMIPOM_00204	CDS	231				hypothetical protein
+OLAMIPOM_00205	CDS	273				IS3 family transposase ISSpn11
+OLAMIPOM_00206	CDS	150				hypothetical protein
+OLAMIPOM_00207	CDS	270				hypothetical protein
+OLAMIPOM_00208	CDS	1758				hypothetical protein
+OLAMIPOM_00209	CDS	1956	mtlR			Transcriptional regulator MtlR
+OLAMIPOM_00210	CDS	438	mtlF		COG2213	Mannitol-specific phosphotransferase enzyme IIA component
+OLAMIPOM_00211	CDS	1137	mtlD	1.1.1.17	COG0246	Mannitol-1-phosphate 5-dehydrogenase
+OLAMIPOM_00212	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+OLAMIPOM_00213	CDS	2367	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+OLAMIPOM_00214	CDS	615	spsB	3.4.21.89		Signal peptidase IB
+OLAMIPOM_00215	CDS	882	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+OLAMIPOM_00216	CDS	303				hypothetical protein
+OLAMIPOM_00217	CDS	549				hypothetical protein
+OLAMIPOM_00218	CDS	2337	mutS2	3.1.-.-		Endonuclease MutS2
+OLAMIPOM_00219	CDS	1323	alsT		COG1115	Amino-acid carrier protein AlsT
+OLAMIPOM_00220	CDS	549				hypothetical protein
+OLAMIPOM_00221	CDS	900				hypothetical protein
+OLAMIPOM_00222	CDS	1275	serS	6.1.1.11		Serine--tRNA ligase
+OLAMIPOM_00223	CDS	372				hypothetical protein
+OLAMIPOM_00224	CDS	1365	yclM	2.7.2.4	COG0527	Aspartokinase 3
+OLAMIPOM_00225	CDS	786	fabM	5.3.3.14	COG1024	Trans-2-decenoyl-[acyl-carrier-protein] isomerase
+OLAMIPOM_00226	CDS	435				hypothetical protein
+OLAMIPOM_00227	CDS	975	fabH	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+OLAMIPOM_00228	CDS	225	acpA		COG0236	Acyl carrier protein
+OLAMIPOM_00229	CDS	975		1.6.5.11	COG2070	NADH:quinone reductase
+OLAMIPOM_00230	CDS	921	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+OLAMIPOM_00231	CDS	732	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OLAMIPOM_00232	CDS	1236	fabF	2.3.1.179		3-oxoacyl-[acyl-carrier-protein] synthase 2
+OLAMIPOM_00233	CDS	486	accB			Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+OLAMIPOM_00234	CDS	423	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+OLAMIPOM_00235	CDS	1368	accC	6.3.4.14	COG0439	Biotin carboxylase
+OLAMIPOM_00236	CDS	867	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+OLAMIPOM_00237	CDS	768	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+OLAMIPOM_00238	CDS	186				hypothetical protein
+OLAMIPOM_00239	CDS	435				hypothetical protein
+OLAMIPOM_00240	CDS	423	nusB		COG0781	Transcription antitermination protein NusB
+OLAMIPOM_00241	CDS	390				putative protein
+OLAMIPOM_00242	CDS	561	efp			Elongation factor P
+OLAMIPOM_00243	CDS	1443	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+OLAMIPOM_00244	CDS	1467	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+OLAMIPOM_00245	CDS	303	gatC_1	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+OLAMIPOM_00246	CDS	1545	prfC			Peptide chain release factor 3
+OLAMIPOM_00247	CDS	198	glyE			Glycosyltransferase GlyE
+OLAMIPOM_00248	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+OLAMIPOM_00249	CDS	366				putative protein
+OLAMIPOM_00250	CDS	1668				putative protein
+OLAMIPOM_00251	CDS	1701	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+OLAMIPOM_00252	CDS	477	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+OLAMIPOM_00253	CDS	1023	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+OLAMIPOM_00254	CDS	237				hypothetical protein
+OLAMIPOM_00255	CDS	357				hypothetical protein
+OLAMIPOM_00256	CDS	1251	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+OLAMIPOM_00257	CDS	216				hypothetical protein
+OLAMIPOM_00258	CDS	741	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+OLAMIPOM_00259	CDS	1566				hypothetical protein
+OLAMIPOM_00260	CDS	1890				hypothetical protein
+OLAMIPOM_00261	CDS	549				hypothetical protein
+OLAMIPOM_00262	CDS	123				hypothetical protein
+OLAMIPOM_00263	CDS	846	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+OLAMIPOM_00264	CDS	1062	dinB	2.7.7.7	COG0389	DNA polymerase IV
+OLAMIPOM_00265	CDS	2325	pflB	2.3.1.54		Formate acetyltransferase
+OLAMIPOM_00266	CDS	219				hypothetical protein
+OLAMIPOM_00267	CDS	285				hypothetical protein
+OLAMIPOM_00268	CDS	171				hypothetical protein
+OLAMIPOM_00269	CDS	189				hypothetical protein
+OLAMIPOM_00270	CDS	225	lacE_1			PTS system lactose-specific EIICB component
+OLAMIPOM_00271	CDS	1440	trkG		COG0168	Trk system potassium uptake protein TrkG
+OLAMIPOM_00272	CDS	1350	trkA		COG0569	Trk system potassium uptake protein TrkA
+OLAMIPOM_00273	CDS	849	salL	2.5.1.94	COG1912	Adenosyl-chloride synthase
+OLAMIPOM_00274	CDS	549				hypothetical protein
+OLAMIPOM_00275	CDS	213				hypothetical protein
+OLAMIPOM_00276	CDS	1683	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OLAMIPOM_00277	CDS	831	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+OLAMIPOM_00278	CDS	504	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+OLAMIPOM_00279	CDS	564	ribU		COG3601	Riboflavin transporter RibU
+OLAMIPOM_00280	CDS	651				hypothetical protein
+OLAMIPOM_00281	CDS	390				hypothetical protein
+OLAMIPOM_00282	CDS	450				hypothetical protein
+OLAMIPOM_00283	CDS	588	rpoE			putative DNA-directed RNA polymerase subunit delta
+OLAMIPOM_00284	CDS	1608	pyrG	6.3.4.2	COG0504	CTP synthase
+OLAMIPOM_00285	CDS	1632				hypothetical protein
+OLAMIPOM_00286	CDS	4911				hypothetical protein
+OLAMIPOM_00287	CDS	1197	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+OLAMIPOM_00288	CDS	528				hypothetical protein
+OLAMIPOM_00289	CDS	357	glnR		COG0789	HTH-type transcriptional regulator GlnR
+OLAMIPOM_00290	CDS	1347	glnA	6.3.1.2	COG0174	Glutamine synthetase
+OLAMIPOM_00291	CDS	150				hypothetical protein
+OLAMIPOM_00292	CDS	1173	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+OLAMIPOM_00293	CDS	1275	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+OLAMIPOM_00294	CDS	966	degA		COG1609	HTH-type transcriptional regulator DegA
+OLAMIPOM_00295	CDS	1455	scrB	3.2.1.26		Sucrose-6-phosphate hydrolase
+OLAMIPOM_00296	CDS	1884				hypothetical protein
+OLAMIPOM_00297	CDS	888	gmuE	2.7.1.4	COG1940	Putative fructokinase
+OLAMIPOM_00298	CDS	618				hypothetical protein
+OLAMIPOM_00299	CDS	894		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+OLAMIPOM_00300	CDS	1200	yhaP		COG1668	putative protein YhaP
+OLAMIPOM_00301	CDS	768				hypothetical protein
+OLAMIPOM_00302	CDS	696	skfE	7.3.2.3	COG1131	SkfA peptide export ATP-binding protein SkfE
+OLAMIPOM_00303	CDS	366	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+OLAMIPOM_00304	CDS	474	nrdR		COG1327	Transcriptional repressor NrdR
+OLAMIPOM_00305	CDS	1170				hypothetical protein
+OLAMIPOM_00306	CDS	897	dnaI		COG1484	Primosomal protein DnaI
+OLAMIPOM_00307	CDS	714	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+OLAMIPOM_00308	CDS	1311	der		COG1160	GTPase Der
+OLAMIPOM_00309	CDS	345				hypothetical protein
+OLAMIPOM_00310	CDS	351				hypothetical protein
+OLAMIPOM_00311	CDS	852				hypothetical protein
+OLAMIPOM_00312	CDS	393				hypothetical protein
+OLAMIPOM_00313	CDS	792				hypothetical protein
+OLAMIPOM_00314	CDS	642				hypothetical protein
+OLAMIPOM_00315	CDS	651	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+OLAMIPOM_00316	CDS	2514	secA		COG0653	Protein translocase subunit SecA
+OLAMIPOM_00317	CDS	1032	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+OLAMIPOM_00318	CDS	1032	aroF	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+OLAMIPOM_00319	CDS	369	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+OLAMIPOM_00320	CDS	1104	alr	5.1.1.1	COG0787	Alanine racemase
+OLAMIPOM_00321	CDS	2016	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+OLAMIPOM_00322	CDS	981	axeA	3.1.1.41	COG3458	Cephalosporin-C deacetylase
+OLAMIPOM_00323	CDS	228				hypothetical protein
+OLAMIPOM_00324	CDS	2913	nanA_1	3.2.1.18	COG4409	Sialidase A
+OLAMIPOM_00325	CDS	96				hypothetical protein
+OLAMIPOM_00326	CDS	453				hypothetical protein
+OLAMIPOM_00327	CDS	1338				hypothetical protein
+OLAMIPOM_00328	CDS	885	ycjO		COG1175	Inner membrane ABC transporter permease protein YcjO
+OLAMIPOM_00329	CDS	834	ycjP		COG0395	Inner membrane ABC transporter permease protein YcjP
+OLAMIPOM_00330	CDS	2094	nanB	3.2.1.18	COG4409	Sialidase B
+OLAMIPOM_00331	CDS	1104	yjhC	1.-.-.-	COG0673	putative oxidoreductase YjhC
+OLAMIPOM_00332	CDS	699	nanE_1	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+OLAMIPOM_00333	CDS	1518	ptsG_1	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+OLAMIPOM_00334	CDS	1329				hypothetical protein
+OLAMIPOM_00335	CDS	888	lacF_1			Lactose transport system permease protein LacF
+OLAMIPOM_00336	CDS	840	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+OLAMIPOM_00337	CDS	453	tabA		COG2731	Toxin-antitoxin biofilm protein TabA
+OLAMIPOM_00338	CDS	309				hypothetical protein
+OLAMIPOM_00339	CDS	645				hypothetical protein
+OLAMIPOM_00340	CDS	918	nanA_2	4.1.3.3	COG0329	N-acetylneuraminate lyase
+OLAMIPOM_00341	CDS	885	bglK_1	2.7.1.85	COG1940	Beta-glucoside kinase
+OLAMIPOM_00342	CDS	852	ybbH		COG1737	putative HTH-type transcriptional regulator YbbH
+OLAMIPOM_00343	CDS	2043	penA		COG0768	Penicillin-binding protein 2B
+OLAMIPOM_00344	CDS	597	recR		COG0353	Recombination protein RecR
+OLAMIPOM_00345	CDS	1044	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+OLAMIPOM_00346	CDS	1374	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+OLAMIPOM_00347	CDS	612				hypothetical protein
+OLAMIPOM_00348	CDS	705				hypothetical protein
+OLAMIPOM_00349	CDS	1374	ftsA		COG0849	Cell division protein FtsA
+OLAMIPOM_00350	CDS	1260	ftsZ		COG0206	Cell division protein FtsZ
+OLAMIPOM_00351	CDS	672			COG0325	Pyridoxal phosphate homeostasis protein
+OLAMIPOM_00352	CDS	540	sepF		COG1799	Cell division protein SepF
+OLAMIPOM_00353	CDS	264				hypothetical protein
+OLAMIPOM_00354	CDS	786				hypothetical protein
+OLAMIPOM_00355	CDS	789	divIVA		COG3599	Cell division protein DivIVA
+OLAMIPOM_00356	CDS	2793	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+OLAMIPOM_00357	CDS	363				hypothetical protein
+OLAMIPOM_00358	CDS	189				hypothetical protein
+OLAMIPOM_00359	CDS	693	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+OLAMIPOM_00360	CDS	2412				hypothetical protein
+OLAMIPOM_00361	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+OLAMIPOM_00362	CDS	2709				hypothetical protein
+OLAMIPOM_00363	CDS	492	tpx	1.11.1.15	COG2077	Thiol peroxidase
+OLAMIPOM_00364	CDS	930	psaA		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+OLAMIPOM_00365	CDS	849	mntB			Manganese transport system membrane protein MntB
+OLAMIPOM_00366	CDS	723	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+OLAMIPOM_00367	CDS	1893	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+OLAMIPOM_00368	CDS	630		3.-.-.-		putative metallo-hydrolase
+OLAMIPOM_00369	CDS	2223	relA			Bifunctional (p)ppGpp synthase/hydrolase RelA
+OLAMIPOM_00370	CDS	444	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+OLAMIPOM_00371	CDS	114				hypothetical protein
+OLAMIPOM_00372	CDS	651	dtxR			Diphtheria toxin repressor
+OLAMIPOM_00373	CDS	843				hypothetical protein
+OLAMIPOM_00374	CDS	438	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+OLAMIPOM_00375	CDS	252				hypothetical protein
+OLAMIPOM_00376	CDS	1074				hypothetical protein
+OLAMIPOM_00377	CDS	678	graR		COG0745	Response regulator protein GraR
+OLAMIPOM_00378	CDS	975	graS	2.7.13.3	COG0642	Sensor histidine kinase GraS
+OLAMIPOM_00379	CDS	1944	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+OLAMIPOM_00380	CDS	141				hypothetical protein
+OLAMIPOM_00381	CDS	201				hypothetical protein
+OLAMIPOM_00382	CDS	321				hypothetical protein
+OLAMIPOM_00383	CDS	231				hypothetical protein
+OLAMIPOM_00384	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+OLAMIPOM_00385	CDS	615				hypothetical protein
+OLAMIPOM_00386	CDS	750	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+OLAMIPOM_00387	CDS	2337	ctpE	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+OLAMIPOM_00388	CDS	1464	manR		COG1762	Transcriptional regulator ManR
+OLAMIPOM_00389	CDS	429				hypothetical protein
+OLAMIPOM_00390	CDS	450	mngA		COG1299	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+OLAMIPOM_00391	CDS	312	manP		COG1299	PTS system mannose-specific EIIBCA component
+OLAMIPOM_00392	CDS	1086	fruA_1		COG1299	PTS system fructose-specific EIIB'BC component
+OLAMIPOM_00393	CDS	696	alsE	5.1.3.-	COG0036	D-allulose-6-phosphate 3-epimerase
+OLAMIPOM_00394	CDS	1971	tkt_1	2.2.1.1		Transketolase
+OLAMIPOM_00395	CDS	276				hypothetical protein
+OLAMIPOM_00396	CDS	168			COG3039	IS5 family transposase IS1515
+OLAMIPOM_00397	CDS	252				hypothetical protein
+OLAMIPOM_00398	CDS	378			COG3039	IS5 family transposase IS1515
+OLAMIPOM_00399	CDS	105				hypothetical protein
+OLAMIPOM_00400	CDS	678	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+OLAMIPOM_00401	CDS	798			COG0327	GTP cyclohydrolase 1 type 2 
+OLAMIPOM_00402	CDS	1104	thiO	1.4.3.19		Glycine oxidase
+OLAMIPOM_00403	CDS	1083	yfmL	3.6.4.13	COG0513	putative ATP-dependent RNA helicase YfmL
+OLAMIPOM_00404	CDS	978	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+OLAMIPOM_00405	CDS	1443	pgdA	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+OLAMIPOM_00406	CDS	843	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+OLAMIPOM_00407	CDS	843				hypothetical protein
+OLAMIPOM_00408	CDS	918	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+OLAMIPOM_00409	CDS	2037	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+OLAMIPOM_00410	CDS	258				hypothetical protein
+OLAMIPOM_00411	CDS	1245				hypothetical protein
+OLAMIPOM_00412	CDS	606	urdA	1.3.99.33		Urocanate reductase
+OLAMIPOM_00413	CDS	924	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+OLAMIPOM_00414	CDS	1380		1.6.99.3		putative NADH oxidase
+OLAMIPOM_00415	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+OLAMIPOM_00416	CDS	582	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+OLAMIPOM_00417	CDS	648				hypothetical protein
+OLAMIPOM_00418	CDS	447				hypothetical protein
+OLAMIPOM_00419	CDS	495				hypothetical protein
+OLAMIPOM_00420	CDS	513	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+OLAMIPOM_00421	CDS	357	mgsR		COG1393	Regulatory protein MgsR
+OLAMIPOM_00422	CDS	801	yxeN			putative amino-acid permease protein YxeN
+OLAMIPOM_00423	CDS	744	tcyN	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyN
+OLAMIPOM_00424	CDS	225				hypothetical protein
+OLAMIPOM_00425	CDS	912	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+OLAMIPOM_00426	CDS	729		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+OLAMIPOM_00427	CDS	612	def_1	3.5.1.88	COG0242	Peptide deformylase
+OLAMIPOM_00428	CDS	297				hypothetical protein
+OLAMIPOM_00429	CDS	462				hypothetical protein
+OLAMIPOM_00430	CDS	300				hypothetical protein
+OLAMIPOM_00431	CDS	828	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+OLAMIPOM_00432	CDS	636				hypothetical protein
+OLAMIPOM_00433	CDS	726				hypothetical protein
+OLAMIPOM_00434	CDS	936	yfeW	3.4.16.4	COG1680	Putative D-alanyl-D-alanine carboxypeptidase
+OLAMIPOM_00435	CDS	897	yicL_1		COG0697	putative inner membrane transporter YicL
+OLAMIPOM_00436	CDS	699	nagR		COG2188	HTH-type transcriptional repressor NagR
+OLAMIPOM_00437	CDS	1563	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+OLAMIPOM_00438	CDS	186				hypothetical protein
+OLAMIPOM_00439	CDS	237				hypothetical protein
+OLAMIPOM_00440	CDS	468				hypothetical protein
+OLAMIPOM_00441	CDS	312				hypothetical protein
+OLAMIPOM_00442	CDS	243				hypothetical protein
+OLAMIPOM_00443	CDS	1365	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OLAMIPOM_00444	CDS	696				hypothetical protein
+OLAMIPOM_00445	CDS	585				hypothetical protein
+OLAMIPOM_00446	CDS	1722	ndvA	7.5.2.3	COG1132	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+OLAMIPOM_00447	CDS	1755	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OLAMIPOM_00448	CDS	993	rhaR			HTH-type transcriptional activator RhaR
+OLAMIPOM_00449	CDS	1191				hypothetical protein
+OLAMIPOM_00450	CDS	177				hypothetical protein
+OLAMIPOM_00451	CDS	183				hypothetical protein
+OLAMIPOM_00452	CDS	1287				hypothetical protein
+OLAMIPOM_00453	CDS	240				hypothetical protein
+OLAMIPOM_00454	CDS	522				hypothetical protein
+OLAMIPOM_00455	CDS	735	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OLAMIPOM_00456	CDS	123				hypothetical protein
+OLAMIPOM_00457	CDS	402				hypothetical protein
+OLAMIPOM_00458	CDS	210				hypothetical protein
+OLAMIPOM_00459	CDS	489				hypothetical protein
+OLAMIPOM_00460	CDS	1461	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+OLAMIPOM_00461	CDS	825	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+OLAMIPOM_00462	CDS	552				hypothetical protein
+OLAMIPOM_00463	CDS	102				hypothetical protein
+OLAMIPOM_00464	CDS	390				hypothetical protein
+OLAMIPOM_00465	CDS	1029	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OLAMIPOM_00466	CDS	708	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+OLAMIPOM_00467	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+OLAMIPOM_00468	CDS	936	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+OLAMIPOM_00469	CDS	789	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+OLAMIPOM_00470	CDS	384				hypothetical protein
+OLAMIPOM_00471	CDS	390				hypothetical protein
+OLAMIPOM_00472	CDS	1131	hemW		COG0635	Heme chaperone HemW
+OLAMIPOM_00473	CDS	738				hypothetical protein
+OLAMIPOM_00474	CDS	774	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+OLAMIPOM_00475	CDS	618				hypothetical protein
+OLAMIPOM_00476	CDS	402	spxA_2		COG1393	Regulatory protein Spx
+OLAMIPOM_00477	CDS	279				hypothetical protein
+OLAMIPOM_00478	CDS	774	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+OLAMIPOM_00479	CDS	1305	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+OLAMIPOM_00480	CDS	114				hypothetical protein
+OLAMIPOM_00481	CDS	879	pstS1		COG0226	Phosphate-binding protein PstS 1
+OLAMIPOM_00482	CDS	918	pstC		COG0573	Phosphate transport system permease protein PstC
+OLAMIPOM_00483	CDS	885				hypothetical protein
+OLAMIPOM_00484	CDS	804	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+OLAMIPOM_00485	CDS	759	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+OLAMIPOM_00486	CDS	654	phoU_1		COG0704	Phosphate-specific transport system accessory protein PhoU 
+OLAMIPOM_00487	CDS	816	glnH_1		COG0834	Glutamine-binding periplasmic protein
+OLAMIPOM_00488	CDS	1272	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+OLAMIPOM_00489	CDS	672	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+OLAMIPOM_00490	CDS	753				hypothetical protein
+OLAMIPOM_00491	CDS	906	murB	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+OLAMIPOM_00492	CDS	1158	potA_1	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+OLAMIPOM_00493	CDS	807	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+OLAMIPOM_00494	CDS	774	ydcV			Inner membrane ABC transporter permease protein YdcV
+OLAMIPOM_00495	CDS	1071	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+OLAMIPOM_00496	CDS	486				hypothetical protein
+OLAMIPOM_00497	CDS	2619	alaS	6.1.1.7		Alanine--tRNA ligase
+OLAMIPOM_00498	CDS	1455	amyS	3.2.1.1		Alpha-amylase
+OLAMIPOM_00499	CDS	750	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+OLAMIPOM_00500	CDS	1635				hypothetical protein
+OLAMIPOM_00501	CDS	1164	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+OLAMIPOM_00502	CDS	678	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+OLAMIPOM_00503	CDS	855	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+OLAMIPOM_00504	CDS	1068	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+OLAMIPOM_00505	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+OLAMIPOM_00506	CDS	1104				hypothetical protein
+OLAMIPOM_00507	CDS	339				hypothetical protein
+OLAMIPOM_00508	CDS	1284	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OLAMIPOM_00509	CDS	477	aroK	2.7.1.71	COG0703	Shikimate kinase
+OLAMIPOM_00510	CDS	849	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+OLAMIPOM_00511	CDS	1275	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+OLAMIPOM_00512	CDS	837				hypothetical protein
+OLAMIPOM_00513	CDS	1104	pglJ	2.4.1.291	COG0438	N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase
+OLAMIPOM_00514	CDS	987	glyG			Glycosyltransferase GlyG
+OLAMIPOM_00515	CDS	1434				hypothetical protein
+OLAMIPOM_00516	CDS	1035				hypothetical protein
+OLAMIPOM_00517	CDS	738	mecA		COG4862	Adapter protein MecA
+OLAMIPOM_00518	CDS	1287	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+OLAMIPOM_00519	CDS	870	thrB	2.7.1.39	COG0083	Homoserine kinase
+OLAMIPOM_00520	CDS	939	msrAB1		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB 1
+OLAMIPOM_00521	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+OLAMIPOM_00522	CDS	1749		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+OLAMIPOM_00523	CDS	1197	tuf			Elongation factor Tu
+OLAMIPOM_00524	CDS	870	gla		COG0580	Glycerol facilitator-aquaporin gla
+OLAMIPOM_00525	CDS	522				hypothetical protein
+OLAMIPOM_00526	CDS	1080				hypothetical protein
+OLAMIPOM_00527	CDS	255				hypothetical protein
+OLAMIPOM_00528	CDS	735				IS630 family transposase IS630-Spn1
+OLAMIPOM_00529	CDS	1719	pgcA	5.4.2.2		Phosphoglucomutase
+OLAMIPOM_00530	CDS	348				hypothetical protein
+OLAMIPOM_00531	CDS	837	artP		COG0834	Arginine-binding extracellular protein ArtP
+OLAMIPOM_00532	CDS	630	glnQ_2		COG1126	Glutamine transport ATP-binding protein GlnQ
+OLAMIPOM_00533	CDS	642	yecS		COG0765	L-cystine transport system permease protein YecS
+OLAMIPOM_00534	CDS	1230	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+OLAMIPOM_00535	CDS	1167			COG0628	Putative transport protein
+OLAMIPOM_00536	CDS	1014	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+OLAMIPOM_00537	CDS	420	atpC		COG0355	ATP synthase epsilon chain
+OLAMIPOM_00538	CDS	1407	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+OLAMIPOM_00539	CDS	879	atpG		COG0224	ATP synthase gamma chain
+OLAMIPOM_00540	CDS	1506	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+OLAMIPOM_00541	CDS	537	atpH		COG0712	ATP synthase subunit delta
+OLAMIPOM_00542	CDS	495	atpF		COG0711	ATP synthase subunit b
+OLAMIPOM_00543	CDS	717	atpB		COG0356	ATP synthase subunit a
+OLAMIPOM_00544	CDS	201	atpE		COG0636	ATP synthase subunit c
+OLAMIPOM_00545	CDS	1008			COG2826	IS30 family transposase ISSpn8
+OLAMIPOM_00546	CDS	429				hypothetical protein
+OLAMIPOM_00547	CDS	123				hypothetical protein
+OLAMIPOM_00548	CDS	483	greA			Transcription elongation factor GreA
+OLAMIPOM_00549	CDS	1656	mltG	4.2.2.-		Endolytic murein transglycosylase
+OLAMIPOM_00550	CDS	495				hypothetical protein
+OLAMIPOM_00551	CDS	465				hypothetical protein
+OLAMIPOM_00552	CDS	1335	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+OLAMIPOM_00553	CDS	618				hypothetical protein
+OLAMIPOM_00554	CDS	3099	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+OLAMIPOM_00555	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+OLAMIPOM_00556	CDS	1095	metI	2.5.1.-	COG0626	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+OLAMIPOM_00557	CDS	153	lmrA_1	7.6.2.2	COG1132	Multidrug resistance ABC transporter ATP-binding and permease protein
+OLAMIPOM_00558	CDS	1155	lmrA_2	7.6.2.2	COG1132	Multidrug resistance ABC transporter ATP-binding and permease protein
+OLAMIPOM_00559	CDS	234				hypothetical protein
+OLAMIPOM_00560	CDS	1959	sarA_2		COG4166	Oligopeptide-binding protein SarA
+OLAMIPOM_00561	CDS	1623	murJ		COG2244	Lipid II flippase MurJ
+OLAMIPOM_00562	CDS	1446	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+OLAMIPOM_00563	CDS	195				hypothetical protein
+OLAMIPOM_00564	CDS	504				hypothetical protein
+OLAMIPOM_00565	CDS	513				hypothetical protein
+OLAMIPOM_00566	CDS	936	ppaC	3.6.1.1	COG1227	putative manganese-dependent inorganic pyrophosphatase
+OLAMIPOM_00567	CDS	300				hypothetical protein
+OLAMIPOM_00568	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+OLAMIPOM_00569	CDS	360	yugI		COG1098	General stress protein 13
+OLAMIPOM_00570	CDS	1401				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+OLAMIPOM_00571	CDS	240	rpsR		COG0238	30S ribosomal protein S18
+OLAMIPOM_00572	CDS	471	ssb_1		COG0629	Single-stranded DNA-binding protein
+OLAMIPOM_00573	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+OLAMIPOM_00574	CDS	1344	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+OLAMIPOM_00575	CDS	225				hypothetical protein
+OLAMIPOM_00576	CDS	1188	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+OLAMIPOM_00577	CDS	432				hypothetical protein
+OLAMIPOM_00578	CDS	549				hypothetical protein
+OLAMIPOM_00579	CDS	729	yaaA		COG3022	Peroxide stress resistance protein YaaA
+OLAMIPOM_00580	CDS	165				hypothetical protein
+OLAMIPOM_00581	CDS	1596				hypothetical protein
+OLAMIPOM_00582	CDS	411	def_2	3.5.1.88	COG0242	Peptide deformylase
+OLAMIPOM_00583	CDS	792	yghU	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YghU
+OLAMIPOM_00584	CDS	2697		7.2.2.10		Calcium-transporting ATPase 1
+OLAMIPOM_00585	CDS	1185	fieF			Ferrous-iron efflux pump FieF
+OLAMIPOM_00586	CDS	1872	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+OLAMIPOM_00587	CDS	1185	cca	2.7.7.72		CCA-adding enzyme
+OLAMIPOM_00588	CDS	768	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+OLAMIPOM_00589	CDS	849			COG1307	DegV domain-containing protein
+OLAMIPOM_00590	CDS	375				hypothetical protein
+OLAMIPOM_00591	CDS	1353	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+OLAMIPOM_00592	CDS	780				hypothetical protein
+OLAMIPOM_00593	CDS	858	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+OLAMIPOM_00594	CDS	969	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+OLAMIPOM_00595	CDS	912	whiA		COG1481	putative cell division protein WhiA
+OLAMIPOM_00596	CDS	978			COG0391	Putative gluconeogenesis factor
+OLAMIPOM_00597	CDS	891	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+OLAMIPOM_00598	CDS	381	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+OLAMIPOM_00599	CDS	588	engB		COG0218	putative GTP-binding protein EngB
+OLAMIPOM_00600	CDS	1233	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+OLAMIPOM_00601	CDS	171				hypothetical protein
+OLAMIPOM_00602	CDS	507	dhfR	1.5.1.3	COG0262	Dihydrofolate reductase
+OLAMIPOM_00603	CDS	519	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+OLAMIPOM_00604	CDS	1473				hypothetical protein
+OLAMIPOM_00605	CDS	759	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+OLAMIPOM_00606	CDS	678	dnaD		COG3935	DNA replication protein DnaD
+OLAMIPOM_00607	CDS	945	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+OLAMIPOM_00608	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+OLAMIPOM_00609	CDS	759	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OLAMIPOM_00610	CDS	1131	msmX_2	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+OLAMIPOM_00611	tRNA	88				tRNA-Leu(aag)
+OLAMIPOM_00612	CDS	576				hypothetical protein
+OLAMIPOM_00613	CDS	789	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+OLAMIPOM_00614	CDS	1575	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+OLAMIPOM_00615	CDS	1227	yhjX			putative MFS-type transporter YhjX
+OLAMIPOM_00616	CDS	1317	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+OLAMIPOM_00617	CDS	1344	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+OLAMIPOM_00618	CDS	783	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+OLAMIPOM_00619	CDS	1083	pepQ	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+OLAMIPOM_00620	CDS	462	hmpT		COG4720	Thiamine precursor transporter HmpT
+OLAMIPOM_00621	CDS	774	pdxK	2.7.1.35	COG0351	Pyridoxine kinase
+OLAMIPOM_00622	CDS	750	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+OLAMIPOM_00623	CDS	1152				hypothetical protein
+OLAMIPOM_00624	CDS	630				hypothetical protein
+OLAMIPOM_00625	CDS	339				hypothetical protein
+OLAMIPOM_00626	CDS	672	cmk	2.7.4.25	COG0283	Cytidylate kinase
+OLAMIPOM_00627	CDS	477				hypothetical protein
+OLAMIPOM_00628	CDS	213				hypothetical protein
+OLAMIPOM_00629	CDS	984	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+OLAMIPOM_00630	CDS	1020	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+OLAMIPOM_00631	CDS	291			COG3039	IS5 family transposase ISSpn7
+OLAMIPOM_00632	CDS	183			COG3039	IS5 family transposase ISSpn7
+OLAMIPOM_00633	CDS	303				hypothetical protein
+OLAMIPOM_00634	CDS	273				hypothetical protein
+OLAMIPOM_00635	CDS	1824	lepA	3.6.5.-		Elongation factor 4
+OLAMIPOM_00636	CDS	729	apaH	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+OLAMIPOM_00637	CDS	1668	recN		COG0497	DNA repair protein RecN
+OLAMIPOM_00638	CDS	432	argR_1		COG1438	Arginine repressor
+OLAMIPOM_00639	CDS	816	tlyA		COG1189	Hemolysin A
+OLAMIPOM_00640	CDS	876		2.5.1.10		Farnesyl diphosphate synthase
+OLAMIPOM_00641	CDS	213	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+OLAMIPOM_00642	CDS	1341	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+OLAMIPOM_00643	CDS	639	udk_2	2.7.1.48	COG0572	Uridine kinase
+OLAMIPOM_00644	CDS	303				hypothetical protein
+OLAMIPOM_00645	CDS	96				hypothetical protein
+OLAMIPOM_00646	CDS	879	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+OLAMIPOM_00647	CDS	1275				hypothetical protein
+OLAMIPOM_00648	CDS	1116		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+OLAMIPOM_00649	CDS	123	metY	2.5.1.-		O-acetyl-L-homoserine sulfhydrylase
+OLAMIPOM_00650	CDS	798				hypothetical protein
+OLAMIPOM_00651	CDS	744	strA	3.4.22.-	COG3764	Sortase A
+OLAMIPOM_00652	CDS	2469	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+OLAMIPOM_00653	CDS	987	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+OLAMIPOM_00654	CDS	3255				hypothetical protein
+OLAMIPOM_00655	CDS	1872				hypothetical protein
+OLAMIPOM_00656	CDS	264				hypothetical protein
+OLAMIPOM_00657	CDS	243				hypothetical protein
+OLAMIPOM_00658	CDS	810	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+OLAMIPOM_00659	CDS	1350	walK	2.7.13.3		Sensor histidine kinase WalK
+OLAMIPOM_00660	CDS	705	walR		COG0745	Transcriptional regulatory protein WalR
+OLAMIPOM_00661	CDS	1176	mutY	3.2.2.31		Adenine DNA glycosylase
+OLAMIPOM_00662	CDS	1671	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+OLAMIPOM_00663	CDS	690	coaBC_1		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+OLAMIPOM_00664	CDS	552	coaBC_2		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+OLAMIPOM_00665	CDS	564	panT		COG4684	Pantothenic acid transporter PanT
+OLAMIPOM_00666	CDS	528	niaX			Niacin transporter NiaX
+OLAMIPOM_00667	CDS	516	niaR		COG1827	putative transcription repressor NiaR
+OLAMIPOM_00668	CDS	468	nudC	3.6.1.22		NADH pyrophosphatase
+OLAMIPOM_00669	CDS	489	mshD_1	2.3.1.189		Mycothiol acetyltransferase
+OLAMIPOM_00670	CDS	528				hypothetical protein
+OLAMIPOM_00671	CDS	1989	uvrB		COG0556	UvrABC system protein B
+OLAMIPOM_00672	CDS	954				hypothetical protein
+OLAMIPOM_00673	CDS	2166	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+OLAMIPOM_00674	CDS	741	artM		COG1126	Arginine transport ATP-binding protein ArtM
+OLAMIPOM_00675	CDS	1488	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+OLAMIPOM_00676	CDS	1290	ftsY			Signal recognition particle receptor FtsY
+OLAMIPOM_00677	CDS	819	yidA_1	3.1.3.23	COG0561	Sugar phosphatase YidA
+OLAMIPOM_00678	CDS	795	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+OLAMIPOM_00679	CDS	3540	smc_1		COG1196	Chromosome partition protein Smc
+OLAMIPOM_00680	CDS	699	rnc	3.1.26.3	COG0571	Ribonuclease 3
+OLAMIPOM_00681	tRNA	74				tRNA-Arg(ccg)
+OLAMIPOM_00682	CDS	987	guaC	1.7.1.7	COG0516	GMP reductase
+OLAMIPOM_00683	CDS	1338				hypothetical protein
+OLAMIPOM_00684	CDS	1932				hypothetical protein
+OLAMIPOM_00685	CDS	171				hypothetical protein
+OLAMIPOM_00686	CDS	267				hypothetical protein
+OLAMIPOM_00687	CDS	360	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+OLAMIPOM_00688	CDS	270				hypothetical protein
+OLAMIPOM_00689	CDS	1038	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+OLAMIPOM_00690	CDS	420	leuA_1	2.3.3.13		2-isopropylmalate synthase
+OLAMIPOM_00691	CDS	441	leuA_2	2.3.3.13		2-isopropylmalate synthase
+OLAMIPOM_00692	CDS	657				hypothetical protein
+OLAMIPOM_00693	CDS	633	cutC_2		COG3142	Copper homeostasis protein CutC
+OLAMIPOM_00694	CDS	360	ybaN		COG2832	Inner membrane protein YbaN
+OLAMIPOM_00695	CDS	2088	topA	5.6.2.1		DNA topoisomerase 1
+OLAMIPOM_00696	CDS	1044				hypothetical protein
+OLAMIPOM_00697	CDS	849	dprA		COG0758	DNA processing protein DprA
+OLAMIPOM_00698	CDS	690	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OLAMIPOM_00699	CDS	879				hypothetical protein
+OLAMIPOM_00700	CDS	870	thiK	2.7.1.89		Thiamine kinase
+OLAMIPOM_00701	CDS	1023	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase
+OLAMIPOM_00702	CDS	708	tarI	2.7.7.40	COG1211	Ribitol-5-phosphate cytidylyltransferase
+OLAMIPOM_00703	CDS	1488				hypothetical protein
+OLAMIPOM_00704	CDS	804				hypothetical protein
+OLAMIPOM_00705	CDS	810				hypothetical protein
+OLAMIPOM_00706	CDS	3177	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+OLAMIPOM_00707	CDS	1080	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+OLAMIPOM_00708	CDS	924	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+OLAMIPOM_00709	CDS	522	pyrR		COG2065	Bifunctional protein PyrR
+OLAMIPOM_00710	CDS	630	pdg			Ultraviolet N-glycosylase/AP lyase
+OLAMIPOM_00711	CDS	543				hypothetical protein
+OLAMIPOM_00712	CDS	141				hypothetical protein
+OLAMIPOM_00713	CDS	1560	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+OLAMIPOM_00714	CDS	900	htpX	3.4.24.-	COG0501	Protease HtpX 
+OLAMIPOM_00715	CDS	561	lemA		COG1704	Protein LemA
+OLAMIPOM_00716	CDS	714	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+OLAMIPOM_00717	CDS	1284	pyrP			Uracil permease
+OLAMIPOM_00718	CDS	1572	ffh		COG0541	Signal recognition particle protein
+OLAMIPOM_00719	CDS	333				hypothetical protein
+OLAMIPOM_00720	CDS	378				hypothetical protein
+OLAMIPOM_00721	CDS	1305				hypothetical protein
+OLAMIPOM_00722	CDS	807		3.1.3.-		Putative phosphatase
+OLAMIPOM_00723	tRNA	72				tRNA-Arg(cct)
+OLAMIPOM_00724	CDS	348	rplS		COG0335	50S ribosomal protein L19
+OLAMIPOM_00725	CDS	330	crcB_1		COG0239	Putative fluoride ion transporter CrcB
+OLAMIPOM_00726	CDS	375	crcB_2			Putative fluoride ion transporter CrcB
+OLAMIPOM_00727	CDS	267				hypothetical protein
+OLAMIPOM_00728	CDS	444				Flavodoxin
+OLAMIPOM_00729	CDS	936	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+OLAMIPOM_00730	CDS	243	rpmE2		COG0254	50S ribosomal protein L31 type B
+OLAMIPOM_00731	CDS	219				hypothetical protein
+OLAMIPOM_00732	CDS	348				hypothetical protein
+OLAMIPOM_00733	CDS	1776	pox5	1.2.3.3	COG0028	Pyruvate oxidase
+OLAMIPOM_00734	CDS	2244	pacS	7.2.2.8		putative copper-transporting ATPase PacS
+OLAMIPOM_00735	CDS	372				hypothetical protein
+OLAMIPOM_00736	CDS	396	copY			Transcriptional repressor CopY
+OLAMIPOM_00737	CDS	792	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+OLAMIPOM_00738	CDS	351	thiE_1	2.5.1.3	COG0352	Thiamine-phosphate synthase
+OLAMIPOM_00739	CDS	333	thiE_2	2.5.1.3		Thiamine-phosphate synthase
+OLAMIPOM_00740	CDS	804	thiM_1	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+OLAMIPOM_00741	CDS	525				hypothetical protein
+OLAMIPOM_00742	CDS	693	tenA_1	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+OLAMIPOM_00743	CDS	651				hypothetical protein
+OLAMIPOM_00744	CDS	1386	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OLAMIPOM_00745	CDS	561	ykoE		COG4721	Putative HMP/thiamine permease protein YkoE
+OLAMIPOM_00746	CDS	630	thiE_3	2.5.1.3		Thiamine-phosphate synthase
+OLAMIPOM_00747	CDS	783	thiM_2	2.7.1.50		Hydroxyethylthiazole kinase
+OLAMIPOM_00748	CDS	669	tenA_2	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+OLAMIPOM_00749	CDS	1137	hmo	1.1.3.46		4-hydroxymandelate oxidase
+OLAMIPOM_00750	CDS	1491	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+OLAMIPOM_00751	CDS	147				hypothetical protein
+OLAMIPOM_00752	CDS	681	glnM_1		COG0765	putative glutamine ABC transporter permease protein GlnM
+OLAMIPOM_00753	CDS	381	tcyB		COG0765	L-cystine transport system permease protein TcyB
+OLAMIPOM_00754	CDS	771	glnQ_3		COG1126	Glutamine transport ATP-binding protein GlnQ
+OLAMIPOM_00755	CDS	861	glnH_2		COG0834	ABC transporter glutamine-binding protein GlnH
+OLAMIPOM_00756	CDS	1257				ISL3 family transposaseA
+OLAMIPOM_00757	CDS	648	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+OLAMIPOM_00758	CDS	705				hypothetical protein
+OLAMIPOM_00759	CDS	753				hypothetical protein
+OLAMIPOM_00760	CDS	765				hypothetical protein
+OLAMIPOM_00761	CDS	351				hypothetical protein
+OLAMIPOM_00762	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OLAMIPOM_00763	CDS	702	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+OLAMIPOM_00764	CDS	1209	divIB		COG1589	Cell division protein DivIB
+OLAMIPOM_00765	CDS	1059	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OLAMIPOM_00766	CDS	1353	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+OLAMIPOM_00767	CDS	642	yxdL_1		COG1136	ABC transporter ATP-binding protein YxdL
+OLAMIPOM_00768	CDS	1239				hypothetical protein
+OLAMIPOM_00769	CDS	624				hypothetical protein
+OLAMIPOM_00770	CDS	255				hypothetical protein
+OLAMIPOM_00771	CDS	1842	typA		COG1217	GTP-binding protein TypA/BipA
+OLAMIPOM_00772	CDS	726	rsuA_2	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+OLAMIPOM_00773	CDS	381	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+OLAMIPOM_00774	CDS	270				hypothetical protein
+OLAMIPOM_00775	CDS	969	hdfR			HTH-type transcriptional regulator HdfR
+OLAMIPOM_00776	CDS	756		1.-.-.-		putative oxidoreductase
+OLAMIPOM_00777	CDS	930	rnz	3.1.26.11	COG1234	Ribonuclease Z
+OLAMIPOM_00778	CDS	624				hypothetical protein
+OLAMIPOM_00779	CDS	1239	hflX		COG2262	GTPase HflX
+OLAMIPOM_00780	CDS	885	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+OLAMIPOM_00781	CDS	171				hypothetical protein
+OLAMIPOM_00782	CDS	840	thyA	2.1.1.45	COG0207	Thymidylate synthase
+OLAMIPOM_00783	CDS	960	glcK	2.7.1.2	COG1940	Glucokinase
+OLAMIPOM_00784	CDS	786				hypothetical protein
+OLAMIPOM_00785	CDS	1527				hypothetical protein
+OLAMIPOM_00786	CDS	1722	menF	5.4.4.2		Isochorismate synthase MenF
+OLAMIPOM_00787	CDS	5670				hypothetical protein
+OLAMIPOM_00788	CDS	564				hypothetical protein
+OLAMIPOM_00789	CDS	1692				hypothetical protein
+OLAMIPOM_00790	CDS	738			COG4753	putative response regulatory protein
+OLAMIPOM_00791	CDS	1113	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+OLAMIPOM_00792	CDS	567	resA_1			Thiol-disulfide oxidoreductase ResA
+OLAMIPOM_00793	CDS	711	dsbD_1	1.8.1.8		Thiol:disulfide interchange protein DsbD
+OLAMIPOM_00794	CDS	861				hypothetical protein
+OLAMIPOM_00795	CDS	2055				hypothetical protein
+OLAMIPOM_00796	CDS	255				hypothetical protein
+OLAMIPOM_00797	CDS	558				hypothetical protein
+OLAMIPOM_00798	CDS	447				hypothetical protein
+OLAMIPOM_00799	CDS	510				hypothetical protein
+OLAMIPOM_00800	CDS	360				hypothetical protein
+OLAMIPOM_00801	CDS	246				hypothetical protein
+OLAMIPOM_00802	CDS	426				hypothetical protein
+OLAMIPOM_00803	CDS	222				hypothetical protein
+OLAMIPOM_00804	CDS	6702	lacZ	3.2.1.23		Beta-galactosidase
+OLAMIPOM_00805	CDS	693				hypothetical protein
+OLAMIPOM_00806	CDS	3120				hypothetical protein
+OLAMIPOM_00807	CDS	90				hypothetical protein
+OLAMIPOM_00808	CDS	570				hypothetical protein
+OLAMIPOM_00809	CDS	630				hypothetical protein
+OLAMIPOM_00810	CDS	1224	pepT	3.4.11.4		Peptidase T
+OLAMIPOM_00811	CDS	1095	hemH	4.99.1.1		Ferrochelatase
+OLAMIPOM_00812	CDS	378	mscL		COG1970	Large-conductance mechanosensitive channel
+OLAMIPOM_00813	CDS	432				hypothetical protein
+OLAMIPOM_00814	CDS	510	queT		COG4708	Queuosine precursor transporter QueT
+OLAMIPOM_00815	tRNA	73				tRNA-Thr(ggt)
+OLAMIPOM_00816	CDS	1077	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+OLAMIPOM_00817	CDS	936	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+OLAMIPOM_00818	CDS	1374	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+OLAMIPOM_00819	CDS	183	xylH	5.3.2.6		2-hydroxymuconate tautomerase
+OLAMIPOM_00820	CDS	591	tdk	2.7.1.21	COG1435	Thymidine kinase
+OLAMIPOM_00821	CDS	1080	prfA		COG0216	Peptide chain release factor 1
+OLAMIPOM_00822	CDS	840	prmC	2.1.1.297		Release factor glutamine methyltransferase
+OLAMIPOM_00823	CDS	603	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+OLAMIPOM_00824	CDS	432				hypothetical protein
+OLAMIPOM_00825	CDS	1257	glyA	2.1.2.1		Serine hydroxymethyltransferase
+OLAMIPOM_00826	CDS	975				hypothetical protein
+OLAMIPOM_00827	CDS	615				hypothetical protein
+OLAMIPOM_00828	CDS	975				hypothetical protein
+OLAMIPOM_00829	CDS	1356		2.1.1.-	COG2265	putative RNA methyltransferase
+OLAMIPOM_00830	CDS	171				hypothetical protein
+OLAMIPOM_00831	CDS	1218	entS			Enterobactin exporter EntS
+OLAMIPOM_00832	CDS	1464	msr(D)			ABC-F type ribosomal protection protein Msr(D)
+OLAMIPOM_00833	CDS	300				hypothetical protein
+OLAMIPOM_00834	CDS	369				hypothetical protein
+OLAMIPOM_00835	CDS	336				hypothetical protein
+OLAMIPOM_00836	CDS	246				hypothetical protein
+OLAMIPOM_00837	CDS	1920	tet(M)			tetracycline resistance ribosomal protection protein Tet(M)
+OLAMIPOM_00838	CDS	918				hypothetical protein
+OLAMIPOM_00839	CDS	1002				hypothetical protein
+OLAMIPOM_00840	CDS	2112				hypothetical protein
+OLAMIPOM_00841	CDS	2448				hypothetical protein
+OLAMIPOM_00842	CDS	507				hypothetical protein
+OLAMIPOM_00843	CDS	498				hypothetical protein
+OLAMIPOM_00844	CDS	222				hypothetical protein
+OLAMIPOM_00845	CDS	1206				hypothetical protein
+OLAMIPOM_00846	CDS	1386				hypothetical protein
+OLAMIPOM_00847	CDS	384				hypothetical protein
+OLAMIPOM_00848	CDS	315				hypothetical protein
+OLAMIPOM_00849	CDS	300				hypothetical protein
+OLAMIPOM_00850	CDS	489				hypothetical protein
+OLAMIPOM_00851	CDS	1878				hypothetical protein
+OLAMIPOM_00852	CDS	243				hypothetical protein
+OLAMIPOM_00853	CDS	855				hypothetical protein
+OLAMIPOM_00854	CDS	360				hypothetical protein
+OLAMIPOM_00855	CDS	2358				hypothetical protein
+OLAMIPOM_00856	CDS	2814				hypothetical protein
+OLAMIPOM_00857	CDS	609				hypothetical protein
+OLAMIPOM_00858	CDS	165				hypothetical protein
+OLAMIPOM_00859	CDS	861				hypothetical protein
+OLAMIPOM_00860	CDS	120				hypothetical protein
+OLAMIPOM_00861	CDS	1089				hypothetical protein
+OLAMIPOM_00862	CDS	1209	pqqE_1	1.21.98.4		PqqA peptide cyclase
+OLAMIPOM_00863	CDS	945	pqqE_2	1.21.98.4		PqqA peptide cyclase
+OLAMIPOM_00864	CDS	309				hypothetical protein
+OLAMIPOM_00865	CDS	1266				hypothetical protein
+OLAMIPOM_00866	CDS	411				hypothetical protein
+OLAMIPOM_00867	CDS	6225				hypothetical protein
+OLAMIPOM_00868	CDS	285				hypothetical protein
+OLAMIPOM_00869	CDS	321				hypothetical protein
+OLAMIPOM_00870	CDS	1038				hypothetical protein
+OLAMIPOM_00871	CDS	399				hypothetical protein
+OLAMIPOM_00872	CDS	882				hypothetical protein
+OLAMIPOM_00873	CDS	1362	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+OLAMIPOM_00874	CDS	567	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+OLAMIPOM_00875	CDS	1005	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+OLAMIPOM_00876	CDS	768	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+OLAMIPOM_00877	CDS	600	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+OLAMIPOM_00878	CDS	1224	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+OLAMIPOM_00879	CDS	777	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+OLAMIPOM_00880	CDS	732				hypothetical protein
+OLAMIPOM_00881	CDS	1152				hypothetical protein
+OLAMIPOM_00882	CDS	660				hypothetical protein
+OLAMIPOM_00883	CDS	447				hypothetical protein
+OLAMIPOM_00884	CDS	1179	nagC		COG1940	N-acetylglucosamine repressor
+OLAMIPOM_00885	CDS	1263	licC_2		COG1455	Lichenan permease IIC component
+OLAMIPOM_00886	CDS	897				hypothetical protein
+OLAMIPOM_00887	CDS	318	ptcB	2.7.1.205	COG1440	PTS system cellobiose-specific EIIB component
+OLAMIPOM_00888	CDS	318	licA_2		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+OLAMIPOM_00889	CDS	1356	celB		COG1455	PTS system cellobiose-specific EIIC component
+OLAMIPOM_00890	CDS	1476		3.1.6.1	COG3119	Arylsulfatase
+OLAMIPOM_00891	CDS	849		1.8.3.7	COG1262	Formylglycine-generating enzyme
+OLAMIPOM_00892	CDS	771				hypothetical protein
+OLAMIPOM_00893	CDS	204				hypothetical protein
+OLAMIPOM_00894	CDS	609				hypothetical protein
+OLAMIPOM_00895	CDS	171				hypothetical protein
+OLAMIPOM_00896	CDS	567				hypothetical protein
+OLAMIPOM_00897	CDS	165				hypothetical protein
+OLAMIPOM_00898	CDS	1482				Putative trans-acting regulator
+OLAMIPOM_00899	CDS	1002	rbsR		COG1609	Ribose operon repressor
+OLAMIPOM_00900	CDS	918	yteP_1		COG4209	putative multiple-sugar transport system permease YteP
+OLAMIPOM_00901	CDS	891				hypothetical protein
+OLAMIPOM_00902	CDS	1617				hypothetical protein
+OLAMIPOM_00903	CDS	1320	sacA	3.2.1.26		Sucrose-6-phosphate hydrolase
+OLAMIPOM_00904	tRNA	75				tRNA-Lys(ctt)
+OLAMIPOM_00905	CDS	1272			COG2256	putative AAA domain-containing protein
+OLAMIPOM_00906	CDS	201				hypothetical protein
+OLAMIPOM_00907	CDS	180				hypothetical protein
+OLAMIPOM_00908	CDS	453				hypothetical protein
+OLAMIPOM_00909	CDS	471				hypothetical protein
+OLAMIPOM_00910	CDS	1089				hypothetical protein
+OLAMIPOM_00911	CDS	429				hypothetical protein
+OLAMIPOM_00912	CDS	474				hypothetical protein
+OLAMIPOM_00913	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+OLAMIPOM_00914	CDS	744	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+OLAMIPOM_00915	CDS	1797	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+OLAMIPOM_00916	CDS	156				hypothetical protein
+OLAMIPOM_00917	CDS	555				hypothetical protein
+OLAMIPOM_00918	CDS	669	aqpZ2			Aquaporin Z 2
+OLAMIPOM_00919	CDS	399				hypothetical protein
+OLAMIPOM_00920	CDS	534	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+OLAMIPOM_00921	CDS	315	trxA		COG0526	Thioredoxin
+OLAMIPOM_00922	CDS	222				hypothetical protein
+OLAMIPOM_00923	CDS	381				hypothetical protein
+OLAMIPOM_00924	CDS	954				hypothetical protein
+OLAMIPOM_00925	CDS	501	sstT_1		COG3633	Serine/threonine transporter SstT
+OLAMIPOM_00926	CDS	444	sstT_2		COG3633	Serine/threonine transporter SstT
+OLAMIPOM_00927	CDS	561	ykuT		COG0668	putative MscS family protein YkuT
+OLAMIPOM_00928	CDS	909				hypothetical protein
+OLAMIPOM_00929	CDS	528	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+OLAMIPOM_00930	CDS	1107	yqeH		COG1161	putative protein YqeH
+OLAMIPOM_00931	CDS	312	yhbY		COG1534	RNA-binding protein YhbY
+OLAMIPOM_00932	CDS	630	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+OLAMIPOM_00933	CDS	594				hypothetical protein
+OLAMIPOM_00934	CDS	501	sttH	3.5.2.19		Streptothricin hydrolase
+OLAMIPOM_00935	CDS	354	rsfS		COG0799	Ribosomal silencing factor RsfS
+OLAMIPOM_00936	CDS	747	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OLAMIPOM_00937	CDS	1098	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+OLAMIPOM_00938	CDS	2748				hypothetical protein
+OLAMIPOM_00939	CDS	1614	rny	3.1.-.-	COG1418	Ribonuclease Y
+OLAMIPOM_00940	CDS	627	gmk	2.7.4.8		Guanylate kinase
+OLAMIPOM_00941	CDS	315	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+OLAMIPOM_00942	CDS	2397	priA	3.6.4.-	COG1198	Primosomal protein N'
+OLAMIPOM_00943	CDS	936	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+OLAMIPOM_00944	CDS	1314	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+OLAMIPOM_00945	CDS	741	phpP	3.1.3.16	COG0631	Protein phosphatase PhpP
+OLAMIPOM_00946	CDS	1980	stkP	2.7.11.1	COG0515	Serine/threonine-protein kinase StkP
+OLAMIPOM_00947	CDS	759	yjjP		COG2966	Inner membrane protein YjjP
+OLAMIPOM_00948	CDS	450				hypothetical protein
+OLAMIPOM_00949	CDS	300			COG0718	Nucleoid-associated protein
+OLAMIPOM_00950	CDS	687				hypothetical protein
+OLAMIPOM_00951	CDS	315	rplU		COG0261	50S ribosomal protein L21
+OLAMIPOM_00952	CDS	345				hypothetical protein
+OLAMIPOM_00953	CDS	294	rpmA		COG0211	50S ribosomal protein L27
+OLAMIPOM_00954	CDS	918	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+OLAMIPOM_00955	CDS	849				hypothetical protein
+OLAMIPOM_00956	CDS	840			COG1307	DegV domain-containing protein
+OLAMIPOM_00957	CDS	276	hup		COG0776	DNA-binding protein HU
+OLAMIPOM_00958	CDS	1902	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+OLAMIPOM_00959	CDS	864				hypothetical protein
+OLAMIPOM_00960	CDS	1179				hypothetical protein
+OLAMIPOM_00961	CDS	1947	ligA	6.5.1.2		DNA ligase
+OLAMIPOM_00962	CDS	2280	glgX_2	3.2.1.196		Glycogen debranching enzyme
+OLAMIPOM_00963	CDS	1425	gapN	1.2.1.9	COG1012	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+OLAMIPOM_00964	CDS	1929	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+OLAMIPOM_00965	CDS	1143	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+OLAMIPOM_00966	CDS	1140	glgD		COG0448	Glycogen biosynthesis protein GlgD
+OLAMIPOM_00967	CDS	1434	glgA	2.4.1.21	COG0297	Glycogen synthase
+OLAMIPOM_00968	CDS	372	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+OLAMIPOM_00969	CDS	804				hypothetical protein
+OLAMIPOM_00970	CDS	447				hypothetical protein
+OLAMIPOM_00971	CDS	1305	eno	4.2.1.11	COG0148	Enolase
+OLAMIPOM_00972	CDS	351				IS630 family transposase IS630-Spn1
+OLAMIPOM_00973	CDS	3276	rexB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+OLAMIPOM_00974	CDS	3651	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+OLAMIPOM_00975	CDS	1179				hypothetical protein
+OLAMIPOM_00976	CDS	6480				hypothetical protein
+OLAMIPOM_00977	CDS	5214				hypothetical protein
+OLAMIPOM_00978	CDS	852	rbgA		COG1161	Ribosome biogenesis GTPase A
+OLAMIPOM_00979	CDS	780	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+OLAMIPOM_00980	CDS	1551	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+OLAMIPOM_00981	CDS	1071	xerS		COG0582	Tyrosine recombinase XerS
+OLAMIPOM_00982	CDS	990	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+OLAMIPOM_00983	CDS	1704	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+OLAMIPOM_00984	CDS	1044	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+OLAMIPOM_00985	CDS	993	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+OLAMIPOM_00986	CDS	969	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+OLAMIPOM_00987	CDS	1362	norM		COG0534	Multidrug resistance protein NorM
+OLAMIPOM_00988	CDS	261				hypothetical protein
+OLAMIPOM_00989	CDS	1269	pyrC	3.5.2.3	COG0044	Dihydroorotase
+OLAMIPOM_00990	CDS	465	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+OLAMIPOM_00991	CDS	654	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+OLAMIPOM_00992	CDS	648				hypothetical protein
+OLAMIPOM_00993	CDS	714	yfnB	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+OLAMIPOM_00994	CDS	381	dhaM	2.7.1.121	COG3412	PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+OLAMIPOM_00995	CDS	126				hypothetical protein
+OLAMIPOM_00996	CDS	480				hypothetical protein
+OLAMIPOM_00997	CDS	1959	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+OLAMIPOM_00998	CDS	543	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+OLAMIPOM_00999	CDS	1278	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+OLAMIPOM_01000	CDS	1269				hypothetical protein
+OLAMIPOM_01001	CDS	123				hypothetical protein
+OLAMIPOM_01002	CDS	369				hypothetical protein
+OLAMIPOM_01003	CDS	267				hypothetical protein
+OLAMIPOM_01004	CDS	3510	mfd	3.6.4.-		Transcription-repair-coupling factor
+OLAMIPOM_01005	CDS	570	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+OLAMIPOM_01006	CDS	1116	ychF		COG0012	Ribosome-binding ATPase YchF
+OLAMIPOM_01007	CDS	195				hypothetical protein
+OLAMIPOM_01008	CDS	1137	dnaN		COG0592	Beta sliding clamp
+OLAMIPOM_01009	CDS	1362	dnaA			Chromosomal replication initiator protein DnaA
+OLAMIPOM_01010	CDS	744	spo0J		COG1475	Stage 0 sporulation protein J
+OLAMIPOM_01011	CDS	1182	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+OLAMIPOM_01012	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+OLAMIPOM_01013	tRNA	74				tRNA-Arg(tct)
+OLAMIPOM_01014	CDS	126	comC2			Competence-stimulating peptide type 2
+OLAMIPOM_01015	CDS	1326				hypothetical protein
+OLAMIPOM_01016	CDS	753	agrA_1		COG3279	Accessory gene regulator protein A
+OLAMIPOM_01017	tRNA	72				tRNA-Glu(ttc)
+OLAMIPOM_01018	tRNA	74				tRNA-Asn(gtt)
+OLAMIPOM_01019	CDS	543				hypothetical protein
+OLAMIPOM_01020	CDS	768				hypothetical protein
+OLAMIPOM_01021	CDS	339				hypothetical protein
+OLAMIPOM_01022	CDS	2553				hypothetical protein
+OLAMIPOM_01023	CDS	1623	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+OLAMIPOM_01024	CDS	1026	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+OLAMIPOM_01025	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+OLAMIPOM_01026	CDS	1098	recF		COG1195	DNA replication and repair protein RecF
+OLAMIPOM_01027	CDS	369				hypothetical protein
+OLAMIPOM_01028	CDS	1251				hypothetical protein
+OLAMIPOM_01029	CDS	1284				hypothetical protein
+OLAMIPOM_01030	CDS	822				hypothetical protein
+OLAMIPOM_01031	CDS	546	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+OLAMIPOM_01032	CDS	828	ecfA1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+OLAMIPOM_01033	CDS	840	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+OLAMIPOM_01034	CDS	795	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+OLAMIPOM_01035	CDS	819	mreC		COG1792	Cell shape-determining protein MreC
+OLAMIPOM_01036	CDS	495				hypothetical protein
+OLAMIPOM_01037	CDS	1179				hypothetical protein
+OLAMIPOM_01038	CDS	780	rpsB			30S ribosomal protein S2
+OLAMIPOM_01039	CDS	1041	tsf		COG0264	Elongation factor Ts
+OLAMIPOM_01040	CDS	324				hypothetical protein
+OLAMIPOM_01041	CDS	399				hypothetical protein
+OLAMIPOM_01042	CDS	921	cysK	2.5.1.47		Cysteine synthase
+OLAMIPOM_01043	CDS	636	yigZ		COG1739	IMPACT family member YigZ
+OLAMIPOM_01044	CDS	1299	comFA	3.6.4.12	COG4098	ComF operon protein 1
+OLAMIPOM_01045	CDS	663				hypothetical protein
+OLAMIPOM_01046	CDS	549	hpf			Ribosome hibernation promotion factor
+OLAMIPOM_01047	CDS	1974	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+OLAMIPOM_01048	CDS	453	rplI			50S ribosomal protein L9
+OLAMIPOM_01049	CDS	1353	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+OLAMIPOM_01050	CDS	267				hypothetical protein
+OLAMIPOM_01051	CDS	1347				hypothetical protein
+OLAMIPOM_01052	CDS	291				hypothetical protein
+OLAMIPOM_01053	CDS	759	ribX			Riboflavin transport system permease protein RibX
+OLAMIPOM_01054	CDS	1008	thiY		COG0715	Formylaminopyrimidine-binding protein
+OLAMIPOM_01055	CDS	729	cysA_1	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+OLAMIPOM_01056	CDS	459	ctsR		COG4463	Transcriptional regulator CtsR
+OLAMIPOM_01057	CDS	2433	clpC_2			ATP-dependent Clp protease ATP-binding subunit ClpC
+OLAMIPOM_01058	CDS	654	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+OLAMIPOM_01059	CDS	1332	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+OLAMIPOM_01060	CDS	528				hypothetical protein
+OLAMIPOM_01061	CDS	861	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+OLAMIPOM_01062	CDS	1278	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+OLAMIPOM_01063	CDS	552				hypothetical protein
+OLAMIPOM_01064	CDS	1260	murA1_1	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OLAMIPOM_01065	CDS	159				hypothetical protein
+OLAMIPOM_01066	CDS	1311	obg	3.6.5.-	COG0536	GTPase Obg
+OLAMIPOM_01067	CDS	135				hypothetical protein
+OLAMIPOM_01068	CDS	177				hypothetical protein
+OLAMIPOM_01069	CDS	1326		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+OLAMIPOM_01070	CDS	1044	cpoA	2.4.1.-	COG0438	Alpha-galactosylglucosyldiacylglycerol synthase
+OLAMIPOM_01071	CDS	330	sufT			Fe-S protein maturation auxiliary factor SufT
+OLAMIPOM_01072	CDS	1110	sigA		COG0568	RNA polymerase sigma factor SigA
+OLAMIPOM_01073	CDS	1761	dnaG	2.7.7.-	COG0358	DNA primase
+OLAMIPOM_01074	CDS	759	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OLAMIPOM_01075	CDS	867				hypothetical protein
+OLAMIPOM_01076	CDS	1005				hypothetical protein
+OLAMIPOM_01077	CDS	2697	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+OLAMIPOM_01078	CDS	1230	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+OLAMIPOM_01079	CDS	222				hypothetical protein
+OLAMIPOM_01080	CDS	711				hypothetical protein
+OLAMIPOM_01081	CDS	738				hypothetical protein
+OLAMIPOM_01082	CDS	729	bcrA_3			Bacitracin transport ATP-binding protein BcrA
+OLAMIPOM_01083	CDS	171				hypothetical protein
+OLAMIPOM_01084	CDS	2127	lagD_1	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+OLAMIPOM_01085	CDS	549				hypothetical protein
+OLAMIPOM_01086	CDS	876				hypothetical protein
+OLAMIPOM_01087	CDS	1866				hypothetical protein
+OLAMIPOM_01088	CDS	366				hypothetical protein
+OLAMIPOM_01089	CDS	360				hypothetical protein
+OLAMIPOM_01090	CDS	873				hypothetical protein
+OLAMIPOM_01091	CDS	291				putative protein
+OLAMIPOM_01092	CDS	762	pezT_1	2.7.1.176		Toxin PezT
+OLAMIPOM_01093	CDS	477	pezA_1		COG1396	Antitoxin PezA
+OLAMIPOM_01094	CDS	456				hypothetical protein
+OLAMIPOM_01095	CDS	1740	bbmA	3.2.1.-	COG0366	Intracellular maltogenic amylase
+OLAMIPOM_01096	CDS	885		2.7.1.-	COG1597	Putative lipid kinase
+OLAMIPOM_01097	CDS	855				hypothetical protein
+OLAMIPOM_01098	CDS	759				hypothetical protein
+OLAMIPOM_01099	CDS	189				hypothetical protein
+OLAMIPOM_01100	CDS	567				hypothetical protein
+OLAMIPOM_01101	CDS	1680				hypothetical protein
+OLAMIPOM_01102	CDS	162				hypothetical protein
+OLAMIPOM_01103	CDS	210				hypothetical protein
+OLAMIPOM_01104	CDS	795	fpuD	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuD
+OLAMIPOM_01105	CDS	1008	yfhA		COG0609	putative siderophore transport system permease protein YfhA
+OLAMIPOM_01106	CDS	1008	fepD		COG0609	Ferric enterobactin transport system permease protein FepD
+OLAMIPOM_01107	CDS	1026	yfmC		COG4594	Fe(3+)-citrate-binding protein YfmC
+OLAMIPOM_01108	CDS	219				hypothetical protein
+OLAMIPOM_01109	CDS	237		2.1.1.-	COG2265	putative RNA methyltransferase
+OLAMIPOM_01110	CDS	1788				hypothetical protein
+OLAMIPOM_01111	CDS	225				hypothetical protein
+OLAMIPOM_01112	CDS	1830				hypothetical protein
+OLAMIPOM_01113	CDS	366				hypothetical protein
+OLAMIPOM_01114	CDS	357				hypothetical protein
+OLAMIPOM_01115	CDS	2637	smc_2			Chromosome partition protein Smc
+OLAMIPOM_01116	CDS	540				hypothetical protein
+OLAMIPOM_01117	CDS	1614				hypothetical protein
+OLAMIPOM_01118	CDS	768	pezT_2	2.7.1.176		Toxin PezT
+OLAMIPOM_01119	CDS	477	pezA_2		COG1396	Antitoxin PezA
+OLAMIPOM_01120	CDS	273				hypothetical protein
+OLAMIPOM_01121	CDS	384				hypothetical protein
+OLAMIPOM_01122	CDS	234				hypothetical protein
+OLAMIPOM_01123	CDS	1086				hypothetical protein
+OLAMIPOM_01124	CDS	639				hypothetical protein
+OLAMIPOM_01125	CDS	957	lytA_1	3.5.1.28		Autolysin
+OLAMIPOM_01126	CDS	1371	mepA			Multidrug export protein MepA
+OLAMIPOM_01127	CDS	1167	recA		COG0468	Protein RecA
+OLAMIPOM_01128	CDS	1257	cinA		COG1058	Putative competence-damage inducible protein
+OLAMIPOM_01129	CDS	1017	brpA		COG1316	Biofilm regulatory protein A
+OLAMIPOM_01130	CDS	519				hypothetical protein
+OLAMIPOM_01131	CDS	444	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+OLAMIPOM_01132	CDS	621				hypothetical protein
+OLAMIPOM_01133	CDS	864				hypothetical protein
+OLAMIPOM_01134	CDS	297				hypothetical protein
+OLAMIPOM_01135	CDS	2016				hypothetical protein
+OLAMIPOM_01136	CDS	633	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OLAMIPOM_01137	CDS	279				hypothetical protein
+OLAMIPOM_01138	CDS	90				hypothetical protein
+OLAMIPOM_01139	CDS	414	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+OLAMIPOM_01140	CDS	3678	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+OLAMIPOM_01141	CDS	3612	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+OLAMIPOM_01142	tRNA	74				tRNA-Cys(gca)
+OLAMIPOM_01143	CDS	1332				hypothetical protein
+OLAMIPOM_01144	CDS	825	endA	3.1.30.-		DNA-entry nuclease
+OLAMIPOM_01145	CDS	195				hypothetical protein
+OLAMIPOM_01146	CDS	1284	murA1_2	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+OLAMIPOM_01147	CDS	1038	ylbL		COG3480	putative protein YlbL
+OLAMIPOM_01148	CDS	489	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+OLAMIPOM_01149	CDS	540	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+OLAMIPOM_01150	CDS	993	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+OLAMIPOM_01151	CDS	684	ybhL		COG0670	Inner membrane protein YbhL
+OLAMIPOM_01152	CDS	741		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+OLAMIPOM_01153	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+OLAMIPOM_01154	CDS	927	yidC2		COG0706	Membrane protein insertase YidC 2
+OLAMIPOM_01155	CDS	795	pflA	1.97.1.4		Pyruvate formate-lyase-activating enzyme
+OLAMIPOM_01156	CDS	1251	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+OLAMIPOM_01157	CDS	828	purR		COG0503	Pur operon repressor
+OLAMIPOM_01158	CDS	942	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+OLAMIPOM_01159	CDS	1257				hypothetical protein
+OLAMIPOM_01160	CDS	663	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+OLAMIPOM_01161	CDS	657	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+OLAMIPOM_01162	CDS	879	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+OLAMIPOM_01163	CDS	873	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+OLAMIPOM_01164	CDS	294				hypothetical protein
+OLAMIPOM_01165	CDS	642	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OLAMIPOM_01166	CDS	2031				hypothetical protein
+OLAMIPOM_01167	CDS	297				hypothetical protein
+OLAMIPOM_01168	CDS	900				hypothetical protein
+OLAMIPOM_01169	CDS	561	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+OLAMIPOM_01170	CDS	774	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+OLAMIPOM_01171	CDS	666				hypothetical protein
+OLAMIPOM_01172	CDS	135	rpmH			50S ribosomal protein L34
+OLAMIPOM_01173	CDS	1215	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+OLAMIPOM_01174	CDS	294				hypothetical protein
+OLAMIPOM_01175	CDS	453				Putative universal stress protein
+OLAMIPOM_01176	CDS	1389	cof	3.6.1.-		HMP-PP phosphatase
+OLAMIPOM_01177	CDS	963	ansB	3.5.1.1	COG0252	L-asparaginase 2
+OLAMIPOM_01178	CDS	1011	ccpA_1		COG1609	Catabolite control protein A
+OLAMIPOM_01179	CDS	600	desR		COG2197	Transcriptional regulatory protein DesR
+OLAMIPOM_01180	CDS	1098	desK	2.7.13.3	COG4585	Sensor histidine kinase DesK
+OLAMIPOM_01181	CDS	738				hypothetical protein
+OLAMIPOM_01182	CDS	885	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OLAMIPOM_01183	CDS	195				hypothetical protein
+OLAMIPOM_01184	CDS	192				hypothetical protein
+OLAMIPOM_01185	tRNA	76				tRNA-Pro(tgg)
+OLAMIPOM_01186	tRNA	74				tRNA-Arg(acg)
+OLAMIPOM_01187	tRNA	86				tRNA-Leu(taa)
+OLAMIPOM_01188	tRNA	72				tRNA-Gly(gcc)
+OLAMIPOM_01189	tRNA	73				tRNA-Thr(tgt)
+OLAMIPOM_01190	tRNA	84				tRNA-Leu(tag)
+OLAMIPOM_01191	tRNA	73				tRNA-Lys(ttt)
+OLAMIPOM_01192	tRNA	73				tRNA-Asp(gtc)
+OLAMIPOM_01193	tRNA	73				tRNA-Val(tac)
+OLAMIPOM_01194	CDS	981	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+OLAMIPOM_01195	CDS	873	hslO			33 kDa chaperonin
+OLAMIPOM_01196	CDS	1410				hypothetical protein
+OLAMIPOM_01197	CDS	1509	glpK	2.7.1.30	COG0554	Glycerol kinase
+OLAMIPOM_01198	CDS	1827	glpO	1.1.3.21	COG0578	Alpha-glycerophosphate oxidase
+OLAMIPOM_01199	CDS	705	glpF		COG0580	putative glycerol uptake facilitator protein
+OLAMIPOM_01200	CDS	588				hypothetical protein
+OLAMIPOM_01201	CDS	1278				hypothetical protein
+OLAMIPOM_01202	CDS	1179				hypothetical protein
+OLAMIPOM_01203	CDS	1551	dltA	6.2.1.54		D-alanine--D-alanyl carrier protein ligase
+OLAMIPOM_01204	CDS	1245				hypothetical protein
+OLAMIPOM_01205	CDS	240	dltC		COG0236	D-alanyl carrier protein
+OLAMIPOM_01206	CDS	1269	dltD		COG3966	Protein DltD
+OLAMIPOM_01207	CDS	441	adcR			Transcriptional regulator AdcR
+OLAMIPOM_01208	CDS	705	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+OLAMIPOM_01209	CDS	807	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+OLAMIPOM_01210	CDS	1506				hypothetical protein
+OLAMIPOM_01211	CDS	966				hypothetical protein
+OLAMIPOM_01212	CDS	774	srlR_2		COG1349	Glucitol operon repressor
+OLAMIPOM_01213	CDS	1404	rhaB	2.7.1.5	COG1070	L-Rhamnulokinase
+OLAMIPOM_01214	CDS	639	drdA	4.1.2.-		5-deoxy-D-ribulose 1-phosphate aldolase
+OLAMIPOM_01215	CDS	441	fucU	5.1.3.29	COG4154	L-fucose mutarotase
+OLAMIPOM_01216	CDS	444	manX_2	2.7.1.191		PTS system mannose-specific EIIAB component
+OLAMIPOM_01217	CDS	471	levE_2	2.7.1.202	COG3444	PTS system fructose-specific EIIB component
+OLAMIPOM_01218	CDS	774	sorC_2		COG3715	PTS system sorbose-specific EIIC component
+OLAMIPOM_01219	CDS	801	manZ_3		COG3716	PTS system mannose-specific EIID component
+OLAMIPOM_01220	CDS	2295				hypothetical protein
+OLAMIPOM_01221	CDS	3117				hypothetical protein
+OLAMIPOM_01222	CDS	1767	fucI	5.3.1.25	COG2407	L-fucose isomerase
+OLAMIPOM_01223	CDS	1152	adhB	1.1.1.1		Alcohol dehydrogenase 2
+OLAMIPOM_01224	CDS	900	qmcA		COG0330	Protein QmcA
+OLAMIPOM_01225	CDS	252				hypothetical protein
+OLAMIPOM_01226	CDS	1332		3.4.13.-		Putative dipeptidase
+OLAMIPOM_01227	CDS	1512				hypothetical protein
+OLAMIPOM_01228	CDS	948	arcC1	2.7.2.2		Carbamate kinase 1
+OLAMIPOM_01229	CDS	1017	arcB	2.1.3.3		Ornithine carbamoyltransferase, catabolic
+OLAMIPOM_01230	CDS	1230	arcA	3.5.3.6	COG2235	Arginine deiminase
+OLAMIPOM_01231	CDS	1680				hypothetical protein
+OLAMIPOM_01232	CDS	2085				hypothetical protein
+OLAMIPOM_01233	CDS	1281				hypothetical protein
+OLAMIPOM_01234	CDS	2646	mngB	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+OLAMIPOM_01235	CDS	882	bglK_2	2.7.1.85	COG1940	Beta-glucoside kinase
+OLAMIPOM_01236	CDS	1881				hypothetical protein
+OLAMIPOM_01237	CDS	111				hypothetical protein
+OLAMIPOM_01238	CDS	327				hypothetical protein
+OLAMIPOM_01239	CDS	1002	ccpA_2		COG1609	Catabolite control protein A
+OLAMIPOM_01240	CDS	369				hypothetical protein
+OLAMIPOM_01241	CDS	711				hypothetical protein
+OLAMIPOM_01242	CDS	1692				hypothetical protein
+OLAMIPOM_01243	CDS	1011	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OLAMIPOM_01244	CDS	1068				hypothetical protein
+OLAMIPOM_01245	CDS	660				hypothetical protein
+OLAMIPOM_01246	CDS	297				hypothetical protein
+OLAMIPOM_01247	CDS	2127	pfbA		COG5434	Plasmin and fibronectin-binding protein A
+OLAMIPOM_01248	CDS	1227	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+OLAMIPOM_01249	CDS	693	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+OLAMIPOM_01250	CDS	1752	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+OLAMIPOM_01251	CDS	1746	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+OLAMIPOM_01252	CDS	324				hypothetical protein
+OLAMIPOM_01253	CDS	270				hypothetical protein
+OLAMIPOM_01254	CDS	228				hypothetical protein
+OLAMIPOM_01255	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+OLAMIPOM_01256	CDS	144				hypothetical protein
+OLAMIPOM_01257	CDS	105				hypothetical protein
+OLAMIPOM_01258	CDS	582	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+OLAMIPOM_01259	CDS	1263	pucK		COG2233	Uric acid permease PucK
+OLAMIPOM_01260	CDS	462				hypothetical protein
+OLAMIPOM_01261	CDS	765	dpnC	3.1.21.4		Type-2 restriction enzyme DpnI
+OLAMIPOM_01262	CDS	405	paaI	3.1.2.-	COG2050	Acyl-coenzyme A thioesterase PaaI
+OLAMIPOM_01263	CDS	1482	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+OLAMIPOM_01264	CDS	1179	galK_2	2.7.1.6	COG0153	Galactokinase
+OLAMIPOM_01265	CDS	1008	melR		COG1609	HTH-type transcriptional repressor MelR
+OLAMIPOM_01266	CDS	444	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+OLAMIPOM_01267	CDS	600	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+OLAMIPOM_01268	CDS	354	adhR		COG0789	HTH-type transcriptional regulator AdhR
+OLAMIPOM_01269	CDS	891	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+OLAMIPOM_01270	CDS	537				hypothetical protein
+OLAMIPOM_01271	CDS	807				hypothetical protein
+OLAMIPOM_01272	CDS	1521				hypothetical protein
+OLAMIPOM_01273	CDS	729	opuBA		COG1125	Choline transport ATP-binding protein OpuBA
+OLAMIPOM_01274	CDS	765				hypothetical protein
+OLAMIPOM_01275	CDS	444				hypothetical protein
+OLAMIPOM_01276	CDS	297				hypothetical protein
+OLAMIPOM_01277	CDS	1065	pepA_1	3.4.11.7	COG1363	Glutamyl aminopeptidase
+OLAMIPOM_01278	CDS	702	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+OLAMIPOM_01279	CDS	960	yclN		COG4606	Petrobactin import system permease protein YclN
+OLAMIPOM_01280	CDS	957	yclO		COG4605	Petrobactin import system permease protein YclO
+OLAMIPOM_01281	CDS	753	yclP	7.2.2.-	COG4604	Petrobactin import ATP-binding protein YclP
+OLAMIPOM_01282	CDS	966	yclQ		COG4607	Petrobactin-binding protein YclQ
+OLAMIPOM_01283	CDS	243			COG0759	Putative membrane protein insertion efficiency factor
+OLAMIPOM_01284	CDS	723	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+OLAMIPOM_01285	CDS	570	scpB			Segregation and condensation protein B
+OLAMIPOM_01286	CDS	729	scpA			Segregation and condensation protein A
+OLAMIPOM_01287	CDS	735			COG0582	Tyrosine recombinase XerD-like protein
+OLAMIPOM_01288	CDS	462				hypothetical protein
+OLAMIPOM_01289	CDS	522				hypothetical protein
+OLAMIPOM_01290	CDS	972		3.6.1.66		dITP/XTP pyrophosphatase
+OLAMIPOM_01291	CDS	795	murI	5.1.1.3	COG0796	Glutamate racemase
+OLAMIPOM_01292	CDS	249				hypothetical protein
+OLAMIPOM_01293	CDS	1626	treA	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+OLAMIPOM_01294	CDS	1968				hypothetical protein
+OLAMIPOM_01295	CDS	711	treR		COG2188	HTH-type transcriptional regulator TreR
+OLAMIPOM_01296	CDS	435				hypothetical protein
+OLAMIPOM_01297	CDS	138				hypothetical protein
+OLAMIPOM_01298	CDS	519				hypothetical protein
+OLAMIPOM_01299	CDS	870	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+OLAMIPOM_01300	CDS	318	yabA		COG4467	Initiation-control protein YabA
+OLAMIPOM_01301	CDS	891				hypothetical protein
+OLAMIPOM_01302	CDS	639	tmk	2.7.4.9	COG0125	Thymidylate kinase
+OLAMIPOM_01303	CDS	798	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+OLAMIPOM_01304	CDS	1263	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+OLAMIPOM_01305	CDS	1110	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+OLAMIPOM_01306	CDS	1884				hypothetical protein
+OLAMIPOM_01307	CDS	888	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OLAMIPOM_01308	CDS	462	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+OLAMIPOM_01309	CDS	909				hypothetical protein
+OLAMIPOM_01310	CDS	672				hypothetical protein
+OLAMIPOM_01311	CDS	222				hypothetical protein
+OLAMIPOM_01312	CDS	810	yidA_2	3.1.3.23	COG0561	Sugar phosphatase YidA
+OLAMIPOM_01313	CDS	876		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+OLAMIPOM_01314	CDS	1086	aguA	3.5.3.12	COG2957	Agmatine deiminase
+OLAMIPOM_01315	CDS	1128	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+OLAMIPOM_01316	CDS	1260		1.5.1.43		Carboxynorspermidine synthase
+OLAMIPOM_01317	CDS	861	speE	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+OLAMIPOM_01318	CDS	717				hypothetical protein
+OLAMIPOM_01319	CDS	1476	speA	4.1.1.19	COG1982	Arginine decarboxylase
+OLAMIPOM_01320	CDS	996			COG2826	IS30 family transposase ISSpn8
+OLAMIPOM_01321	CDS	591				hypothetical protein
+OLAMIPOM_01322	CDS	1989	bceB		COG0577	Bacitracin export permease protein BceB
+OLAMIPOM_01323	CDS	759	bceA		COG1136	Bacitracin export ATP-binding protein BceA
+OLAMIPOM_01324	CDS	111				hypothetical protein
+OLAMIPOM_01325	CDS	192				hypothetical protein
+OLAMIPOM_01326	CDS	273				hypothetical protein
+OLAMIPOM_01327	CDS	450				Protein SprT-like protein
+OLAMIPOM_01328	CDS	2130	yhgF		COG2183	Protein YhgF
+OLAMIPOM_01329	CDS	132				hypothetical protein
+OLAMIPOM_01330	CDS	906			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+OLAMIPOM_01331	CDS	816			COG3689	Putative two-component membrane permease complex subunit SMU_746c
+OLAMIPOM_01332	CDS	717				hypothetical protein
+OLAMIPOM_01333	CDS	312				hypothetical protein
+OLAMIPOM_01334	CDS	189			COG3039	IS5 family transposase ISSpn7
+OLAMIPOM_01335	CDS	873				hypothetical protein
+OLAMIPOM_01336	CDS	1506	pyk	2.7.1.40	COG0469	Pyruvate kinase
+OLAMIPOM_01337	CDS	1008	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+OLAMIPOM_01338	CDS	3102	dnaE2	2.7.7.7		Error-prone DNA polymerase
+OLAMIPOM_01339	CDS	2274	pepX	3.4.14.11		Xaa-Pro dipeptidyl-peptidase
+OLAMIPOM_01340	CDS	471	argR_2		COG1438	Arginine regulator
+OLAMIPOM_01341	CDS	201				hypothetical protein
+OLAMIPOM_01342	CDS	3351				hypothetical protein
+OLAMIPOM_01343	CDS	1050				hypothetical protein
+OLAMIPOM_01344	CDS	966	xerC_2		COG4974	Tyrosine recombinase XerC
+OLAMIPOM_01345	CDS	414				hypothetical protein
+OLAMIPOM_01346	CDS	237				hypothetical protein
+OLAMIPOM_01347	CDS	1335	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+OLAMIPOM_01348	CDS	738	pyrH	2.7.4.22	COG0528	Uridylate kinase
+OLAMIPOM_01349	CDS	558	frr			Ribosome-recycling factor
+OLAMIPOM_01350	CDS	855	cvfB			Conserved virulence factor B
+OLAMIPOM_01351	CDS	216				hypothetical protein
+OLAMIPOM_01352	CDS	969			COG1702	PhoH-like protein
+OLAMIPOM_01353	CDS	213				hypothetical protein
+OLAMIPOM_01354	CDS	276				hypothetical protein
+OLAMIPOM_01355	CDS	144				hypothetical protein
+OLAMIPOM_01356	CDS	276	ald_1	1.4.1.1	COG0686	Alanine dehydrogenase
+OLAMIPOM_01357	CDS	264	ald2	1.4.1.1		Alanine dehydrogenase 2
+OLAMIPOM_01358	CDS	426	ald_2	1.4.1.1	COG0686	Alanine dehydrogenase
+OLAMIPOM_01359	CDS	570		2.3.1.-	COG1670	Acetyltransferase
+OLAMIPOM_01360	CDS	651				hypothetical protein
+OLAMIPOM_01361	CDS	2241	comEC		COG0658	ComE operon protein 3
+OLAMIPOM_01362	CDS	588	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+OLAMIPOM_01363	CDS	1182				hypothetical protein
+OLAMIPOM_01364	CDS	558	infC		COG0290	Translation initiation factor IF-3
+OLAMIPOM_01365	CDS	201	rpmI		COG0291	50S ribosomal protein L35
+OLAMIPOM_01366	CDS	360	rplT		COG0292	50S ribosomal protein L20
+OLAMIPOM_01367	CDS	381	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+OLAMIPOM_01368	CDS	801	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+OLAMIPOM_01369	CDS	939	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+OLAMIPOM_01370	CDS	1977	lytB_1	3.2.1.96	COG4193	Putative endo-beta-N-acetylglucosaminidase
+OLAMIPOM_01371	CDS	1656	rqcH		COG1293	Rqc2 RqcH
+OLAMIPOM_01372	CDS	498	ybeY	3.1.-.-		Endoribonuclease YbeY
+OLAMIPOM_01373	CDS	396	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+OLAMIPOM_01374	CDS	900	era		COG1159	GTPase Era
+OLAMIPOM_01375	CDS	825	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+OLAMIPOM_01376	CDS	606	coaE	2.7.1.24		Dephospho-CoA kinase
+OLAMIPOM_01377	CDS	1200	sbnD			Staphyloferrin B transporter
+OLAMIPOM_01378	CDS	234	secG		COG1314	putative protein-export membrane protein SecG
+OLAMIPOM_01379	CDS	2355	rnr	3.1.13.1	COG0557	Ribonuclease R
+OLAMIPOM_01380	CDS	468	smpB		COG0691	SsrA-binding protein
+OLAMIPOM_01381	CDS	861	tehB	2.1.1.-	COG0500	putative S-adenosyl-L-methionine-dependent methyltransferase TehB
+OLAMIPOM_01382	CDS	954				hypothetical protein
+OLAMIPOM_01383	CDS	1803	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+OLAMIPOM_01384	CDS	714	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+OLAMIPOM_01385	CDS	942	prsA	5.2.1.8		Foldase protein PrsA
+OLAMIPOM_01386	CDS	342				IS3 family transposase ISSpn1
+OLAMIPOM_01387	CDS	192				hypothetical protein
+OLAMIPOM_01388	CDS	621	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+OLAMIPOM_01389	CDS	483				hypothetical protein
+OLAMIPOM_01390	CDS	843				hypothetical protein
+OLAMIPOM_01391	CDS	789				hypothetical protein
+OLAMIPOM_01392	CDS	1380	glmU		COG1207	Bifunctional protein GlmU
+OLAMIPOM_01393	CDS	546	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+OLAMIPOM_01394	CDS	315				hypothetical protein
+OLAMIPOM_01395	CDS	693	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+OLAMIPOM_01396	CDS	492				putative protein
+OLAMIPOM_01397	CDS	591	dinG_1	3.1.-.-		3'-5' exonuclease DinG
+OLAMIPOM_01398	CDS	1764				hypothetical protein
+OLAMIPOM_01399	CDS	348				IS630 family transposase IS630-Spn1
+OLAMIPOM_01400	CDS	405				hypothetical protein
+OLAMIPOM_01401	CDS	708	dsbD_2	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+OLAMIPOM_01402	CDS	558	resA_2			Thiol-disulfide oxidoreductase ResA
+OLAMIPOM_01403	CDS	1392	yhdG		COG0531	putative amino acid permease YhdG
+OLAMIPOM_01404	CDS	918	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+OLAMIPOM_01405	CDS	1011				hypothetical protein
+OLAMIPOM_01406	CDS	1170	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+OLAMIPOM_01407	CDS	771	recO		COG1381	DNA repair protein RecO
+OLAMIPOM_01408	CDS	993	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+OLAMIPOM_01409	CDS	234	acpP		COG0236	Acyl carrier protein
+OLAMIPOM_01410	CDS	294			COG3039	IS5 family transposase ISSpn7
+OLAMIPOM_01411	CDS	231				hypothetical protein
+OLAMIPOM_01412	CDS	894				hypothetical protein
+OLAMIPOM_01413	CDS	297				hypothetical protein
+OLAMIPOM_01414	CDS	1137				hypothetical protein
+OLAMIPOM_01415	CDS	483				hypothetical protein
+OLAMIPOM_01416	CDS	597			COG1132	putative ABC transporter ATP-binding/permease protein
+OLAMIPOM_01417	CDS	492				hypothetical protein
+OLAMIPOM_01418	CDS	2154	lagD_2	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+OLAMIPOM_01419	CDS	1350	lcnD_1			Lactococcin A secretion protein LcnD
+OLAMIPOM_01420	CDS	708	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OLAMIPOM_01421	CDS	3726	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+OLAMIPOM_01422	CDS	1443	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OLAMIPOM_01423	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+OLAMIPOM_01424	CDS	546	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+OLAMIPOM_01425	CDS	510				hypothetical protein
+OLAMIPOM_01426	CDS	1548	purH			Bifunctional purine biosynthesis protein PurH
+OLAMIPOM_01427	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+OLAMIPOM_01428	CDS	489	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OLAMIPOM_01429	CDS	1092	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+OLAMIPOM_01430	CDS	228				hypothetical protein
+OLAMIPOM_01431	CDS	1299	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+OLAMIPOM_01432	CDS	3924	strH	3.2.1.52	COG3525	Beta-N-acetylhexosaminidase
+OLAMIPOM_01433	CDS	717	gamR			HTH-type transcriptional repressor GamR
+OLAMIPOM_01434	CDS	1788	bga	3.2.1.23		Beta-galactosidase
+OLAMIPOM_01435	CDS	477	sorB	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+OLAMIPOM_01436	CDS	906				hypothetical protein
+OLAMIPOM_01437	CDS	816	manZ_4		COG3716	PTS system mannose-specific EIID component
+OLAMIPOM_01438	CDS	339	manX_3	2.7.1.191		PTS system mannose-specific EIIAB component
+OLAMIPOM_01439	CDS	1167	agaS	3.5.99.-	COG2222	Putative D-galactosamine-6-phosphate deaminase AgaS
+OLAMIPOM_01440	CDS	1038	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+OLAMIPOM_01441	CDS	855	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+OLAMIPOM_01442	CDS	258				hypothetical protein
+OLAMIPOM_01443	CDS	765	deoD_1	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+OLAMIPOM_01444	CDS	1380	ktrB		COG0168	Ktr system potassium uptake protein B
+OLAMIPOM_01445	CDS	666	ktrA		COG0569	Ktr system potassium uptake protein A
+OLAMIPOM_01446	CDS	300	epsH	2.4.-.-	COG0463	Putative glycosyltransferase EpsH
+OLAMIPOM_01447	CDS	261				hypothetical protein
+OLAMIPOM_01448	CDS	339				hypothetical protein
+OLAMIPOM_01449	CDS	873	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+OLAMIPOM_01450	CDS	1311				hypothetical protein
+OLAMIPOM_01451	CDS	195				hypothetical protein
+OLAMIPOM_01452	CDS	729	gmuR		COG2188	HTH-type transcriptional regulator GmuR
+OLAMIPOM_01453	CDS	1410	gmuD_2	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+OLAMIPOM_01454	CDS	1296	licC_3		COG1455	Lichenan permease IIC component
+OLAMIPOM_01455	CDS	309	celA	2.7.1.205		PTS system cellobiose-specific EIIB component
+OLAMIPOM_01456	CDS	309	gmuA		COG1447	PTS system oligo-beta-mannoside-specific EIIA component
+OLAMIPOM_01457	CDS	2652	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+OLAMIPOM_01458	CDS	411				hypothetical protein
+OLAMIPOM_01459	CDS	429	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+OLAMIPOM_01460	CDS	300				hypothetical protein
+OLAMIPOM_01461	CDS	1977	tkt_2	2.2.1.1		Transketolase
+OLAMIPOM_01462	CDS	1092	ulaG	3.1.1.-	COG2220	putative L-ascorbate-6-phosphate lactonase UlaG
+OLAMIPOM_01463	CDS	1674	licR		COG1762	putative licABCH operon regulator
+OLAMIPOM_01464	CDS	705	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD
+OLAMIPOM_01465	CDS	864	ulaE	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE
+OLAMIPOM_01466	CDS	666	ulaD	4.1.1.85	COG0269	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+OLAMIPOM_01467	CDS	486	ulaC		COG1762	Ascorbate-specific PTS system EIIA component
+OLAMIPOM_01468	CDS	282	ulaB	2.7.1.194		Ascorbate-specific PTS system EIIB component
+OLAMIPOM_01469	CDS	1458	ulaA_1		COG3037	Ascorbate-specific PTS system EIIC component
+OLAMIPOM_01470	CDS	624				hypothetical protein
+OLAMIPOM_01471	CDS	987				hypothetical protein
+OLAMIPOM_01472	CDS	831	misCA		COG0706	Membrane protein insertase MisCA
+OLAMIPOM_01473	CDS	372	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+OLAMIPOM_01474	CDS	1191	ackA	2.7.2.1	COG0282	Acetate kinase
+OLAMIPOM_01475	CDS	954				hypothetical protein
+OLAMIPOM_01476	CDS	588	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OLAMIPOM_01477	CDS	393				hypothetical protein
+OLAMIPOM_01478	CDS	462				hypothetical protein
+OLAMIPOM_01479	CDS	303				hypothetical protein
+OLAMIPOM_01480	CDS	429				hypothetical protein
+OLAMIPOM_01481	CDS	327				hypothetical protein
+OLAMIPOM_01482	CDS	873				hypothetical protein
+OLAMIPOM_01483	CDS	942	comGA		COG2804	ComG operon protein 1
+OLAMIPOM_01484	CDS	366				hypothetical protein
+OLAMIPOM_01485	CDS	1059	adh	1.1.1.1	COG1063	Alcohol dehydrogenase
+OLAMIPOM_01486	CDS	1152	agaA_1	3.5.1.-	COG1820	N-acetylgalactosamine-6-phosphate deacetylase
+OLAMIPOM_01487	CDS	1818	oatA	2.3.1.-		O-acetyltransferase OatA
+OLAMIPOM_01488	CDS	1143	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+OLAMIPOM_01489	CDS	858				hypothetical protein
+OLAMIPOM_01490	CDS	645	pcp_1	3.4.19.3		Pyrrolidone-carboxylate peptidase
+OLAMIPOM_01491	CDS	360				hypothetical protein
+OLAMIPOM_01492	CDS	426				hypothetical protein
+OLAMIPOM_01493	CDS	1113				hypothetical protein
+OLAMIPOM_01494	CDS	621	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+OLAMIPOM_01495	CDS	1281	yeeO		COG0534	putative FMN/FAD exporter YeeO
+OLAMIPOM_01496	CDS	1485	thrC	4.2.3.1	COG0498	Threonine synthase
+OLAMIPOM_01497	CDS	1278				hypothetical protein
+OLAMIPOM_01498	tRNA	86				tRNA-Leu(caa)
+OLAMIPOM_01499	CDS	1203	rpsA		COG0539	30S Ribosomal protein S1
+OLAMIPOM_01500	tRNA	72				tRNA-Gln(ttg)
+OLAMIPOM_01501	tRNA	81				tRNA-Tyr(gta)
+OLAMIPOM_01502	CDS	231				hypothetical protein
+OLAMIPOM_01503	CDS	645	pcp_2	3.4.19.3		Pyrrolidone-carboxylate peptidase
+OLAMIPOM_01504	CDS	924				hypothetical protein
+OLAMIPOM_01505	CDS	690				hypothetical protein
+OLAMIPOM_01506	CDS	705	sarA_3		COG4166	Oligopeptide-binding protein SarA
+OLAMIPOM_01507	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OLAMIPOM_01508	CDS	2436	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+OLAMIPOM_01509	CDS	108				hypothetical protein
+OLAMIPOM_01510	CDS	1944	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+OLAMIPOM_01511	CDS	642	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+OLAMIPOM_01512	CDS	834				IS3 family transposase ISSpn11
+OLAMIPOM_01513	CDS	516				IS3 family transposase ISSpn11
+OLAMIPOM_01514	CDS	957				hypothetical protein
+OLAMIPOM_01515	CDS	1059	rfuC		COG4603	putative riboflavin import permease protein RfuC
+OLAMIPOM_01516	CDS	1536	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+OLAMIPOM_01517	CDS	1053	tmpC		COG1744	Membrane lipoprotein TmpC
+OLAMIPOM_01518	CDS	390	cdd_1	3.5.4.5	COG0295	Cytidine deaminase
+OLAMIPOM_01519	CDS	663	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+OLAMIPOM_01520	CDS	1278	pdp	2.4.2.2	COG0213	Pyrimidine-nucleoside phosphorylase
+OLAMIPOM_01521	CDS	582	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+OLAMIPOM_01522	CDS	405				hypothetical protein
+OLAMIPOM_01523	CDS	921	coaA	2.7.1.33	COG1072	Pantothenate kinase
+OLAMIPOM_01524	CDS	237	rpsT		COG0268	30S ribosomal protein S20
+OLAMIPOM_01525	CDS	525				hypothetical protein
+OLAMIPOM_01526	CDS	711	deoD_2	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+OLAMIPOM_01527	CDS	516				hypothetical protein
+OLAMIPOM_01528	CDS	876				hypothetical protein
+OLAMIPOM_01529	CDS	810	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+OLAMIPOM_01530	CDS	411				hypothetical protein
+OLAMIPOM_01531	CDS	1212	deoB	5.4.2.7	COG1015	Phosphopentomutase
+OLAMIPOM_01532	CDS	684	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+OLAMIPOM_01533	CDS	840	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+OLAMIPOM_01534	CDS	822				hypothetical protein
+OLAMIPOM_01535	CDS	858	folD			Bifunctional protein FolD protein
+OLAMIPOM_01536	CDS	735	glnQ_4	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+OLAMIPOM_01537	CDS	684	artQ		COG0765	Arginine transport system permease protein ArtQ
+OLAMIPOM_01538	CDS	231				hypothetical protein
+OLAMIPOM_01539	CDS	2259	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+OLAMIPOM_01540	CDS	1764	aspS	6.1.1.12		Aspartate--tRNA ligase
+OLAMIPOM_01541	CDS	942				hypothetical protein
+OLAMIPOM_01542	CDS	279				hypothetical protein
+OLAMIPOM_01543	CDS	987	malR		COG1609	HTH-type transcriptional regulator MalR
+OLAMIPOM_01544	CDS	801				hypothetical protein
+OLAMIPOM_01545	CDS	843	malG		COG3833	Maltose/maltodextrin transport system permease protein MalG
+OLAMIPOM_01546	CDS	1293				hypothetical protein
+OLAMIPOM_01547	CDS	1272	malX		COG2182	Maltose/maltodextrin-binding protein
+OLAMIPOM_01548	CDS	1518	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+OLAMIPOM_01549	CDS	2259	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+OLAMIPOM_01550	CDS	147				hypothetical protein
+OLAMIPOM_01551	CDS	573				hypothetical protein
+OLAMIPOM_01552	CDS	849	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+OLAMIPOM_01553	CDS	279				hypothetical protein
+OLAMIPOM_01554	CDS	2064	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+OLAMIPOM_01555	CDS	1257	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+OLAMIPOM_01556	CDS	2466	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+OLAMIPOM_01557	CDS	912	yicL_2		COG0697	putative inner membrane transporter YicL
+OLAMIPOM_01558	CDS	699	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OLAMIPOM_01559	CDS	1131	ykuR	3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+OLAMIPOM_01560	CDS	540	yqgN		COG0212	putative protein YqgN
+OLAMIPOM_01561	CDS	672	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+OLAMIPOM_01562	CDS	900	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+OLAMIPOM_01563	CDS	1017	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+OLAMIPOM_01564	CDS	483				hypothetical protein
+OLAMIPOM_01565	CDS	417				IS1380 family transposase ISSpn5
+OLAMIPOM_01566	CDS	651	phoU_2		COG0704	Phosphate-specific transport system accessory protein PhoU 
+OLAMIPOM_01567	CDS	753	pstB3_3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+OLAMIPOM_01568	CDS	816				hypothetical protein
+OLAMIPOM_01569	CDS	864				hypothetical protein
+OLAMIPOM_01570	CDS	876	pstS2		COG0226	Phosphate-binding protein PstS 2
+OLAMIPOM_01571	CDS	1332	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+OLAMIPOM_01572	CDS	708	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+OLAMIPOM_01573	CDS	303				hypothetical protein
+OLAMIPOM_01574	CDS	183				hypothetical protein
+OLAMIPOM_01575	CDS	780				hypothetical protein
+OLAMIPOM_01576	CDS	351	rbfA			Ribosome-binding factor A
+OLAMIPOM_01577	CDS	2793	infB			Translation initiation factor IF-2
+OLAMIPOM_01578	CDS	300	rplGA		COG1358	putative ribosomal protein YlxQ
+OLAMIPOM_01579	CDS	294				hypothetical protein
+OLAMIPOM_01580	CDS	1125	nusA		COG0195	Transcription termination/antitermination protein NusA
+OLAMIPOM_01581	CDS	480	rimP		COG0779	Ribosome maturation factor RimP
+OLAMIPOM_01582	CDS	636	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+OLAMIPOM_01583	CDS	795				hypothetical protein
+OLAMIPOM_01584	CDS	612				hypothetical protein
+OLAMIPOM_01585	CDS	234				hypothetical protein
+OLAMIPOM_01586	CDS	690				hypothetical protein
+OLAMIPOM_01587	CDS	384				hypothetical protein
+OLAMIPOM_01588	CDS	180				hypothetical protein
+OLAMIPOM_01589	CDS	372				hypothetical protein
+OLAMIPOM_01590	CDS	162				hypothetical protein
+OLAMIPOM_01591	CDS	138				hypothetical protein
+OLAMIPOM_01592	CDS	249				hypothetical protein
+OLAMIPOM_01593	CDS	270				hypothetical protein
+OLAMIPOM_01594	CDS	198				hypothetical protein
+OLAMIPOM_01595	CDS	588				hypothetical protein
+OLAMIPOM_01596	CDS	1626	lagD_3	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+OLAMIPOM_01597	CDS	1362	lcnD_2			Lactococcin A secretion protein LcnD
+OLAMIPOM_01598	CDS	129				hypothetical protein
+OLAMIPOM_01599	CDS	1341				hypothetical protein
+OLAMIPOM_01600	CDS	738	agrA_2		COG3279	Accessory gene regulator protein A
+OLAMIPOM_01601	CDS	339				hypothetical protein
+OLAMIPOM_01602	CDS	330				hypothetical protein
+OLAMIPOM_01603	CDS	1050				hypothetical protein
+OLAMIPOM_01604	CDS	732	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+OLAMIPOM_01605	CDS	411	hit		COG0537	Protein hit
+OLAMIPOM_01606	CDS	288				hypothetical protein
+OLAMIPOM_01607	CDS	1137	dnaJ		COG0484	Chaperone protein DnaJ
+OLAMIPOM_01608	CDS	357				hypothetical protein
+OLAMIPOM_01609	CDS	1824	dnaK			Chaperone protein DnaK
+OLAMIPOM_01610	CDS	525	grpE		COG0576	Protein GrpE
+OLAMIPOM_01611	CDS	1035	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+OLAMIPOM_01612	CDS	510				hypothetical protein
+OLAMIPOM_01613	CDS	2334				hypothetical protein
+OLAMIPOM_01614	CDS	1464		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+OLAMIPOM_01615	CDS	1542	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+OLAMIPOM_01616	CDS	483				hypothetical protein
+OLAMIPOM_01617	CDS	903	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+OLAMIPOM_01618	CDS	531				hypothetical protein
+OLAMIPOM_01619	CDS	606	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+OLAMIPOM_01620	CDS	1038	yqeN		COG1466	putative protein YqeN
+OLAMIPOM_01621	CDS	936	pyrDA	1.3.98.1	COG0167	putative dihydroorotate dehydrogenase A (fumarate)
+OLAMIPOM_01622	CDS	1191	metK	2.5.1.6		S-adenosylmethionine synthase
+OLAMIPOM_01623	CDS	1344	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+OLAMIPOM_01624	CDS	816	mapP	3.1.3.90		Maltose 6'-phosphate phosphatase
+OLAMIPOM_01625	CDS	2181	ptsG_2	2.7.1.199		PTS system glucose-specific EIICBA component
+OLAMIPOM_01626	CDS	927	ftsX		COG2177	Cell division protein FtsX
+OLAMIPOM_01627	CDS	693	ftsE		COG2884	Cell division ATP-binding protein FtsE
+OLAMIPOM_01628	CDS	978	prfB			Peptide chain release factor 2
+OLAMIPOM_01629	CDS	657	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+OLAMIPOM_01630	CDS	711	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+OLAMIPOM_01631	CDS	765	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+OLAMIPOM_01632	CDS	957	livH_1		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+OLAMIPOM_01633	CDS	870	livH_2		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+OLAMIPOM_01634	CDS	1161	braC		COG0683	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+OLAMIPOM_01635	CDS	249				hypothetical protein
+OLAMIPOM_01636	CDS	591	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+OLAMIPOM_01637	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+OLAMIPOM_01638	CDS	468	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+OLAMIPOM_01639	CDS	558				hypothetical protein
+OLAMIPOM_01640	CDS	846			COG1307	DegV domain-containing protein
+OLAMIPOM_01641	CDS	1176			COG2081	putative protein
+OLAMIPOM_01642	CDS	456				hypothetical protein
+OLAMIPOM_01643	CDS	1257				ISL3 family transposase ISSpn14
+OLAMIPOM_01644	CDS	750	mta		COG0789	HTH-type transcriptional activator mta
+OLAMIPOM_01645	CDS	222				hypothetical protein
+OLAMIPOM_01646	CDS	1260				hypothetical protein
+OLAMIPOM_01647	CDS	945	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+OLAMIPOM_01648	CDS	297	bglA	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglA
+OLAMIPOM_01649	CDS	1278				hypothetical protein
+OLAMIPOM_01650	CDS	648			COG1136	putative ABC transporter ATP-binding protein
+OLAMIPOM_01651	CDS	1380				hypothetical protein
+OLAMIPOM_01652	CDS	657	regX3		COG0745	Sensory transduction protein regX3
+OLAMIPOM_01653	CDS	1329				hypothetical protein
+OLAMIPOM_01654	CDS	882	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+OLAMIPOM_01655	CDS	1191		1.14.13.239		Carnitine monooxygenase reductase subunit
+OLAMIPOM_01656	CDS	660	glnP		COG0765	putative glutamine ABC transporter permease protein GlnP
+OLAMIPOM_01657	CDS	678	glnM_2		COG0765	putative glutamine ABC transporter permease protein GlnM
+OLAMIPOM_01658	CDS	765	peb1A		COG0834	Major cell-binding factor
+OLAMIPOM_01659	CDS	759	glnQ_5			Glutamine transport ATP-binding protein GlnQ
+OLAMIPOM_01660	CDS	2223				hypothetical protein
+OLAMIPOM_01661	CDS	1662	rnj2	3.1.-.-		Ribonuclease J 2
+OLAMIPOM_01662	CDS	780	axe1-6A		COG2382	Carbohydrate acetyl esterase/feruloyl esterase
+OLAMIPOM_01663	CDS	1221	femX	2.3.2.16	COG2348	Lipid II:glycine glycyltransferase
+OLAMIPOM_01664	CDS	1233	femA	2.3.2.17		Aminoacyltransferase FemA
+OLAMIPOM_01665	CDS	702				hypothetical protein
+OLAMIPOM_01666	CDS	1848	uvrC		COG0322	UvrABC system protein C
+OLAMIPOM_01667	CDS	279				hypothetical protein
+OLAMIPOM_01668	CDS	549				hypothetical protein
+OLAMIPOM_01669	CDS	801	tcyJ		COG0834	L-cystine-binding protein TcyJ
+OLAMIPOM_01670	CDS	606		1.-.-.-		Putative NAD(P)H nitroreductase
+OLAMIPOM_01671	CDS	1401	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+OLAMIPOM_01672	CDS	579				hypothetical protein
+OLAMIPOM_01673	CDS	153				hypothetical protein
+OLAMIPOM_01674	CDS	1326	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+OLAMIPOM_01675	CDS	1038	pepA_2	3.4.11.7	COG1363	Glutamyl aminopeptidase
+OLAMIPOM_01676	CDS	462				hypothetical protein
+OLAMIPOM_01677	CDS	717	yodJ	3.4.-.-	COG1876	Putative carboxypeptidase YodJ
+OLAMIPOM_01678	CDS	426	rplK			50S ribosomal protein L11
+OLAMIPOM_01679	CDS	690	rplA			50S ribosomal protein L1
+OLAMIPOM_01680	CDS	1494	hsdM	2.1.1.72	COG0286	Type I restriction enzyme EcoKI M protein
+OLAMIPOM_01681	CDS	1167				hypothetical protein
+OLAMIPOM_01682	CDS	408				hypothetical protein
+OLAMIPOM_01683	CDS	336				hypothetical protein
+OLAMIPOM_01684	CDS	825	ybbA		COG2819	putative protein YbbA
+OLAMIPOM_01685	CDS	1215	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+OLAMIPOM_01686	CDS	1143	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+OLAMIPOM_01687	CDS	429				hypothetical protein
+OLAMIPOM_01688	CDS	2304	ftsK		COG1674	DNA translocase FtsK
+OLAMIPOM_01689	CDS	1953	fruA_2		COG1299	PTS system fructose-specific EIIABC component
+OLAMIPOM_01690	CDS	912	lacC_1	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+OLAMIPOM_01691	CDS	741	lacR_1			Lactose phosphotransferase system repressor
+OLAMIPOM_01692	tRNA	90				tRNA-Ser(gga)
+OLAMIPOM_01693	tmRNA	345	ssrA			transfer-messenger RNA, SsrA
+OLAMIPOM_01694	CDS	1110				hypothetical protein
+OLAMIPOM_01695	CDS	1242	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+OLAMIPOM_01696	CDS	1413				hypothetical protein
+OLAMIPOM_01697	CDS	441	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+OLAMIPOM_01698	CDS	1227	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+OLAMIPOM_01699	CDS	1263				hypothetical protein
+OLAMIPOM_01700	CDS	771				putative ABC transporter ATP-binding protein
+OLAMIPOM_01701	CDS	195				hypothetical protein
+OLAMIPOM_01702	CDS	1656	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+OLAMIPOM_01703	CDS	498	msrC	1.8.4.14	COG1956	Free methionine-R-sulfoxide reductase
+OLAMIPOM_01704	CDS	456				hypothetical protein
+OLAMIPOM_01705	CDS	885	lrp			Leucine-rich protein
+OLAMIPOM_01706	CDS	387	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+OLAMIPOM_01707	CDS	1344	cysS	6.1.1.16		Cysteine--tRNA ligase
+OLAMIPOM_01708	CDS	885	mshD_2	2.3.1.189		Mycothiol acetyltransferase
+OLAMIPOM_01709	CDS	618	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+OLAMIPOM_01710	CDS	2214	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+OLAMIPOM_01711	CDS	867	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+OLAMIPOM_01712	CDS	2250	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+OLAMIPOM_01713	CDS	198				hypothetical protein
+OLAMIPOM_01714	CDS	495			COG2826	IS30 family transposase ISSpn8
+OLAMIPOM_01715	CDS	1002				hypothetical protein
+OLAMIPOM_01716	CDS	2406	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+OLAMIPOM_01717	CDS	498	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+OLAMIPOM_01718	CDS	1047	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+OLAMIPOM_01719	CDS	1416	bglH	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+OLAMIPOM_01720	CDS	1839	bglF		COG1263	PTS system beta-glucoside-specific EIIBCA component
+OLAMIPOM_01721	CDS	840	licT_1		COG3711	Transcription antiterminator LicT
+OLAMIPOM_01722	CDS	630				hypothetical protein
+OLAMIPOM_01723	CDS	543				hypothetical protein
+OLAMIPOM_01724	CDS	1146				hypothetical protein
+OLAMIPOM_01725	CDS	102				hypothetical protein
+OLAMIPOM_01726	CDS	1260	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+OLAMIPOM_01727	CDS	501	rplJ			50S ribosomal protein L10
+OLAMIPOM_01728	CDS	369	rplL		COG0222	50S ribosomal protein L7/L12
+OLAMIPOM_01729	CDS	588				hypothetical protein
+OLAMIPOM_01730	CDS	138				hypothetical protein
+OLAMIPOM_01731	CDS	1515				hypothetical protein
+OLAMIPOM_01732	CDS	585	msbA_1	7.5.2.6		Lipid A export ATP-binding/permease protein MsbA
+OLAMIPOM_01733	CDS	741	yxdL_2		COG1136	ABC transporter ATP-binding protein YxdL
+OLAMIPOM_01734	CDS	1320				hypothetical protein
+OLAMIPOM_01735	CDS	138				hypothetical protein
+OLAMIPOM_01736	CDS	222				hypothetical protein
+OLAMIPOM_01737	CDS	699	nanE_2	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+OLAMIPOM_01738	CDS	924	nanM	5.1.3.24		N-acetylneuraminate epimerase
+OLAMIPOM_01739	CDS	1629				hypothetical protein
+OLAMIPOM_01740	CDS	951	gsiC		COG0601	Glutathione transport system permease protein GsiC
+OLAMIPOM_01741	CDS	852	oppC_1		COG1173	Oligopeptide transport system permease protein OppC
+OLAMIPOM_01742	CDS	1983	gsiA	7.4.2.10	COG1123	Glutathione import ATP-binding protein GsiA
+OLAMIPOM_01743	CDS	1410				hypothetical protein
+OLAMIPOM_01744	CDS	489	ypjQ		COG1267	putative protein YpjQ
+OLAMIPOM_01745	CDS	408	cdd_2	3.5.4.5	COG0295	Cytidine deaminase
+OLAMIPOM_01746	CDS	96				hypothetical protein
+OLAMIPOM_01747	CDS	792	nanA_3	4.1.3.3	COG0329	N-acetylneuraminate lyase
+OLAMIPOM_01748	CDS	597				hypothetical protein
+OLAMIPOM_01749	CDS	642	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+OLAMIPOM_01750	CDS	171				hypothetical protein
+OLAMIPOM_01751	CDS	1347	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+OLAMIPOM_01752	CDS	1623	groL		COG0459	60 kDa chaperonin
+OLAMIPOM_01753	CDS	285	groS		COG0234	10 kDa chaperonin
+OLAMIPOM_01754	CDS	396	ssb_2		COG0629	Single-stranded DNA-binding protein
+OLAMIPOM_01755	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+OLAMIPOM_01756	CDS	627				hypothetical protein
+OLAMIPOM_01757	CDS	318	ytpP			Thioredoxin-like protein YtpP
+OLAMIPOM_01758	CDS	300				hypothetical protein
+OLAMIPOM_01759	CDS	675				hypothetical protein
+OLAMIPOM_01760	CDS	447				hypothetical protein
+OLAMIPOM_01761	CDS	504				hypothetical protein
+OLAMIPOM_01762	CDS	363				hypothetical protein
+OLAMIPOM_01763	CDS	1032			COG1132	putative ABC transporter ATP-binding protein
+OLAMIPOM_01764	CDS	171				hypothetical protein
+OLAMIPOM_01765	CDS	648			COG1132	putative ABC transporter ATP-binding protein
+OLAMIPOM_01766	CDS	450				hypothetical protein
+OLAMIPOM_01767	CDS	717	yeeN		COG0217	putative transcriptional regulatory protein YeeN
+OLAMIPOM_01768	CDS	1416	ply			Pneumolysin
+OLAMIPOM_01769	CDS	411				hypothetical protein
+OLAMIPOM_01770	CDS	609				hypothetical protein
+OLAMIPOM_01771	CDS	459				hypothetical protein
+OLAMIPOM_01772	CDS	132				hypothetical protein
+OLAMIPOM_01773	CDS	861				hypothetical protein
+OLAMIPOM_01774	CDS	1062				hypothetical protein
+OLAMIPOM_01775	CDS	1005	potA_2	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+OLAMIPOM_01776	CDS	1695				hypothetical protein
+OLAMIPOM_01777	CDS	702				hypothetical protein
+OLAMIPOM_01778	CDS	600	yihX	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX
+OLAMIPOM_01779	CDS	2028				hypothetical protein
+OLAMIPOM_01780	CDS	1227				hypothetical protein
+OLAMIPOM_01781	CDS	666				hypothetical protein
+OLAMIPOM_01782	CDS	198				hypothetical protein
+OLAMIPOM_01783	CDS	864				hypothetical protein
+OLAMIPOM_01784	CDS	249	hasB	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+OLAMIPOM_01785	CDS	177				hypothetical protein
+OLAMIPOM_01786	CDS	750	btrD	3.5.1.112		2'-N-acetylparomamine deacetylase
+OLAMIPOM_01787	CDS	411				hypothetical protein
+OLAMIPOM_01788	CDS	147				hypothetical protein
+OLAMIPOM_01789	CDS	1617	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+OLAMIPOM_01790	CDS	876				hypothetical protein
+OLAMIPOM_01791	CDS	444	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+OLAMIPOM_01792	CDS	738				hypothetical protein
+OLAMIPOM_01793	CDS	930				hypothetical protein
+OLAMIPOM_01794	CDS	387				ISL3 family transposase ISSth1
+OLAMIPOM_01795	CDS	1011	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+OLAMIPOM_01796	CDS	438				hypothetical protein
+OLAMIPOM_01797	CDS	684	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+OLAMIPOM_01798	CDS	186				hypothetical protein
+OLAMIPOM_01799	CDS	153				hypothetical protein
+OLAMIPOM_01800	CDS	324				hypothetical protein
+OLAMIPOM_01801	CDS	234				hypothetical protein
+OLAMIPOM_01802	CDS	1680	rnj1	3.1.-.-		Ribonuclease J 1
+OLAMIPOM_01803	CDS	1914	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+OLAMIPOM_01804	CDS	456				hypothetical protein
+OLAMIPOM_01805	CDS	1122	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+OLAMIPOM_01806	CDS	663	lytB_2	3.2.1.96	COG4193	Putative endo-beta-N-acetylglucosaminidase
+OLAMIPOM_01807	CDS	321				hypothetical protein
+OLAMIPOM_01808	CDS	816				hypothetical protein
+OLAMIPOM_01809	CDS	927	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+OLAMIPOM_01810	CDS	237				hypothetical protein
+OLAMIPOM_01811	CDS	699		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+OLAMIPOM_01812	CDS	480				hypothetical protein
+OLAMIPOM_01813	CDS	699				hypothetical protein
+OLAMIPOM_01814	CDS	870				hypothetical protein
+OLAMIPOM_01815	CDS	441				hypothetical protein
+OLAMIPOM_01816	CDS	2547	pepN	3.4.11.2		Aminopeptidase N
+OLAMIPOM_01817	CDS	675	arlR_2		COG0745	Response regulator ArlR
+OLAMIPOM_01818	CDS	1335	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+OLAMIPOM_01819	CDS	288				hypothetical protein
+OLAMIPOM_01820	CDS	930				hypothetical protein
+OLAMIPOM_01821	CDS	2451	dinG_2	3.1.-.-		3'-5' exonuclease DinG
+OLAMIPOM_01822	CDS	1224	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+OLAMIPOM_01823	CDS	555	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+OLAMIPOM_01824	CDS	573	gph_3	3.1.3.18		Phosphoglycolate phosphatase
+OLAMIPOM_01825	CDS	1947	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+OLAMIPOM_01826	CDS	1728	ezrA		COG4477	Septation ring formation regulator EzrA
+OLAMIPOM_01827	CDS	207				ISL3 family transposase IS1167
+OLAMIPOM_01828	CDS	237				hypothetical protein
+OLAMIPOM_01829	CDS	1329	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+OLAMIPOM_01830	CDS	468	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+OLAMIPOM_01831	CDS	717	xerD			Tyrosine recombinase XerD
+OLAMIPOM_01832	CDS	354				hypothetical protein
+OLAMIPOM_01833	CDS	1071				hypothetical protein
+OLAMIPOM_01834	CDS	291				hypothetical protein
+OLAMIPOM_01835	CDS	264				hypothetical protein
+OLAMIPOM_01836	CDS	234				hypothetical protein
+OLAMIPOM_01837	CDS	369				hypothetical protein
+OLAMIPOM_01838	CDS	132				hypothetical protein
+OLAMIPOM_01839	CDS	93				hypothetical protein
+OLAMIPOM_01840	CDS	192				hypothetical protein
+OLAMIPOM_01841	CDS	204				hypothetical protein
+OLAMIPOM_01842	CDS	144				hypothetical protein
+OLAMIPOM_01843	CDS	168				hypothetical protein
+OLAMIPOM_01844	CDS	315	lytA_2	3.5.1.28		Autolysin
+OLAMIPOM_01845	CDS	180				hypothetical protein
+OLAMIPOM_01846	CDS	444	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OLAMIPOM_01847	CDS	558				hypothetical protein
+OLAMIPOM_01848	CDS	1263	radA	3.6.4.-	COG1066	DNA repair protein RadA
+OLAMIPOM_01849	CDS	498	mtcA1	4.2.1.1	COG0288	Beta-carbonic anhydrase 1
+OLAMIPOM_01850	CDS	660				hypothetical protein
+OLAMIPOM_01851	CDS	969	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+OLAMIPOM_01852	CDS	480				hypothetical protein
+OLAMIPOM_01853	CDS	258				hypothetical protein
+OLAMIPOM_01854	CDS	2670	polA	2.7.7.7		DNA polymerase I
+OLAMIPOM_01855	CDS	438	yccU		COG1832	putative protein YccU
+OLAMIPOM_01856	CDS	351				hypothetical protein
+OLAMIPOM_01857	CDS	930	yteP_2		COG4209	putative multiple-sugar transport system permease YteP
+OLAMIPOM_01858	CDS	924	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+OLAMIPOM_01859	CDS	1476				hypothetical protein
+OLAMIPOM_01860	CDS	987				hypothetical protein
+OLAMIPOM_01861	CDS	861				hypothetical protein
+OLAMIPOM_01862	CDS	1065				hypothetical protein
+OLAMIPOM_01863	CDS	912				hypothetical protein
+OLAMIPOM_01864	CDS	594				hypothetical protein
+OLAMIPOM_01865	CDS	327				hypothetical protein
+OLAMIPOM_01866	CDS	1167	yycB		COG2807	putative transporter YycB
+OLAMIPOM_01867	CDS	1065	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OLAMIPOM_01868	CDS	1851	fcl	1.1.1.271		GDP-L-fucose synthase
+OLAMIPOM_01869	CDS	213				hypothetical protein
+OLAMIPOM_01870	CDS	633		3.1.3.5	COG0546	5'-nucleotidase
+OLAMIPOM_01871	CDS	873	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+OLAMIPOM_01872	CDS	672	sdhB	4.3.1.17		L-serine dehydratase, beta chain
+OLAMIPOM_01873	CDS	588				hypothetical protein
+OLAMIPOM_01874	CDS	165				hypothetical protein
+OLAMIPOM_01875	tRNA	90				tRNA-Ser(gct)
+OLAMIPOM_01876	CDS	438				hypothetical protein
+OLAMIPOM_01877	CDS	936	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+OLAMIPOM_01878	CDS	861	rhaS			HTH-type transcriptional activator RhaS
+OLAMIPOM_01879	CDS	2163	agaA_2	3.2.1.22		Alpha-galactosidase AgaA
+OLAMIPOM_01880	CDS	1260	msmE		COG1653	Multiple sugar-binding protein
+OLAMIPOM_01881	CDS	867	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+OLAMIPOM_01882	CDS	834	ngcG		COG0395	Diacetylchitobiose uptake system permease protein NgcG
+OLAMIPOM_01883	CDS	1443	gtfA_2	2.4.1.7	COG0366	Sucrose phosphorylase
+OLAMIPOM_01884	CDS	1194				hypothetical protein
+OLAMIPOM_01885	CDS	1980	amiA		COG4166	Oligopeptide-binding protein AmiA
+OLAMIPOM_01886	CDS	1497				hypothetical protein
+OLAMIPOM_01887	CDS	927	oppC_2		COG1173	Oligopeptide transport system permease protein OppC
+OLAMIPOM_01888	CDS	1068	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+OLAMIPOM_01889	CDS	927	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+OLAMIPOM_01890	CDS	426	lacA	5.3.1.26		Galactose-6-phosphate isomerase subunit LacA
+OLAMIPOM_01891	CDS	516	lacB	5.3.1.26		Galactose-6-phosphate isomerase subunit LacB
+OLAMIPOM_01892	CDS	930	lacC_2	2.7.1.144		Tagatose-6-phosphate kinase
+OLAMIPOM_01893	CDS	981	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+OLAMIPOM_01894	CDS	837	licT_2		COG3711	Transcription antiterminator LicT
+OLAMIPOM_01895	CDS	318	lacF_2			PTS system lactose-specific EIIA component
+OLAMIPOM_01896	CDS	1695	lacE_2			PTS system lactose-specific EIICB component
+OLAMIPOM_01897	CDS	1407	lacG	3.2.1.85		6-phospho-beta-galactosidase
+OLAMIPOM_01898	CDS	762	lacR_2			Lactose phosphotransferase system repressor
+OLAMIPOM_01899	CDS	963	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 2 subunit beta
+OLAMIPOM_01900	CDS	2160	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+OLAMIPOM_01901	CDS	219	nrdH		COG0695	Glutaredoxin-like protein NrdH
+OLAMIPOM_01902	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+OLAMIPOM_01903	CDS	1725	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+OLAMIPOM_01904	CDS	2451				hypothetical protein
+OLAMIPOM_01905	CDS	804				hypothetical protein
+OLAMIPOM_01906	CDS	222				hypothetical protein
+OLAMIPOM_01907	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+OLAMIPOM_01908	CDS	240				hypothetical protein
+OLAMIPOM_01909	CDS	750				hypothetical protein
+OLAMIPOM_01910	CDS	519	rimM			Ribosome maturation factor RimM
+OLAMIPOM_01911	CDS	720	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+OLAMIPOM_01912	CDS	339				hypothetical protein
+OLAMIPOM_01913	CDS	321				hypothetical protein
+OLAMIPOM_01914	CDS	216				hypothetical protein
+OLAMIPOM_01915	CDS	189				hypothetical protein
+OLAMIPOM_01916	CDS	537	bioY2		COG1268	Biotin transporter BioY2
+OLAMIPOM_01917	CDS	339				hypothetical protein
+OLAMIPOM_01918	CDS	1983				hypothetical protein
+OLAMIPOM_01919	CDS	624	cysA_2	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+OLAMIPOM_01920	CDS	501				hypothetical protein
+OLAMIPOM_01921	CDS	1347	gor	1.8.1.7	COG1249	Glutathione reductase
+OLAMIPOM_01922	CDS	1200	yknX		COG0845	Putative efflux system component YknX
+OLAMIPOM_01923	CDS	702	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OLAMIPOM_01924	CDS	1260	yknZ		COG0577	putative ABC transporter permease YknZ
+OLAMIPOM_01925	CDS	1998	metG	6.1.1.10		Methionine--tRNA ligase
+OLAMIPOM_01926	CDS	363				hypothetical protein
+OLAMIPOM_01927	CDS	342				hypothetical protein
+OLAMIPOM_01928	CDS	993	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OLAMIPOM_01929	CDS	819				hypothetical protein
+OLAMIPOM_01930	CDS	786				hypothetical protein
+OLAMIPOM_01931	CDS	246				hypothetical protein
+OLAMIPOM_01932	CDS	225				hypothetical protein
+OLAMIPOM_01933	CDS	6405				hypothetical protein
+OLAMIPOM_01934	CDS	477				hypothetical protein
+OLAMIPOM_01935	CDS	306				hypothetical protein
+OLAMIPOM_01936	CDS	1476	gatC_2		COG3775	PTS system galactitol-specific EIIC component
+OLAMIPOM_01937	CDS	1692	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+OLAMIPOM_01938	CDS	447	argR_3		COG1438	Arginine regulator
+OLAMIPOM_01939	CDS	2535	mutS		COG0249	DNA mismatch repair protein MutS
+OLAMIPOM_01940	CDS	1695			COG1132	putative ABC transporter ATP-binding protein
+OLAMIPOM_01941	CDS	309				hypothetical protein
+OLAMIPOM_01942	CDS	1767			COG1132	putative ABC transporter ATP-binding protein
+OLAMIPOM_01943	CDS	690		2.4.2.-	COG2071	Putative glutamine amidotransferase
+OLAMIPOM_01944	CDS	1350	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+OLAMIPOM_01945	CDS	1461	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+OLAMIPOM_01946	CDS	432				hypothetical protein
+OLAMIPOM_01947	CDS	234				hypothetical protein
+OLAMIPOM_01948	CDS	1335				hypothetical protein
+OLAMIPOM_01949	CDS	255				hypothetical protein
+OLAMIPOM_01950	CDS	396				hypothetical protein
+OLAMIPOM_01951	CDS	450				hypothetical protein
+OLAMIPOM_01952	CDS	561				hypothetical protein
+OLAMIPOM_01953	CDS	579				hypothetical protein
+OLAMIPOM_01954	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+OLAMIPOM_01955	CDS	1257				hypothetical protein
+OLAMIPOM_01956	CDS	2451				hypothetical protein
+OLAMIPOM_01957	CDS	1755				hypothetical protein
+OLAMIPOM_01958	CDS	147				hypothetical protein
+OLAMIPOM_01959	CDS	804				hypothetical protein
+OLAMIPOM_01960	CDS	2292	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+OLAMIPOM_01961	CDS	681				hypothetical protein
+OLAMIPOM_01962	CDS	690		2.4.2.-	COG2071	Putative glutamine amidotransferase
+OLAMIPOM_01963	CDS	642	rex		COG2344	Redox-sensing transcriptional repressor Rex
+OLAMIPOM_01964	CDS	216				hypothetical protein
+OLAMIPOM_01965	CDS	348				hypothetical protein
+OLAMIPOM_01966	CDS	1116	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+OLAMIPOM_01967	CDS	960	prs2	2.7.6.1		Putative ribose-phosphate pyrophosphokinase 2
+OLAMIPOM_01968	CDS	570	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+OLAMIPOM_01969	CDS	672	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+OLAMIPOM_01970	CDS	819	nadK	2.7.1.23	COG0061	NAD kinase
+OLAMIPOM_01971	CDS	897	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OLAMIPOM_01972	CDS	975	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+OLAMIPOM_01973	CDS	681				hypothetical protein
+OLAMIPOM_01974	CDS	213				hypothetical protein
+OLAMIPOM_01975	CDS	126				hypothetical protein
+OLAMIPOM_01976	CDS	246				hypothetical protein
+OLAMIPOM_01977	CDS	1059				hypothetical protein
+OLAMIPOM_01978	CDS	978				hypothetical protein
+OLAMIPOM_01979	CDS	375				hypothetical protein
+OLAMIPOM_01980	CDS	903				hypothetical protein
+OLAMIPOM_01981	CDS	333				hypothetical protein
+OLAMIPOM_01982	CDS	729				hypothetical protein
+OLAMIPOM_01983	CDS	198				hypothetical protein
+OLAMIPOM_01984	CDS	279				hypothetical protein
+OLAMIPOM_01985	CDS	1704	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+OLAMIPOM_01986	CDS	933	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+OLAMIPOM_01987	CDS	858	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+OLAMIPOM_01988	CDS	1347	ulaA_2		COG3037	Ascorbate-specific PTS system EIIC component
+OLAMIPOM_01989	CDS	285				hypothetical protein
+OLAMIPOM_01990	CDS	2031				hypothetical protein
+OLAMIPOM_01991	CDS	1008				hypothetical protein
+OLAMIPOM_01992	CDS	201				hypothetical protein
+OLAMIPOM_01993	CDS	183	rpmF		COG0333	50S ribosomal protein L32
+OLAMIPOM_01994	CDS	150	rpmGA			50S ribosomal protein L33 1
+OLAMIPOM_01995	CDS	246	lytA_3	3.5.1.28		Autolysin
+OLAMIPOM_01996	CDS	231				hypothetical protein
+OLAMIPOM_01997	CDS	642				hypothetical protein
+OLAMIPOM_01998	CDS	735				hypothetical protein
+OLAMIPOM_01999	CDS	198				hypothetical protein
+OLAMIPOM_02000	CDS	207				hypothetical protein
+OLAMIPOM_02001	CDS	195				hypothetical protein
+OLAMIPOM_02002	CDS	1290	hisS	6.1.1.21		Histidine--tRNA ligase
+OLAMIPOM_02003	CDS	879				hypothetical protein
+OLAMIPOM_02004	CDS	165				hypothetical protein
+OLAMIPOM_02005	CDS	852				hypothetical protein
+OLAMIPOM_02006	CDS	342				hypothetical protein
+OLAMIPOM_02007	CDS	951	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+OLAMIPOM_02008	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+OLAMIPOM_02009	CDS	876				hypothetical protein
+OLAMIPOM_02010	CDS	2196	pbpF		COG0744	Penicillin-binding protein 1F
+OLAMIPOM_02011	CDS	177				hypothetical protein
+OLAMIPOM_02012	CDS	537	nusG			Transcription termination/antitermination protein NusG
+OLAMIPOM_02013	rRNA	109				5S ribosomal RNA
+OLAMIPOM_02014	rRNA	2897				23S ribosomal RNA
+OLAMIPOM_02015	tRNA	75				tRNA-Ala(tgc)
+OLAMIPOM_02016	rRNA	1543				16S ribosomal RNA
+OLAMIPOM_02017	CDS	624				hypothetical protein
+OLAMIPOM_02018	CDS	699	saeR			Response regulator SaeR
+OLAMIPOM_02019	CDS	1053	saeS	2.7.13.3		Histidine protein kinase SaeS
+OLAMIPOM_02020	CDS	612	rpsD		COG0522	30S ribosomal protein S4
+OLAMIPOM_02021	CDS	207				hypothetical protein
+OLAMIPOM_02022	CDS	534				hypothetical protein
+OLAMIPOM_02023	CDS	777	recX			Regulatory protein RecX
+OLAMIPOM_02024	CDS	1356	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+OLAMIPOM_02025	CDS	330				hypothetical protein
+OLAMIPOM_02026	CDS	798	xerC_3			Tyrosine recombinase XerC
+OLAMIPOM_02027	CDS	609				hypothetical protein
+OLAMIPOM_02028	CDS	546				hypothetical protein
+OLAMIPOM_02029	CDS	954			COG2826	IS30 family transposase ISSpn8
+OLAMIPOM_02030	CDS	264				hypothetical protein
+OLAMIPOM_02031	CDS	300				hypothetical protein
+OLAMIPOM_02032	tRNA	76				tRNA-Met(cat)
+OLAMIPOM_02033	tRNA	74				tRNA-Met(cat)
+OLAMIPOM_02034	tRNA	90				tRNA-Ser(tga)
+OLAMIPOM_02035	tRNA	74				tRNA-Met(cat)
+OLAMIPOM_02036	tRNA	73				tRNA-Phe(gaa)
+OLAMIPOM_02037	tRNA	71				tRNA-Gly(tcc)
+OLAMIPOM_02038	tRNA	76				tRNA-Ile(gat)
+OLAMIPOM_02039	tRNA	73				tRNA-Trp(cca)
+OLAMIPOM_02040	tRNA	75				tRNA-His(gtg)
+OLAMIPOM_02041	CDS	105				hypothetical protein

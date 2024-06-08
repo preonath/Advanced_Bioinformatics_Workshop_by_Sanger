@@ -1,0 +1,5 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+ERR3227730_contigs.fasta	NODE_2_length_218226_cov_48.161436	126112	127329	+	mef(A)	1-1218/1218	===============	0/0	100.00	100.00	ncbi	NG_047958.1	macrolide efflux MFS transporter Mef(A)	MACROLIDE
+ERR3227730_contigs.fasta	NODE_2_length_218226_cov_48.161436	127449	128912	+	msr(D)	1-1464/1464	===============	0/0	100.00	100.00	ncbi	NG_048006.1	ABC-F type ribosomal protection protein Msr(D)	MACROLIDE
+ERR3227730_contigs.fasta	NODE_2_length_218226_cov_48.161436	130638	132557	-	tet(M)	1-1920/1920	===============	0/0	100.00	99.27	ncbi	NG_048217.1	tetracycline resistance ribosomal protection protein Tet(M)	TETRACYCLINE
+ERR3227730_contigs.fasta	NODE_2_length_218226_cov_48.161436	182481	183201	+	cat-TC	1-717/717	========/======	4/4	100.00	99.03	ncbi	NG_047562.1	type A-9 chloramphenicol O-acetyltransferase Cat-TC	CHLORAMPHENICOL

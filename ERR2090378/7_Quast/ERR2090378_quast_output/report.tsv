@@ -1,0 +1,29 @@
+Assembly	ERR2090378_contigs
+# contigs (>= 0 bp)	269
+# contigs (>= 1000 bp)	46
+# contigs (>= 5000 bp)	42
+# contigs (>= 10000 bp)	36
+# contigs (>= 25000 bp)	22
+# contigs (>= 50000 bp)	14
+Total length (>= 0 bp)	2063206
+Total length (>= 1000 bp)	2033691
+Total length (>= 5000 bp)	2025656
+Total length (>= 10000 bp)	1987375
+Total length (>= 25000 bp)	1763812
+Total length (>= 50000 bp)	1439336
+# contigs	53
+Largest contig	195913
+Total length	2038274
+GC (%)	39.56
+N50	93589
+N75	47642
+L50	8
+L75	16
+# total reads	3454220
+# left	1725560
+# right	1725560
+Mapped (%)	99.7
+Properly paired (%)	97.62
+Avg. coverage depth	210
+Coverage >= 1x (%)	100.0
+# N's per 100 kbp	0.00

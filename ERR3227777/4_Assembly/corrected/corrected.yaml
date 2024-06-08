@@ -1,0 +1,9 @@
+- "left reads":
+  - "/data/ERR3227777_spades_assembly/corrected/ERR3227777_1.trimmed.fastq.00.0_0.cor.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/data/ERR3227777_spades_assembly/corrected/ERR3227777_2.trimmed.fastq.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/data/ERR3227777_spades_assembly/corrected/ERR3227777__unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"

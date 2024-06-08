@@ -1,0 +1,7 @@
+"bwa": "/SPAdes-3.15.5-Linux/bin/spades-bwa"
+"dataset": "/data/ERR1756432_spades_assembly/input_dataset.yaml"
+"log_filename": "log.properties"
+"max_nthreads": !!int "8"
+"output_dir": "/data/ERR1756432_spades_assembly/mismatch_corrector/scaffolds"
+"strategy": "mapped_squared"
+"work_dir": "/data/ERR1756432_spades_assembly/tmp/corrector_6ggtsshg"

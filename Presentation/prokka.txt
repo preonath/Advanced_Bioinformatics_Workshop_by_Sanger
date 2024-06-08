@@ -1,0 +1,200 @@
+ERR1756432
+organism: Genus species strain 
+contigs: 333
+bases: 2098952
+CDS: 2027
+rRNA: 3
+tRNA: 35
+tmRNA: 1
+
+
+ERR1756464
+organism: Genus species strain 
+contigs: 217
+bases: 2110815
+CDS: 2045
+rRNA: 3
+tRNA: 35
+tmRNA: 1
+
+
+ERR2090120
+organism: Genus species strain 
+contigs: 329
+bases: 2144073
+CDS: 2064
+rRNA: 3
+tRNA: 34
+tmRNA: 1
+
+ERR2090182
+organism: Genus species strain 
+contigs: 329
+bases: 2144073
+CDS: 2064
+rRNA: 3
+tRNA: 34
+tmRNA: 1
+
+ERR2090184
+organism: Genus species strain 
+contigs: 289
+bases: 2152982
+CDS: 2077
+rRNA: 3
+tRNA: 34
+tmRNA: 1
+
+ERR2090220
+organism: Genus species strain 
+contigs: 230
+bases: 2091421
+CDS: 2015
+rRNA: 3
+tRNA: 36
+tmRNA: 1
+
+ERR2090242
+organism: Genus species strain 
+contigs: 313
+bases: 2147049
+CDS: 2065
+rRNA: 3
+tRNA: 35
+tmRNA: 1
+
+ERR2090250
+organism: Genus species strain 
+contigs: 301
+bases: 2147344
+CDS: 2068
+rRNA: 3
+tRNA: 34
+tmRNA: 1
+
+ERR2090255
+organism: Genus species strain 
+contigs: 314
+bases: 2147453
+CDS: 2067
+rRNA: 3
+tRNA: 34
+tmRNA: 1
+
+ERR2090264
+organism: Genus species strain 
+contigs: 381
+bases: 2186364
+CDS: 2116
+rRNA: 3
+tRNA: 36
+tmRNA: 1
+
+ERR2090274
+organism: Genus species strain 
+contigs: 342
+bases: 2061273
+CDS: 1976
+rRNA: 3
+tRNA: 35
+tmRNA: 1
+
+ERR2090283
+organism: Genus species strain 
+contigs: 302
+bases: 2080145
+CDS: 2004
+rRNA: 3
+tRNA: 33
+tmRNA: 1
+
+ERR209031
+organism: Genus species strain 
+contigs: 226
+bases: 2079878
+CDS: 2010
+rRNA: 4
+tRNA: 34
+tmRNA: 1
+
+ERR2090315
+organism: Genus species strain 
+contigs: 217
+bases: 2080853
+CDS: 2012
+rRNA: 4
+tRNA: 34
+tmRNA: 1
+
+ERR2090378
+organism: Genus species strain 
+contigs: 269
+bases: 2063206
+CDS: 1981
+rRNA: 3
+tRNA: 35
+tmRNA: 1
+
+ERR3227730
+organism: Genus species strain 
+contigs: 148
+bases: 2149815
+CDS: 2095
+rRNA: 3
+tRNA: 44
+tmRNA: 1
+
+ERR3227761
+organism: Genus species strain 
+contigs: 186
+bases: 2056654
+CDS: 1988
+rRNA: 3
+tRNA: 45
+tmRNA: 1
+
+ERR3227777
+organism: Genus species strain 
+contigs: 113
+bases: 2147599
+CDS: 2096
+rRNA: 3
+tRNA: 44
+tmRNA: 1
+
+ERR3227778
+organism: Genus species strain 
+contigs: 123
+bases: 2097811
+CDS: 2057
+rRNA: 3
+tRNA: 44
+tmRNA: 1
+
+ERR3227796
+organism: Genus species strain 
+contigs: 123
+bases: 2097811
+CDS: 2057
+rRNA: 3
+tRNA: 44
+tmRNA: 1
+
+ERR3227798
+organism: Genus species strain 
+contigs: 139
+bases: 2049126
+CDS: 1984
+rRNA: 3
+tRNA: 44
+tmRNA: 1
+
+ERR322777
+organism: Genus species strain 
+contigs: 100
+bases: 2097982
+CDS: 2040
+CRISPR: 1
+rRNA: 3
+tRNA: 43
+tmRNA: 1

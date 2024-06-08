@@ -1,0 +1,195 @@
+- STAGE: Before start
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: before_start
+- STAGE: Read error correction
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: ec_start
+- STAGE: Read error correction
+  args:
+  - /data/ERR2090274_spades_assembly/corrected/configs/config.info
+  config_dir: corrected
+  del_after:
+  - tmp/hammer_4s4u41jr
+  output_files:
+  - /data/ERR2090274_spades_assembly/corrected/corrected.yaml
+  path: /SPAdes-3.15.5-Linux/bin/spades-hammer
+  short_name: ec_runtool
+- STAGE: corrected reads compression
+  args:
+  - /SPAdes-3.15.5-Linux/share/spades/spades_pipeline/scripts/compress_all.py
+  - --input_file
+  - /data/ERR2090274_spades_assembly/corrected/corrected.yaml
+  - --ext_python_modules_home
+  - /SPAdes-3.15.5-Linux/share/spades
+  - --max_threads
+  - '8'
+  - --output_dir
+  - /data/ERR2090274_spades_assembly/corrected
+  - --gzip_output
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: /usr/bin/python
+  short_name: ec_compress
+- STAGE: Read error correction
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: ec_finish
+- STAGE: Assembling
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: as_start
+- STAGE: K21
+  args:
+  - /data/ERR2090274_spades_assembly/K21/configs/config.info
+  - /data/ERR2090274_spades_assembly/K21/configs/careful_mode.info
+  config_dir: K21
+  del_after: []
+  output_files: []
+  path: /SPAdes-3.15.5-Linux/bin/spades-core
+  short_name: k21
+- STAGE: K33
+  args:
+  - /data/ERR2090274_spades_assembly/K33/configs/config.info
+  - /data/ERR2090274_spades_assembly/K33/configs/careful_mode.info
+  config_dir: K33
+  del_after: []
+  output_files: []
+  path: /SPAdes-3.15.5-Linux/bin/spades-core
+  short_name: k33
+- STAGE: K55
+  args:
+  - /data/ERR2090274_spades_assembly/K55/configs/config.info
+  - /data/ERR2090274_spades_assembly/K55/configs/careful_mode.info
+  config_dir: K55
+  del_after: []
+  output_files: []
+  path: /SPAdes-3.15.5-Linux/bin/spades-core
+  short_name: k55
+- STAGE: Copy files
+  args:
+  - /SPAdes-3.15.5-Linux/share/spades/spades_pipeline/scripts/copy_files.py
+  - /data/ERR2090274_spades_assembly/K55/before_rr.fasta
+  - /data/ERR2090274_spades_assembly/before_rr.fasta
+  - /data/ERR2090274_spades_assembly/K55/assembly_graph_after_simplification.gfa
+  - /data/ERR2090274_spades_assembly/assembly_graph_after_simplification.gfa
+  - /data/ERR2090274_spades_assembly/K55/final_contigs.fasta
+  - /data/ERR2090274_spades_assembly/contigs.fasta
+  - /data/ERR2090274_spades_assembly/K55/first_pe_contigs.fasta
+  - /data/ERR2090274_spades_assembly/first_pe_contigs.fasta
+  - /data/ERR2090274_spades_assembly/K55/strain_graph.gfa
+  - /data/ERR2090274_spades_assembly/strain_graph.gfa
+  - /data/ERR2090274_spades_assembly/K55/scaffolds.fasta
+  - /data/ERR2090274_spades_assembly/scaffolds.fasta
+  - /data/ERR2090274_spades_assembly/K55/scaffolds.paths
+  - /data/ERR2090274_spades_assembly/scaffolds.paths
+  - /data/ERR2090274_spades_assembly/K55/assembly_graph_with_scaffolds.gfa
+  - /data/ERR2090274_spades_assembly/assembly_graph_with_scaffolds.gfa
+  - /data/ERR2090274_spades_assembly/K55/assembly_graph.fastg
+  - /data/ERR2090274_spades_assembly/assembly_graph.fastg
+  - /data/ERR2090274_spades_assembly/K55/final_contigs.paths
+  - /data/ERR2090274_spades_assembly/contigs.paths
+  config_dir: ''
+  del_after:
+  - .bin_reads
+  - tmp/spades_1oqfu6kd
+  output_files: []
+  path: /usr/bin/python
+  short_name: copy_files
+- STAGE: Assembling
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: as_finish
+- STAGE: Mismatch correction
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: mc_start
+- STAGE: Mismatch correction contigs
+  args:
+  - /SPAdes-3.15.5-Linux/share/spades/spades_pipeline/scripts/correction_iteration_script.py
+  - --corrected
+  - /data/ERR2090274_spades_assembly/contigs.fasta
+  - --assembled
+  - /data/ERR2090274_spades_assembly/misc/assembled_contigs.fasta
+  - --assembly_type
+  - contigs
+  - --output_dir
+  - /data/ERR2090274_spades_assembly
+  - --bin_home
+  - /SPAdes-3.15.5-Linux/bin
+  config_dir: mismatch_corrector/contigs
+  del_after:
+  - mismatch_corrector/contigs/tmp
+  - tmp/corrector_p0ypwt5e
+  output_files: []
+  path: /usr/bin/python
+  short_name: mc_contigs
+- STAGE: Mismatch correction scaffolds
+  args:
+  - /SPAdes-3.15.5-Linux/share/spades/spades_pipeline/scripts/correction_iteration_script.py
+  - --corrected
+  - /data/ERR2090274_spades_assembly/scaffolds.fasta
+  - --assembled
+  - /data/ERR2090274_spades_assembly/misc/assembled_scaffolds.fasta
+  - --assembly_type
+  - scaffolds
+  - --output_dir
+  - /data/ERR2090274_spades_assembly
+  - --bin_home
+  - /SPAdes-3.15.5-Linux/bin
+  config_dir: mismatch_corrector/scaffolds
+  del_after:
+  - mismatch_corrector/scaffolds/tmp
+  - tmp/corrector_r_2s94ju
+  output_files: []
+  path: /usr/bin/python
+  short_name: mc_scaffolds
+- STAGE: Mismatch correction
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: mc_finish
+- STAGE: Breaking scaffolds
+  args:
+  - /SPAdes-3.15.5-Linux/share/spades/spades_pipeline/scripts/breaking_scaffolds_script.py
+  - --result_scaffolds_filename
+  - /data/ERR2090274_spades_assembly/scaffolds.fasta
+  - --misc_dir
+  - /data/ERR2090274_spades_assembly/misc
+  - --threshold_for_breaking_scaffolds
+  - '3'
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: /usr/bin/python
+  short_name: bs
+- STAGE: Terminate
+  args: []
+  config_dir: ''
+  del_after:
+  - configs
+  output_files: []
+  path: 'true'
+  short_name: terminate

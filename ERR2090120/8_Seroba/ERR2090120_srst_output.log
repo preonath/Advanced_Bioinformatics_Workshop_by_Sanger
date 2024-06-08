@@ -1,0 +1,5 @@
+02/17/2023 08:45:54 program started
+02/17/2023 08:45:54 command line: /usr/local/bin/srst2 --input_pe ERR2090120_1.fastq.gz ERR2090120_2.fastq.gz --output ERR2090120_srst_output --log --gene_db /home/preonath/Desktop/Data/Traning/Seroba/s.agalactiae/GBS-SBG/GBS-SBG.fasta
+02/17/2023 08:45:54 Total paired readsets found:1
+02/17/2023 08:45:54 Building bowtie2 index for /home/preonath/Desktop/Data/Traning/Seroba/s.agalactiae/GBS-SBG/GBS-SBG.fasta...
+02/17/2023 08:45:54 Running: bowtie2-build /home/preonath/Desktop/Data/Traning/Seroba/s.agalactiae/GBS-SBG/GBS-SBG.fasta /home/preonath/Desktop/Data/Traning/Seroba/s.agalactiae/GBS-SBG/GBS-SBG.fasta

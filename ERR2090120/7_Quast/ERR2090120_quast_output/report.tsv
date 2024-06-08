@@ -1,0 +1,29 @@
+Assembly	ERR2090120_contigs
+# contigs (>= 0 bp)	329
+# contigs (>= 1000 bp)	55
+# contigs (>= 5000 bp)	47
+# contigs (>= 10000 bp)	44
+# contigs (>= 25000 bp)	30
+# contigs (>= 50000 bp)	18
+Total length (>= 0 bp)	2144073
+Total length (>= 1000 bp)	2111837
+Total length (>= 5000 bp)	2093149
+Total length (>= 10000 bp)	2076316
+Total length (>= 25000 bp)	1841275
+Total length (>= 50000 bp)	1381115
+# contigs	58
+Largest contig	136420
+Total length	2113756
+GC (%)	39.45
+N50	59664
+N75	40039
+L50	13
+L75	23
+# total reads	3017386
+# left	1506361
+# right	1506361
+Mapped (%)	99.86
+Properly paired (%)	97.63
+Avg. coverage depth	177
+Coverage >= 1x (%)	100.0
+# N's per 100 kbp	0.00

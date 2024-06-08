@@ -1,0 +1,21 @@
+02/18/2023 02:22:24 program started
+02/18/2023 02:22:24 command line: /usr/local/bin/srst2 --input_pe ERR2090315_1.fastq.gz ERR2090315_2.fastq.gz --output ERR2090315_srst_output --log --gene_db GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:22:24 Total paired readsets found:1
+02/18/2023 02:22:24 Building bowtie2 index for GBS-SBG/GBS-SBG.fasta...
+02/18/2023 02:22:24 Running: bowtie2-build GBS-SBG/GBS-SBG.fasta GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:22:24 Processing database GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:22:24 Running: samtools faidx GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:22:24 Processing sample ERR2090315
+02/18/2023 02:22:24 Starting mapping with bowtie2
+02/18/2023 02:22:24 Output prefix set to: ERR2090315_srst_output__ERR2090315.GBS-SBG
+02/18/2023 02:22:24 Aligning reads to index GBS-SBG/GBS-SBG.fasta using bowtie2...
+02/18/2023 02:22:24 Running: bowtie2 -1 ERR2090315_1.fastq.gz -2 ERR2090315_2.fastq.gz -S ERR2090315_srst_output__ERR2090315.GBS-SBG.sam -q --very-sensitive-local --no-unal -a -x GBS-SBG/GBS-SBG.fasta
+02/18/2023 02:23:38 Processing Bowtie2 output with SAMtools...
+02/18/2023 02:23:38 Generate and sort BAM file...
+02/18/2023 02:23:38 Running: samtools view -b -o ERR2090315_srst_output__ERR2090315.GBS-SBG.unsorted.bam -q 1 -S ERR2090315_srst_output__ERR2090315.GBS-SBG.sam.mod
+02/18/2023 02:23:39 {'message': "Command 'samtools view -b -o ERR2090315_srst_output__ERR2090315.GBS-SBG.unsorted.bam -q 1 -S ERR2090315_srst_output__ERR2090315.GBS-SBG.sam.mod' failed with non-zero exit status: 1"}
+02/18/2023 02:23:39  failed gene detection
+02/18/2023 02:23:39 Tabulating results for database GBS-SBG/GBS-SBG.fasta ...
+02/18/2023 02:23:39 Finished processing for database GBS-SBG/GBS-SBG.fasta ...
+02/18/2023 02:23:39 Gene detection output printed to ERR2090315_srst_output__genes__GBS-SBG__results.txt
+02/18/2023 02:23:39 SRST2 has finished.

@@ -1,0 +1,4 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:21.480    30M / 2544M WARN    General                 (launcher.cpp              : 178)   Your data seems to have high uniform coverage depth. It is strongly recommended to use --isolate option.
+======= Warnings saved to /data/ERR2090378_spades_assembly/warnings.log
